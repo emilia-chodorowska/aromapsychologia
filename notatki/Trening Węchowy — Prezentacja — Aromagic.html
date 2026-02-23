@@ -46,6 +46,7 @@
       padding: 2.5em 4em 2em !important;
       height: 100%;
       box-sizing: border-box;
+      overflow: hidden;
     }
 
     /* Left-aligned variant */
@@ -307,6 +308,7 @@
       color: var(--text) !important;
       font-size: 0.58em !important;
       margin: 0 !important;
+      max-width: none !important;
     }
 
     /* Progress & slide number */
@@ -356,7 +358,7 @@
   </style>
 </head>
 <body>
-  <div class="reveal debug">
+  <div class="reveal">
     <div class="slides">
 
       <!-- 1. TYTUŁ -->
@@ -398,7 +400,7 @@
           <p style="margin-bottom: 0.5em;">Trening węchowy wykazuje skuteczność <strong>porównywalną z terapią sterydową</strong> i <strong>zwiększa objętość istoty szarej</strong> w mózgu.</p>
           <p style="color: var(--purple); font-weight: 600;">Twój mózg jest plastyczny — trening to proces jego fizycznej odbudowy.</p>
         </div>
-        <div style="flex: 0 0 45%; background: white; display: flex; align-items: center; justify-content: center; padding: 2em; box-sizing: border-box;">
+        <div style="flex: 0 0 40%; background: white; display: flex; align-items: center; justify-content: center; padding: 2em; box-sizing: border-box;">
           <blockquote style="background: var(--purple-soft); border-radius: 0; max-width: none; margin: 0; border-left: 4px solid var(--purple);">
             <p><em>„Systematyczny trening węchowy wykazuje skuteczność porównywalną z terapią sterydową. Regularna stymulacja zwiększa objętość istoty szarej w mózgu. Twój mózg jest plastyczny — trening to proces jego fizycznej odbudowy."</em></p>
             <p class="cite">— metaanalizy prof. Thomasa Hummela</p>
@@ -433,12 +435,12 @@
 
       <!-- 5. PRZYGOTOWANIE KROK PO KROKU -->
       <section style="flex-direction: row !important; padding: 0 !important; align-items: stretch !important;">
-        <div style="flex: 0 0 45%; background: var(--purple-soft); display: flex; align-items: center; justify-content: center; color: var(--purple); font-size: 0.5em; font-weight: 500;">[ grafika ]</div>
+        <div style="flex: 0 0 40%; background: var(--purple-soft); display: flex; align-items: center; justify-content: center; color: var(--purple); font-size: 0.5em; font-weight: 500;">[ grafika ]</div>
         <div style="flex: 1; display: flex; flex-direction: column; justify-content: center; padding: 2.5em 4em 2em 2.5em; text-align: left;">
           <img src="aromagic_logo.png" class="logo" style="align-self: flex-start;" />
           <span class="pill" style="align-self: flex-start;">2 · Warsztat zapachowy</span>
           <h2 style="margin-bottom: 0.5em;">Jak przygotować słoiczek?</h2>
-          <ol style="padding-left: 1.6em; margin: 0;">
+          <ol style="padding-left: 0; margin: 0; list-style-position: inside;">
             <li>Włóż do słoiczka pasek papieru akwarelowego</li>
             <li>Nasącz go <strong>4–8 kroplami</strong> wybranego olejku</li>
             <li>Szczelnie zakręć i odczekaj godzinę</li>
@@ -452,14 +454,14 @@
       </section>
 
       <!-- 6. WYBÓR ZAPACHÓW -->
-      <section class="bg-soft">
+      <section style="background: #ffffff;">
         <img src="aromagic_logo.png" class="logo" />
         <span class="pill">3 · Wybór zapachów</span>
         <h2>Jakie zapachy wybrać?</h2>
         <p class="sub" style="max-width: 100%;">Zestaw treningowy składa się z <strong>czterech grup</strong>, w tym zapachów <strong>bimodalnych</strong>.</p>
         <table style="width: 100%; font-size: 0.58em; border: none; border-radius: 12px; max-width: none; margin: 0;">
           <thead>
-            <tr><th style="padding: 14px 20px;">Grupa zapachowa</th><th style="padding: 14px 20px;">Zamienniki</th><th style="padding: 14px 20px;">Dlaczego ten wybór?</th></tr>
+            <tr><th style="padding: 14px 20px;">Grupa zapachowa</th><th style="padding: 14px 20px;">Zamienniki</th><th style="padding: 14px 20px;">Dlaczego?</th></tr>
           </thead>
           <tbody>
             <tr><td style="padding: 14px 20px;">🌹 Kwiatowa (Róża)</td><td style="padding: 14px 20px;">Geranium, ylang-ylang</td><td style="padding: 14px 20px;">Pobudza subtelne receptory węchowe</td></tr>
@@ -474,22 +476,22 @@
       </section>
 
       <!-- 7. TECHNIKA MAŁYCH WDECHÓW -->
-      <section>
+      <section style="padding: 1.5em 4em 2em !important;">
         <img src="aromagic_logo.png" class="logo" />
         <span class="pill">4 · Technika oddechowa</span>
         <h2>Technika „małych wdechów"</h2>
         <p class="sub"><strong>Głęboki wdech omija nabłonek węchowy</strong> — kieruje powietrze prosto do płuc.</p>
-        <div class="card-grid cols-2">
-          <div class="card" style="display: flex; flex-direction: row; align-items: center; gap: 1em;">
-            <div style="background: var(--purple-soft); border-radius: 8px; min-width: 140px; height: 140px; display: flex; align-items: center; justify-content: center; color: var(--purple); font-size: 0.5em; font-weight: 500; flex-shrink: 0;">[ grafika ]</div>
-            <div>
+        <div style="display: flex; gap: 12px; width: 100%; flex: 1 1 0; min-height: 0; overflow: hidden;">
+          <div class="card" style="flex: 1; display: flex; flex-direction: column; gap: 0.6em; min-height: 0; overflow: hidden;">
+            <div style="background: var(--purple-soft); border-radius: 8px; flex: 1; min-height: 0; display: flex; align-items: center; justify-content: center; color: var(--purple); font-size: 0.5em; font-weight: 500;">[ grafika ]</div>
+            <div style="flex-shrink: 0;">
               <h3>Prawidłowa technika</h3>
               <p>Krótkie, małe wdechy — jak pies na spacerze. Tworzysz zawirowania kierujące headspace na pole węchowe.</p>
             </div>
           </div>
-          <div class="card" style="display: flex; flex-direction: row; align-items: center; gap: 1em;">
-            <div style="background: var(--purple-soft); border-radius: 8px; min-width: 140px; height: 140px; display: flex; align-items: center; justify-content: center; color: var(--purple); font-size: 0.5em; font-weight: 500; flex-shrink: 0;">[ grafika ]</div>
-            <div>
+          <div class="card" style="flex: 1; display: flex; flex-direction: column; gap: 0.6em; min-height: 0; overflow: hidden;">
+            <div style="background: var(--purple-soft); border-radius: 8px; flex: 1; min-height: 0; display: flex; align-items: center; justify-content: center; color: var(--purple); font-size: 0.5em; font-weight: 500;">[ grafika ]</div>
+            <div style="flex-shrink: 0;">
               <h3>Błąd do unikania</h3>
               <p>Głęboki, długi wdech nosem — omija nabłonek i nie stymuluje receptorów węchowych.</p>
             </div>
@@ -512,7 +514,7 @@
             <li>Powtarzaj <strong>2× dziennie: rano i wieczorem</strong></li>
           </ul>
         </div>
-        <div style="flex: 0 0 45%; background: var(--purple-soft); display: flex; align-items: center; justify-content: center; color: var(--purple); font-size: 0.5em; font-weight: 500;">[ grafika ]</div>
+        <div style="flex: 0 0 40%; background: var(--purple-soft); display: flex; align-items: center; justify-content: center; color: var(--purple); font-size: 0.5em; font-weight: 500;">[ grafika ]</div>
       </section>
 
       <!-- 9. PRACA MENTALNA -->
@@ -541,19 +543,19 @@
           <h2 style="margin-bottom: 0.3em;">Jak śledzić postępy?</h2>
           <p style="margin-bottom: 0.6em;">Pierwsze efekty pojawiają się po ok. <strong>4 miesiącach</strong>. Pełna rehabilitacja trwa <strong>14–24 miesięcy</strong>.</p>
           <table style="font-size: 0.58em; border: none; border-radius: 12px; max-width: none; margin: 0;">
-            <thead><tr><th style="padding: 14px 20px;">Pole</th><th style="padding: 14px 20px;">Wpis</th></tr></thead>
+            <thead><tr><th style="padding: 8px 20px;">Pole</th><th style="padding: 8px 20px;">Wpis</th></tr></thead>
             <tbody>
-              <tr><td style="padding: 14px 20px;"><strong>Data</strong></td><td style="padding: 14px 20px;">..................</td></tr>
-              <tr><td style="padding: 14px 20px;"><strong>Zapach</strong></td><td style="padding: 14px 20px;">..................</td></tr>
-              <tr><td style="padding: 14px 20px;"><strong>Odczucia</strong></td><td style="padding: 14px 20px;">nic / chłód / zniekształcony / czysty</td></tr>
-              <tr><td style="padding: 14px 20px;"><strong>Intensywność</strong></td><td style="padding: 14px 20px;">0 – 1 – 2 – 3 – 4 – 5</td></tr>
+              <tr><td style="padding: 8px 20px;"><strong>Data</strong></td><td style="padding: 8px 20px;">..................</td></tr>
+              <tr><td style="padding: 8px 20px;"><strong>Zapach</strong></td><td style="padding: 8px 20px;">..................</td></tr>
+              <tr><td style="padding: 8px 20px;"><strong>Odczucia</strong></td><td style="padding: 8px 20px;">nic / chłód / zniekształcony / czysty</td></tr>
+              <tr><td style="padding: 8px 20px;"><strong>Intensywność</strong></td><td style="padding: 8px 20px;">0 – 1 – 2 – 3 – 4 – 5</td></tr>
             </tbody>
           </table>
           <div class="accent-box" style="background: var(--green-soft); max-width: none; width: 100%; box-sizing: border-box; margin-top: 0.5em;">
             <p>✅ <strong>Parosmia = dobry znak!</strong> Zniekształcone zapachy (np. zapach gumy zamiast kawy) to dowód, że neurony nawiązują nowe połączenia.</p>
           </div>
         </div>
-        <div style="flex: 0 0 45%; background: var(--purple-soft); display: flex; align-items: center; justify-content: center; color: var(--purple); font-size: 0.5em; font-weight: 500;">[ grafika ]</div>
+        <div style="flex: 0 0 40%; background: var(--purple-soft); display: flex; align-items: center; justify-content: center; color: var(--purple); font-size: 0.5em; font-weight: 500;">[ grafika ]</div>
       </section>
 
       <!-- 11. SZERSZE KORZYŚCI -->
@@ -593,7 +595,7 @@
           <h3>Łączność strukturalna</h3>
           <p>Długoterminowa ekspozycja na bodźce węchowe <strong>przebudowuje szlaki nerwowe</strong>. Nawet nocna ekspozycja (2h/noc przez 6 miesięcy) poprawia fizyczną łączność między układem limbicznym a korą mózgową.</p>
         </div>
-        <div style="flex: 0 0 45%; background: var(--purple-soft); display: flex; align-items: center; justify-content: center; color: var(--purple); font-size: 0.5em; font-weight: 500;">[ grafika ]</div>
+        <div style="flex: 0 0 40%; background: var(--purple-soft); display: flex; align-items: center; justify-content: center; color: var(--purple); font-size: 0.5em; font-weight: 500;">[ grafika ]</div>
       </section>
 
       <!-- 13. ZŁOTE ZASADY -->
@@ -613,7 +615,7 @@
             <p>💜 Trening węchowy to nie alternatywa — to <strong>jedyna metoda o udowodnionej skuteczności</strong> w rehabilitacji powonienia.</p>
           </div>
         </div>
-        <div style="flex: 0 0 45%; background: var(--purple-soft); display: flex; align-items: center; justify-content: center; color: var(--purple); font-size: 0.5em; font-weight: 500;">[ grafika ]</div>
+        <div style="flex: 0 0 40%; background: var(--purple-soft); display: flex; align-items: center; justify-content: center; color: var(--purple); font-size: 0.5em; font-weight: 500;">[ grafika ]</div>
       </section>
 
     </div>
