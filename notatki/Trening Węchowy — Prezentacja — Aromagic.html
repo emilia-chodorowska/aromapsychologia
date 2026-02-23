@@ -151,7 +151,7 @@
       display: grid;
       gap: 12px;
       width: 100%;
-      max-width: 900px;
+      max-width: none;
       margin: 0.3em auto 0;
     }
     .card-grid.cols-2 { grid-template-columns: 1fr 1fr; }
@@ -170,9 +170,10 @@
       font-size: 0.65em;
       margin: 0 0 0.3em 0;
     }
-    .card p {
+    .reveal .card p {
       font-size: 0.56em;
       margin: 0;
+      max-width: none;
       line-height: 1.6;
     }
     .card .icon {
@@ -322,7 +323,21 @@
     }
 
     /* DEBUG MODE — usuń klasę .debug z .reveal żeby wyłączyć */
-    .debug .slides section { outline: 2px dashed red; }
+    .debug .slides section {
+      outline: 2px dashed red;
+    }
+    /* Safe zone — czerwona linia dolnego marginesu */
+    .debug .slides section::after {
+      content: "";
+      position: absolute;
+      left: 4em;
+      right: 4em;
+      bottom: 2em;
+      height: 0;
+      border-bottom: 1px dashed rgba(255,0,0,0.4);
+      pointer-events: none;
+      z-index: 999;
+    }
     .debug .slides section > div { outline: 2px dashed blue; }
     .debug .slides section > div > div { outline: 1px dashed green; }
     .debug .slides h2 { outline: 1px dashed orange; }
@@ -397,7 +412,7 @@
         <span class="pill">2 · Warsztat zapachowy</span>
         <h2>Co przygotować?</h2>
         <p class="sub">Potrzebujemy stworzyć <strong>headspace</strong> — nasyconą cząsteczkami przestrzeń nad źródłem zapachu.</p>
-        <div class="card-grid cols-3" style="max-width: none; margin: 0.3em 0 0;">
+        <div class="card-grid cols-3" style="margin: 0.3em 0 0;">
           <div class="card" style="text-align: center;">
             <div style="background: var(--purple-soft); border-radius: 8px; height: 100px; display: flex; align-items: center; justify-content: center; margin-bottom: 0.6em; font-size: 2.2em;">🫙</div>
             <h3>Słoiczki z ciemnego szkła</h3>
@@ -442,21 +457,19 @@
         <span class="pill">3 · Wybór zapachów</span>
         <h2>Jakie zapachy wybrać?</h2>
         <p class="sub" style="max-width: 100%;">Zestaw treningowy składa się z <strong>czterech grup</strong>, w tym zapachów <strong>bimodalnych</strong>.</p>
-        <div style="width: 100%; max-width: 950px; display: flex; flex-direction: column; flex: 1;">
-          <table style="width: 100%; font-size: 0.58em; border: none; border-radius: 12px; max-width: none; margin: 0;">
-            <thead>
-              <tr><th style="padding: 14px 20px;">Grupa zapachowa</th><th style="padding: 14px 20px;">Zamienniki</th><th style="padding: 14px 20px;">Dlaczego ten wybór?</th></tr>
-            </thead>
-            <tbody>
-              <tr><td style="padding: 14px 20px;">🌹 Kwiatowa (Róża)</td><td style="padding: 14px 20px;">Geranium, ylang-ylang</td><td style="padding: 14px 20px;">Pobudza subtelne receptory węchowe</td></tr>
-              <tr><td style="padding: 14px 20px;">🍋 Owocowa (Cytryna)</td><td style="padding: 14px 20px;">Pomarańcza, grejpfrut</td><td style="padding: 14px 20px;">Wysoka intensywność, łatwa identyfikacja</td></tr>
-              <tr><td style="padding: 14px 20px;">🌿 Korzenna (Goździki)</td><td style="padding: 14px 20px;">Cynamon, wanilia</td><td style="padding: 14px 20px;">Silne zakotwiczenie w pamięci (np. kuchnia dzieciństwa)</td></tr>
-              <tr><td style="padding: 14px 20px;">🌬️ Żywicza (Eukaliptus)</td><td style="padding: 14px 20px;">Mięta, rozmaryn</td><td style="padding: 14px 20px;">Bimodalny: stymuluje nerw trójdzielny (uczucie chłodu)</td></tr>
-            </tbody>
-          </table>
-          <div class="accent-box" style="margin: auto 0 0 0; max-width: none; width: 100%; box-sizing: border-box;">
-            <p>💬 <strong>Pamięć węchowa:</strong> Wybieraj aromaty budzące silne wspomnienia — emocjonalny ślad ułatwia regenerację połączeń synaptycznych.</p>
-          </div>
+        <table style="width: 100%; font-size: 0.58em; border: none; border-radius: 12px; max-width: none; margin: 0;">
+          <thead>
+            <tr><th style="padding: 14px 20px;">Grupa zapachowa</th><th style="padding: 14px 20px;">Zamienniki</th><th style="padding: 14px 20px;">Dlaczego ten wybór?</th></tr>
+          </thead>
+          <tbody>
+            <tr><td style="padding: 14px 20px;">🌹 Kwiatowa (Róża)</td><td style="padding: 14px 20px;">Geranium, ylang-ylang</td><td style="padding: 14px 20px;">Pobudza subtelne receptory węchowe</td></tr>
+            <tr><td style="padding: 14px 20px;">🍋 Owocowa (Cytryna)</td><td style="padding: 14px 20px;">Pomarańcza, grejpfrut</td><td style="padding: 14px 20px;">Wysoka intensywność, łatwa identyfikacja</td></tr>
+            <tr><td style="padding: 14px 20px;">🌿 Korzenna (Goździki)</td><td style="padding: 14px 20px;">Cynamon, wanilia</td><td style="padding: 14px 20px;">Silne zakotwiczenie w pamięci (np. kuchnia dzieciństwa)</td></tr>
+            <tr><td style="padding: 14px 20px;">🌬️ Żywicza (Eukaliptus)</td><td style="padding: 14px 20px;">Mięta, rozmaryn</td><td style="padding: 14px 20px;">Bimodalny: stymuluje nerw trójdzielny (uczucie chłodu)</td></tr>
+          </tbody>
+        </table>
+        <div class="accent-box" style="margin-top: auto; max-width: none; width: 100%; box-sizing: border-box;">
+          <p>💬 <strong>Pamięć węchowa:</strong> Wybieraj aromaty budzące silne wspomnienia — emocjonalny ślad ułatwia regenerację połączeń synaptycznych.</p>
         </div>
       </section>
 
@@ -466,7 +479,7 @@
         <span class="pill">4 · Technika oddechowa</span>
         <h2>Technika „małych wdechów"</h2>
         <p class="sub"><strong>Głęboki wdech omija nabłonek węchowy</strong> — kieruje powietrze prosto do płuc.</p>
-        <div class="card-grid cols-2" style="max-width: 850px;">
+        <div class="card-grid cols-2">
           <div class="card" style="display: flex; flex-direction: row; align-items: center; gap: 1em;">
             <div style="background: var(--purple-soft); border-radius: 8px; min-width: 140px; height: 140px; display: flex; align-items: center; justify-content: center; color: var(--purple); font-size: 0.5em; font-weight: 500; flex-shrink: 0;">[ grafika ]</div>
             <div>
@@ -490,7 +503,7 @@
           <img src="aromagic_logo.png" class="logo" style="align-self: flex-start;" />
           <span class="pill" style="align-self: flex-start;">4 · Sesja treningowa</span>
           <h2 style="margin-bottom: 0.5em;">Jak wygląda sesja treningowa?</h2>
-          <ul class="check-list">
+          <ul class="check-list" style="max-width: none; margin: 0;">
             <li>Wybierz spokojne miejsce, wycisz telefon</li>
             <li>Otwórz słoiczek, zbliż go do nosa</li>
             <li><strong>20 sekund</strong> wąchania techniką małych wdechów</li>
@@ -508,7 +521,7 @@
         <span class="pill">5 · Praca mentalna</span>
         <h2>Wąchaj wyobraźnią</h2>
         <p class="sub">Samo <strong>wyobrażanie sobie zapachu</strong> aktywuje korę węchową — nawet bez fizycznego bodźca. Dlatego podczas wąchania angażuj jednocześnie umysł.</p>
-        <div class="card-grid cols-2" style="max-width: 850px;">
+        <div class="card-grid cols-2">
           <div class="card">
             <h3>Wizualizacja podczas wąchania</h3>
             <p><strong>Zamknij oczy</strong> i przywołaj pełen obraz obiektu — kolor cytryny, fakturę skórki, kwaśny smak, chłód z lodówki. Im więcej zmysłów zaangażujesz mentalnie, tym silniejszy sygnał dla mózgu.</p>
@@ -549,7 +562,7 @@
         <span class="pill">7 · Szersze korzyści</span>
         <h2>Nie tylko po wirusie</h2>
         <p class="sub">Trening węchowy przynosi szersze korzyści dla mózgu:</p>
-        <div class="card-grid cols-2" style="max-width: 750px;">
+        <div class="card-grid cols-2">
           <div class="card">
             <h3>Funkcje poznawcze</h3>
             <p>Udowodniona poprawa m.in. u osób starszych.</p>
@@ -574,7 +587,7 @@
         <div style="flex: 1; display: flex; flex-direction: column; justify-content: center; padding: 2.5em 2.5em 2em 4em; text-align: left;">
           <img src="aromagic_logo.png" class="logo" style="align-self: flex-start;" />
           <span class="pill" style="align-self: flex-start;">7 · Neuroplastyczność</span>
-          <h2 style="margin-bottom: 0.3em;">Jak mózg się odbudowuje?</h2>
+          <h2 style="margin-bottom: 0.3em;">Mózg się przebudowuje</h2>
           <h3>Istota szara</h3>
           <p>Anosmia powoduje utratę istoty szarej. Systematyczny trening <strong>fizycznie zwiększa jej objętość</strong>, odwracając negatywne skutki utraty powonienia.</p>
           <h3>Łączność strukturalna</h3>
@@ -584,32 +597,23 @@
       </section>
 
       <!-- 13. ZŁOTE ZASADY -->
-      <section>
-        <img src="aromagic_logo.png" class="logo" />
-        <span class="pill">8 · Podsumowanie</span>
-        <h2>Zapamiętaj te zasady</h2>
-        <div class="card-grid cols-2" style="max-width: 750px; margin-top: 0.3em;">
-          <div class="card">
-            <h3>1. Systematyczność</h3>
-            <p>2× dziennie, codziennie. To Twoje lekarstwo.</p>
-          </div>
-          <div class="card">
-            <h3>2. Technika oddechu</h3>
-            <p>Krótkie, „węszące" wdechy. Nie omijaj receptorów.</p>
-          </div>
-          <div class="card">
-            <h3>3. Wyobraźnia</h3>
-            <p>Mózg reaguje na wspomnienie zapachu tak samo intensywnie.</p>
-          </div>
-          <div class="card">
-            <h3>4. Stymulacja trójdzielna</h3>
-            <p>Zawsze mięta lub eukaliptus w zestawie.</p>
-          </div>
-          <div class="card" style="grid-column: 1 / -1;">
-            <h3>5. Czas i cierpliwość</h3>
-            <p>Daj sobie minimum 4 miesiące na pierwszy sygnał powrotu do zdrowia.</p>
+      <section style="flex-direction: row !important; padding: 0 !important; align-items: stretch !important;">
+        <div style="flex: 1; display: flex; flex-direction: column; justify-content: center; padding: 2.5em 2.5em 2em 4em; text-align: left;">
+          <img src="aromagic_logo.png" class="logo" style="align-self: flex-start;" />
+          <span class="pill" style="align-self: flex-start;">8 · Podsumowanie</span>
+          <h2 style="margin-bottom: 0.5em;">Zapamiętaj te zasady</h2>
+          <ul class="check-list" style="max-width: none; margin: 0;">
+            <li><strong>Systematyczność</strong> — 2× dziennie, codziennie.</li>
+            <li><strong>Technika oddechu</strong> — krótkie, „węszące" wdechy.</li>
+            <li><strong>Wyobraźnia</strong> — mózg reaguje na wspomnienie zapachu tak samo intensywnie.</li>
+            <li><strong>Stymulacja trójdzielna</strong> — zawsze mięta lub eukaliptus w zestawie.</li>
+            <li><strong>Czas i cierpliwość</strong> — daj sobie minimum 4 miesiące na pierwszy sygnał powrotu.</li>
+          </ul>
+          <div class="accent-box" style="max-width: none; width: 100%; box-sizing: border-box; margin-top: 0.6em;">
+            <p>💜 Trening węchowy to nie alternatywa — to <strong>jedyna metoda o udowodnionej skuteczności</strong> w rehabilitacji powonienia.</p>
           </div>
         </div>
+        <div style="flex: 0 0 45%; background: var(--purple-soft); display: flex; align-items: center; justify-content: center; color: var(--purple); font-size: 0.5em; font-weight: 500;">[ grafika ]</div>
       </section>
 
     </div>
