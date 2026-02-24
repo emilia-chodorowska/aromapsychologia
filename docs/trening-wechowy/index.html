@@ -371,6 +371,11 @@
       justify-content: center !important;
     }
 
+    /* Portrait mode (mobile) — applied via JS class toggle */
+    .reveal.portrait .slides section {
+      padding: 2em 2.5em 1.5em !important;
+    }
+
     /* DEBUG MODE — usuń klasę .debug z .reveal żeby wyłączyć */
     .debug .slides section {
       outline: 2px dashed red;
@@ -680,6 +685,55 @@
       transition: 'fade',
       transitionSpeed: 'fast',
     });
+
+    // Portrait / landscape responsive handler
+    (function() {
+      var splits = [];
+      document.querySelectorAll('.reveal .slides > section').forEach(function(s) {
+        var attr = s.getAttribute('style') || '';
+        if (attr.indexOf('flex-direction') !== -1 && attr.indexOf('row') !== -1) {
+          var imgPanel = null, textPanel = null;
+          var origTextPad = '';
+          Array.from(s.children).forEach(function(child) {
+            if ((child.style.flex || '').indexOf('40%') !== -1) {
+              imgPanel = child;
+            } else if (child.style.flex) {
+              textPanel = child;
+              origTextPad = child.style.padding;
+            }
+          });
+          splits.push({ section: s, imgPanel: imgPanel, textPanel: textPanel, origTextPad: origTextPad });
+        }
+      });
+
+      var current = null;
+      function update() {
+        var portrait = window.innerHeight > window.innerWidth * 1.1 && window.innerWidth < 1024;
+        var mode = portrait ? 'p' : 'l';
+        if (mode === current) return;
+        current = mode;
+
+        document.querySelector('.reveal').classList.toggle('portrait', portrait);
+        Reveal.configure(portrait ? { width: 700, height: 1000 } : { width: 1200, height: 700 });
+
+        splits.forEach(function(s) {
+          s.section.style.setProperty('flex-direction', portrait ? 'column' : 'row', 'important');
+          s.section.style.setProperty('padding', portrait ? '2em 2.5em' : '0', 'important');
+          if (s.imgPanel) {
+            s.imgPanel.style.setProperty('flex', portrait ? '0 0 30%' : '0 0 40%', 'important');
+          }
+          if (s.textPanel) {
+            s.textPanel.style.setProperty('padding', portrait ? '0' : s.origTextPad, 'important');
+          }
+        });
+
+        setTimeout(function() { Reveal.layout(); }, 50);
+      }
+
+      window.addEventListener('resize', update);
+      window.addEventListener('orientationchange', function() { setTimeout(update, 200); });
+      setTimeout(update, 100);
+    })();
 
     // Debug toggle — klawisz D
     document.addEventListener('keydown', function(e) {
