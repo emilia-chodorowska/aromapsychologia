@@ -373,6 +373,20 @@
       .reveal .controls { display: none !important; }
     }
 
+    /* Force landscape on portrait mobile */
+    @media screen and (orientation: portrait) and (max-width: 1024px) {
+      html, body { overflow: hidden !important; }
+      .reveal {
+        width: 100vh !important;
+        height: 100vw !important;
+        transform: translateX(100vw) rotate(90deg);
+        transform-origin: top left;
+        position: fixed;
+        top: 0;
+        left: 0;
+      }
+    }
+
     /* Title slide special */
     .title-slide {
       justify-content: center !important;
