@@ -373,18 +373,25 @@
       .reveal .controls { display: none !important; }
     }
 
-    /* Force landscape on portrait mobile */
+    /* Portrait overlay — rotate device hint */
+    .rotate-hint {
+      display: none;
+      position: fixed;
+      inset: 0;
+      z-index: 9999;
+      background: rgba(255,255,255,0.95);
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 1em;
+      font-family: "Inter", sans-serif;
+      color: #374151;
+      cursor: pointer;
+    }
+    .rotate-hint svg { width: 48px; height: 48px; opacity: 0.5; }
+    .rotate-hint p { font-size: 15px; margin: 0; }
     @media screen and (orientation: portrait) and (max-width: 1024px) {
-      html, body { overflow: hidden !important; }
-      .reveal {
-        width: 100vh !important;
-        height: 100vw !important;
-        transform: translateX(100vw) rotate(90deg);
-        transform-origin: top left;
-        position: fixed;
-        top: 0;
-        left: 0;
-      }
+      .rotate-hint { display: flex; }
     }
 
     /* Title slide special */
@@ -426,6 +433,10 @@
   </style>
 </head>
 <body>
+  <div class="rotate-hint" onclick="this.style.display='none'">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M4 17V7a2 2 0 012-2h12a2 2 0 012 2v10a2 2 0 01-2 2H6a2 2 0 01-2-2z"/><path d="M9 21h6M12 19v2"/></svg>
+    <p>Obróć telefon do widoku poziomego</p>
+  </div>
   <div class="reveal">
     <div class="slides">
 
