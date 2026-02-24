@@ -48,6 +48,11 @@
       -webkit-font-smoothing: antialiased;
     }
 
+    /* Subtle border around the slide area */
+    .reveal .slides {
+      border: 1px solid #E5E7EB;
+    }
+
     /* All slides: centered, padded, pinned to top */
     .reveal .slides section {
       display: flex !important;
@@ -80,16 +85,27 @@
       filter: brightness(0) saturate(100%) invert(58%) sepia(20%) saturate(450%) hue-rotate(93deg) brightness(93%) contrast(85%);
     }
     .title-slide {
-      background: url('img/grafika-zasady.png') center/cover no-repeat;
       position: relative;
     }
-    .title-slide::before {
-      content: '';
+    .title-slide .bg-photo {
       position: absolute;
-      inset: 0;
-      background: rgba(255, 255, 255, 0.82);
+      top: 0; left: 0; right: 0; bottom: 0;
+      width: 100% !important;
+      height: 100% !important;
+      object-fit: cover;
+      z-index: 0;
+      margin: 0 !important;
+      padding: 0 !important;
+      max-width: none !important;
+      max-height: none !important;
     }
-    .title-slide > * {
+    .title-slide .bg-overlay {
+      position: absolute;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: rgba(255, 255, 255, 0.82);
+      z-index: 0;
+    }
+    .title-slide > *:not(.bg-photo):not(.bg-overlay) {
       position: relative;
       z-index: 1;
     }
@@ -394,6 +410,8 @@
 
       <!-- 1. TYTUŁ -->
       <section class="title-slide">
+        <img class="bg-photo" src="img/grafika-zasady.png" alt="" />
+        <div class="bg-overlay"></div>
         <img class="logo" src="img/aromagic_logo.png" alt="Aromagic" />
         <span class="pill">Aromapsychologia</span>
         <h1><span class="sage">Trening węchowy</span><br/>w warunkach domowych</h1>
