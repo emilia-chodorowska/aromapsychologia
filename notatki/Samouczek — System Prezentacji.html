@@ -1,0 +1,870 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8" />
+  <title>Samouczek — System Prezentacji Reveal.js</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --purple: #7E57C2;
+      --purple-soft: #F3EEFA;
+      --purple-dark: #5E35B1;
+      --green: #4CAF50;
+      --green-soft: #E8F5E9;
+      --text: #111827;
+      --text-secondary: #6B7280;
+      --text-muted: #9CA3AF;
+      --bg: #ffffff;
+      --bg-soft: #F9FAFB;
+      --border: #E5E7EB;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: "Inter", -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+      color: var(--text);
+      background: var(--bg-soft);
+      -webkit-font-smoothing: antialiased;
+      line-height: 1.6;
+    }
+
+    .container {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 3em 2em 4em;
+    }
+
+    /* Header */
+    .page-header {
+      text-align: center;
+      margin-bottom: 3em;
+    }
+    .page-header h1 {
+      font-size: 2.2em;
+      font-weight: 700;
+      letter-spacing: -0.03em;
+      margin-bottom: 0.3em;
+    }
+    .page-header h1 span { color: var(--purple); }
+    .page-header p {
+      color: var(--text-secondary);
+      font-size: 1.05em;
+    }
+
+    /* Sections */
+    .section {
+      background: white;
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 2em 2.2em;
+      margin-bottom: 1.5em;
+    }
+    .section h2 {
+      font-size: 1.35em;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      margin-bottom: 0.2em;
+      display: flex;
+      align-items: center;
+      gap: 0.4em;
+    }
+    .section h2 .num {
+      background: var(--purple);
+      color: white;
+      font-size: 0.6em;
+      width: 1.8em;
+      height: 1.8em;
+      border-radius: 8px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+    .section > p.desc {
+      color: var(--text-secondary);
+      font-size: 0.92em;
+      margin-bottom: 1.2em;
+    }
+
+    /* Subsection */
+    h3 {
+      font-size: 0.95em;
+      font-weight: 600;
+      color: var(--purple);
+      margin: 1.3em 0 0.5em;
+    }
+    h3:first-of-type { margin-top: 0.6em; }
+
+    /* Slide type cards */
+    .type-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 14px;
+      margin-top: 0.8em;
+    }
+    .type-card {
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .type-card.wide { grid-column: span 2; }
+    .type-preview {
+      background: var(--bg-soft);
+      height: 140px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+      overflow: hidden;
+      border-bottom: 1px solid var(--border);
+    }
+    .type-preview.tall { height: 120px; }
+
+    /* Mini slide mockups */
+    .mini-slide {
+      width: 200px;
+      height: 116px;
+      background: white;
+      border-radius: 6px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+      padding: 10px 14px;
+      display: flex;
+      flex-direction: column;
+      font-size: 6px;
+      color: var(--text-secondary);
+      overflow: hidden;
+      position: relative;
+    }
+    .mini-slide.split-mock {
+      flex-direction: row;
+      padding: 0;
+    }
+    .mini-slide .m-logo {
+      width: 24px;
+      height: 4px;
+      background: var(--text-muted);
+      border-radius: 2px;
+      margin-bottom: 4px;
+      opacity: 0.4;
+    }
+    .mini-slide .m-pill {
+      background: var(--purple-soft);
+      color: var(--purple);
+      font-size: 5px;
+      font-weight: 600;
+      padding: 1px 5px;
+      border-radius: 20px;
+      align-self: flex-start;
+      margin-bottom: 3px;
+    }
+    .mini-slide .m-h2 {
+      font-size: 8px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 4px;
+    }
+    .mini-slide .m-h1 {
+      font-size: 12px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 2px;
+      text-align: center;
+    }
+    .mini-slide .m-h1 span { color: var(--purple); }
+    .mini-slide.center-mock {
+      align-items: center;
+      text-align: center;
+    }
+    .mini-slide.center-mock .m-pill { align-self: center; }
+    .mini-slide.title-mock {
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+    }
+    .mini-slide.title-mock .m-pill { align-self: center; }
+
+    /* Mini cards inside mini slide */
+    .m-cards {
+      display: flex;
+      gap: 4px;
+      width: 100%;
+    }
+    .m-card {
+      flex: 1;
+      background: white;
+      border: 1px solid var(--border);
+      border-radius: 3px;
+      padding: 4px;
+      font-size: 5px;
+    }
+    .m-card-head {
+      background: var(--purple-soft);
+      border-radius: 2px;
+      height: 16px;
+      margin-bottom: 3px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 8px;
+    }
+
+    /* Split mock */
+    .m-text-panel {
+      flex: 1;
+      padding: 10px 10px 8px 14px;
+      display: flex;
+      flex-direction: column;
+    }
+    .m-media-panel {
+      flex: 0 0 40%;
+      background: var(--purple-soft);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: var(--purple);
+      font-size: 7px;
+      font-weight: 500;
+    }
+
+    /* Type card text */
+    .type-info {
+      padding: 12px 16px;
+    }
+    .type-info .type-name {
+      font-weight: 700;
+      font-size: 0.95em;
+      margin-bottom: 2px;
+    }
+    .type-info .type-name code {
+      background: var(--purple-soft);
+      color: var(--purple);
+      padding: 2px 8px;
+      border-radius: 6px;
+      font-size: 0.85em;
+      font-weight: 600;
+      margin-left: 4px;
+    }
+    .type-info .type-desc {
+      color: var(--text-secondary);
+      font-size: 0.82em;
+      line-height: 1.5;
+    }
+
+    /* Block table */
+    table {
+      width: 100%;
+      border-collapse: separate;
+      border-spacing: 0;
+      font-size: 0.88em;
+      border-radius: 10px;
+      overflow: hidden;
+      border: 1px solid var(--border);
+      margin-top: 0.5em;
+    }
+    th {
+      background: var(--bg-soft);
+      color: var(--text);
+      padding: 10px 14px;
+      text-align: left;
+      font-weight: 600;
+      font-size: 0.9em;
+      border-bottom: 1px solid var(--border);
+    }
+    td {
+      padding: 9px 14px;
+      border-bottom: 1px solid var(--border);
+      color: var(--text-secondary);
+      background: white;
+      vertical-align: top;
+    }
+    tr:last-child td { border-bottom: none; }
+    td code {
+      background: var(--purple-soft);
+      color: var(--purple);
+      padding: 1px 6px;
+      border-radius: 4px;
+      font-size: 0.9em;
+      font-weight: 500;
+      white-space: nowrap;
+    }
+
+    /* Example boxes */
+    .example {
+      background: var(--bg-soft);
+      border-radius: 10px;
+      padding: 1em 1.2em;
+      margin-top: 0.6em;
+      font-size: 0.88em;
+      border-left: 3px solid var(--purple);
+    }
+    .example strong { color: var(--text); }
+    .example .label {
+      font-size: 0.78em;
+      font-weight: 600;
+      color: var(--purple);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      margin-bottom: 0.3em;
+    }
+    .example p {
+      color: var(--text-secondary);
+      margin: 0.2em 0;
+    }
+
+    /* Color swatches */
+    .theme-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 10px;
+      margin-top: 0.8em;
+    }
+    .theme-swatch {
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      overflow: hidden;
+      text-align: center;
+    }
+    .theme-swatch .colors {
+      height: 48px;
+      display: flex;
+    }
+    .theme-swatch .colors div {
+      flex: 1;
+    }
+    .theme-swatch .theme-label {
+      padding: 6px 8px;
+      font-size: 0.78em;
+      font-weight: 600;
+      color: var(--text);
+      background: white;
+      border-top: 1px solid var(--border);
+    }
+    .theme-swatch .theme-label span {
+      display: block;
+      font-weight: 400;
+      color: var(--text-muted);
+      font-size: 0.9em;
+    }
+
+    /* Tip box */
+    .tip {
+      background: var(--purple-soft);
+      border-radius: 10px;
+      padding: 0.8em 1.1em;
+      margin-top: 0.8em;
+      font-size: 0.88em;
+      color: var(--text);
+    }
+    .tip-green {
+      background: var(--green-soft);
+    }
+
+    /* Cheat sheet */
+    .cheat {
+      background: var(--text);
+      color: #E5E7EB;
+      border-radius: 10px;
+      padding: 1.2em 1.5em;
+      margin-top: 0.8em;
+      font-family: "SF Mono", "Fira Code", monospace;
+      font-size: 0.82em;
+      line-height: 1.7;
+      overflow-x: auto;
+    }
+    .cheat .k { color: #C084FC; }
+    .cheat .v { color: #86EFAC; }
+    .cheat .c { color: #6B7280; }
+
+    /* Corrections table */
+    .corrections {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      overflow: hidden;
+      margin-top: 0.5em;
+      font-size: 0.88em;
+    }
+    .corrections .col-head {
+      background: var(--bg-soft);
+      padding: 8px 14px;
+      font-weight: 600;
+      font-size: 0.85em;
+      border-bottom: 1px solid var(--border);
+    }
+    .corrections .col-head.bad { color: #EF4444; }
+    .corrections .col-head.good { color: var(--green); }
+    .corrections .cell {
+      padding: 8px 14px;
+      border-bottom: 1px solid var(--border);
+      color: var(--text-secondary);
+    }
+    .corrections .cell:nth-last-child(-n+2) { border-bottom: none; }
+    .corrections .cell.bad { background: #FEF2F2; }
+    .corrections .cell.good { background: #F0FDF4; }
+
+    /* Pill inline */
+    .pill-inline {
+      display: inline-block;
+      background: var(--purple-soft);
+      color: var(--purple);
+      font-size: 0.82em;
+      font-weight: 600;
+      padding: 2px 10px;
+      border-radius: 100px;
+    }
+
+    /* Flow diagram */
+    .flow {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin: 1em 0;
+      flex-wrap: wrap;
+    }
+    .flow-step {
+      background: white;
+      border: 2px solid var(--purple);
+      border-radius: 12px;
+      padding: 0.6em 1em;
+      font-size: 0.85em;
+      font-weight: 600;
+      color: var(--purple);
+      text-align: center;
+      min-width: 140px;
+    }
+    .flow-step.active {
+      background: var(--purple);
+      color: white;
+    }
+    .flow-arrow {
+      color: var(--text-muted);
+      font-size: 1.2em;
+    }
+
+    @media (max-width: 700px) {
+      .type-grid { grid-template-columns: 1fr; }
+      .type-card.wide { grid-column: span 1; }
+      .theme-grid { grid-template-columns: repeat(2, 1fr); }
+      .corrections { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+
+    <!-- HEADER -->
+    <div class="page-header">
+      <h1><span>System Prezentacji</span> Reveal.js</h1>
+      <p>Jak zamawiać slajdy, żeby Claude od razu trafiał w oczekiwania</p>
+    </div>
+
+    <!-- 0. WORKFLOW -->
+    <div class="section">
+      <h2><span class="num">0</span> Jak wygląda proces?</h2>
+      <p class="desc">Trzy fazy — od materiału do gotowej prezentacji.</p>
+
+      <div class="flow">
+        <div class="flow-step active">Markdown / notatki</div>
+        <span class="flow-arrow">&rarr;</span>
+        <div class="flow-step">Plan slajdów<br><span style="font-weight: 400; font-size: 0.85em;">(tabela do akceptacji)</span></div>
+        <span class="flow-arrow">&rarr;</span>
+        <div class="flow-step">Slajd po slajdzie<br><span style="font-weight: 400; font-size: 0.85em;">(review + debug mode)</span></div>
+        <span class="flow-arrow">&rarr;</span>
+        <div class="flow-step">PDF + Graphics Brief<br><span style="font-weight: 400; font-size: 0.85em;">(Decktape + prompty AI)</span></div>
+      </div>
+
+      <div class="tip">
+        <strong>Faza 1 &mdash; Plan:</strong> Dajesz mi ciągły markdown, notatki albo SRT. Proponuję podział na slajdy &mdash; ile, jakie typy, co gdzie. Akceptujesz lub korygujesz.<br><br>
+        <strong>Faza 2 &mdash; Slajd po slajdzie:</strong> Generuję pierwszy slajd &rarr; otwierasz w przeglądarce &rarr; <strong>klawisz D włącza debug mode</strong> (czerwone linie safe zone, obramowania elementów) &rarr; omawiamy &rarr; poprawki &rarr; akceptacja &rarr; następny slajd. Powtarzamy aż do końca.<br><br>
+        <strong>Faza 3 &mdash; Finalizacja:</strong> Po akceptacji wszystkich slajdów:<br>
+        &nbsp;&nbsp;&nbsp;1. Eksport do <strong>PDF</strong> przez Decktape: <code style="font-size: 0.85em;">decktape reveal "file://..." output.pdf --size 1920x1080</code><br>
+        &nbsp;&nbsp;&nbsp;2. <strong>Graphics Brief</strong> &mdash; lista brakujących grafik z promptami AI do wygenerowania
+      </div>
+    </div>
+
+    <!-- 1. TYPY SLAJDÓW -->
+    <div class="section">
+      <h2><span class="num">1</span> Typy slajdów (layout)</h2>
+      <p class="desc">Każdy slajd ma jeden z sześciu layoutów. Jeśli nie powiesz który — dobiorę sam.</p>
+
+      <div class="type-grid">
+        <!-- Row 1: Title + Section -->
+        <!-- TITLE -->
+        <div class="type-card">
+          <div class="type-preview">
+            <div class="mini-slide title-mock">
+              <div class="m-logo" style="align-self: center;"></div>
+              <div class="m-pill">Aromapsychologia</div>
+              <div class="m-h1"><span>Trening</span> w domu</div>
+              <div style="font-size: 5px; color: var(--text-muted); margin-top: 2px;">Emilia Chodorowska</div>
+            </div>
+          </div>
+          <div class="type-info">
+            <div class="type-name">Tytułowy <code>title</code></div>
+            <div class="type-desc">Wycentrowany pionowo. Duży h1, logo, pill, byline. Tylko jeden na prezentację. Opcjonalnie: grafika w tle + biały overlay (~0.82 opacity).</div>
+          </div>
+        </div>
+
+        <!-- SECTION DIVIDER -->
+        <div class="type-card">
+          <div class="type-preview">
+            <div class="mini-slide" style="align-items: center; justify-content: center; text-align: center; background: var(--bg-soft);">
+              <div class="m-pill" style="align-self: center;">3 &middot; Wybór zapachów</div>
+              <div class="m-h1" style="font-size: 10px;">Nowa sekcja</div>
+              <div style="font-size: 5px; color: var(--text-secondary); margin-top: 2px;">Krótki opis co będzie dalej</div>
+            </div>
+          </div>
+          <div class="type-info">
+            <div class="type-name">Przejściowy <code>section</code></div>
+            <div class="type-desc">Dzieli prezentację na części. Pill, duży nagłówek, opcjonalny podtytuł.</div>
+          </div>
+        </div>
+
+        <!-- Row 2: Center + Left -->
+        <!-- CENTER -->
+        <div class="type-card">
+          <div class="type-preview">
+            <div class="mini-slide center-mock" style="background: var(--bg-soft);">
+              <div class="m-logo" style="align-self: center;"></div>
+              <div class="m-pill">2 &middot; Sekcja</div>
+              <div class="m-h2">Nagłówek slajdu</div>
+              <div style="font-size: 5px; margin-bottom: 4px; color: var(--text-secondary);">Podtytuł opcjonalny</div>
+              <div class="m-cards">
+                <div class="m-card"><div class="m-card-head">A</div></div>
+                <div class="m-card"><div class="m-card-head">B</div></div>
+                <div class="m-card"><div class="m-card-head">C</div></div>
+              </div>
+            </div>
+          </div>
+          <div class="type-info">
+            <div class="type-name">Centrowany <code>center</code></div>
+            <div class="type-desc">Treść wycentrowana. Karty, tabele, listy. Opcja: <code>bg-soft</code> (szare tło).</div>
+          </div>
+        </div>
+
+        <!-- LEFT -->
+        <div class="type-card">
+          <div class="type-preview">
+            <div class="mini-slide">
+              <div class="m-logo"></div>
+              <div class="m-pill">1 &middot; Wstęp</div>
+              <div class="m-h2">Wyrównany do lewej</div>
+              <div style="font-size: 5px; margin-bottom: 4px; color: var(--text-secondary);">Opis pod nagłówkiem...</div>
+              <div class="m-cards">
+                <div class="m-card"><div class="m-card-head">A</div></div>
+                <div class="m-card"><div class="m-card-head">B</div></div>
+              </div>
+              <div style="background: var(--purple-soft); border-radius: 2px; padding: 3px 5px; font-size: 5px; margin-top: 4px; color: var(--text);">Accent-box na dole</div>
+            </div>
+          </div>
+          <div class="type-info">
+            <div class="type-name">Lewy <code>left</code></div>
+            <div class="type-desc">Treść wyrównana do lewej. Idealne dla kart z opisem, list + accent-box.</div>
+          </div>
+        </div>
+
+        <!-- Row 3: Split + Split-reverse -->
+        <!-- SPLIT -->
+        <div class="type-card">
+          <div class="type-preview">
+            <div class="mini-slide split-mock">
+              <div class="m-text-panel">
+                <div class="m-logo"></div>
+                <div class="m-pill">4 &middot; Sesja</div>
+                <div class="m-h2">Tekst po lewej</div>
+                <div style="font-size: 5px; color: var(--text-secondary);">Treść, lista, tabela...</div>
+              </div>
+              <div class="m-media-panel">grafika</div>
+            </div>
+          </div>
+          <div class="type-info">
+            <div class="type-name">Split <code>split</code></div>
+            <div class="type-desc">Tekst 60% po lewej + grafika/panel 40% po prawej.</div>
+          </div>
+        </div>
+
+        <!-- SPLIT-REVERSE -->
+        <div class="type-card">
+          <div class="type-preview">
+            <div class="mini-slide split-mock">
+              <div class="m-media-panel">grafika</div>
+              <div class="m-text-panel">
+                <div class="m-logo"></div>
+                <div class="m-pill">2 &middot; Warsztat</div>
+                <div class="m-h2">Tekst po prawej</div>
+                <div style="font-size: 5px; color: var(--text-secondary);">1. Krok pierwszy</div>
+              </div>
+            </div>
+          </div>
+          <div class="type-info">
+            <div class="type-name">Split odwrócony <code>split-reverse</code></div>
+            <div class="type-desc">Grafika 40% po lewej + tekst 60% po prawej. Przeplataj z <code>split</code>.</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 2. BLOKI TREŚCI -->
+    <div class="section">
+      <h2><span class="num">2</span> Bloki treści</h2>
+      <p class="desc">Co może się znajdować na slajdzie. Łącz dowolnie wewnątrz każdego layoutu.</p>
+
+      <table>
+        <thead>
+          <tr><th>Powiedz</th><th>Co dostaniesz</th><th>Kiedy używać</th></tr>
+        </thead>
+        <tbody>
+          <tr><td><code>cards-2</code></td><td>Dwie karty obok siebie</td><td>Porównania (Grypa vs COVID)</td></tr>
+          <tr><td><code>cards-3</code></td><td>Trzy karty w rzędzie</td><td>Trzy elementy (Słoiczki, Papier, Olejki)</td></tr>
+          <tr><td><code>cards-2x2</code></td><td>Cztery karty w siatce 2&times;2</td><td>Cztery kategorie (Szersze korzyści)</td></tr>
+          <tr><td><code>table</code></td><td>Tabela z danymi</td><td>Zestawienia (Grupy zapachowe)</td></tr>
+          <tr><td><code>checklist</code></td><td>Lista z fioletowymi &#10003;</td><td>Zasady, podsumowania</td></tr>
+          <tr><td><code>steps</code></td><td>Lista numerowana 1-2-3</td><td>Instrukcje krok po kroku</td></tr>
+          <tr><td><code>paragraphs</code></td><td>Akapity tekstu</td><td>Opisy, wyjaśnienia</td></tr>
+          <tr><td><code>accent-box</code></td><td>Wyróżniony box</td><td>Ważne info, tip, uwaga</td></tr>
+          <tr><td><code>quote</code></td><td>Cytat z autorem</td><td>Cytaty naukowe, źródła</td></tr>
+          <tr><td><code>stats</code></td><td>Duże liczby / statystyki</td><td>Dane liczbowe, wyniki badań</td></tr>
+          <tr><td><code>image-cards</code></td><td>Karty z grafiką u góry</td><td>Porównania wizualne (Technika oddychania)</td></tr>
+        </tbody>
+      </table>
+
+      <h3>Accent-box — warianty</h3>
+      <table>
+        <thead><tr><th>Powiedz</th><th>Efekt</th></tr></thead>
+        <tbody>
+          <tr><td><code>accent fioletowy</code> (domyślny)</td><td style="background: var(--purple-soft);">Fioletowe tło &mdash; domyślny wariant</td></tr>
+          <tr><td><code>accent zielony</code></td><td style="background: var(--green-soft);">Zielone tło &mdash; pozytywne info, sukces</td></tr>
+          <tr><td><code>accent na dole</code></td><td>Przypięty do dolnej krawędzi slajdu (margin-top: auto)</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- 3. HEADER BLOCK -->
+    <div class="section">
+      <h2><span class="num">3</span> Header block (stały element)</h2>
+      <p class="desc">Każdy slajd (poza tytułowym) ma identyczny header na tej samej wysokości.</p>
+
+      <div style="display: flex; align-items: flex-start; gap: 16px; background: var(--bg-soft); border-radius: 10px; padding: 1.2em; margin-top: 0.5em;">
+        <div style="flex: 0 0 auto; display: flex; flex-direction: column; gap: 6px;">
+          <div style="display: flex; align-items: center; gap: 8px;">
+            <span style="color: var(--purple); font-weight: 600; font-size: 0.82em; width: 16px;">1.</span>
+            <div style="width: 60px; height: 10px; background: var(--text-muted); border-radius: 3px; opacity: 0.4;"></div>
+            <span style="color: var(--text-muted); font-size: 0.78em;">Logo &mdash; height: 26px, opacity: 0.6</span>
+          </div>
+          <div style="display: flex; align-items: center; gap: 8px;">
+            <span style="color: var(--purple); font-weight: 600; font-size: 0.82em; width: 16px;">2.</span>
+            <span class="pill-inline" style="font-size: 0.72em;">1 &middot; Wstęp</span>
+            <span style="color: var(--text-muted); font-size: 0.78em;">Pill &mdash; numer sekcji + nazwa</span>
+          </div>
+          <div style="display: flex; align-items: center; gap: 8px;">
+            <span style="color: var(--purple); font-weight: 600; font-size: 0.82em; width: 16px;">3.</span>
+            <span style="font-weight: 700; font-size: 1em;">Nagłówek slajdu</span>
+            <span style="color: var(--text-muted); font-size: 0.78em;">H2 &mdash; główny tytuł</span>
+          </div>
+          <div style="display: flex; align-items: center; gap: 8px;">
+            <span style="color: var(--purple); font-weight: 600; font-size: 0.82em; width: 16px;">4.</span>
+            <span style="color: var(--text-secondary); font-size: 0.88em;">Opcjonalny podtytuł</span>
+            <span style="color: var(--text-muted); font-size: 0.78em;">Sub &mdash; nieobowiązkowy</span>
+          </div>
+        </div>
+      </div>
+
+      <h3>Pill &mdash; nazewnictwo sekcji</h3>
+      <p style="color: var(--text-secondary); font-size: 0.88em; margin-bottom: 0.5em;">
+        Format: <code>{numer} &middot; {nazwa}</code> &mdash; np. <span class="pill-inline" style="font-size: 0.78em;">3 &middot; Wybór zapachów</span>
+      </p>
+      <ul style="color: var(--text-secondary); font-size: 0.88em; padding-left: 1.5em; line-height: 1.8;">
+        <li>Numer = numer <strong>sekcji</strong> (nie slajdu!)</li>
+        <li>Kilka slajdów może mieć ten sam pill = ta sama sekcja</li>
+        <li>Slajd tytułowy: pill = nazwa kursu/marki</li>
+      </ul>
+    </div>
+
+    <!-- 4. TŁO -->
+    <div class="section">
+      <h2><span class="num">4</span> Tło slajdu</h2>
+      <p class="desc">Przeplataj białe i szare tła żeby prezentacja nie była monotonna.</p>
+
+      <div style="display: flex; gap: 14px; margin-top: 0.5em;">
+        <div style="flex: 1; border-radius: 10px; border: 1px solid var(--border); overflow: hidden; text-align: center;">
+          <div style="height: 60px; background: white; border-bottom: 1px solid var(--border);"></div>
+          <div style="padding: 8px; font-size: 0.82em; font-weight: 600;">Białe <span style="font-weight: 400; color: var(--text-muted);">(domyślne)</span></div>
+        </div>
+        <div style="flex: 1; border-radius: 10px; border: 1px solid var(--border); overflow: hidden; text-align: center;">
+          <div style="height: 60px; background: var(--bg-soft); border-bottom: 1px solid var(--border);"></div>
+          <div style="padding: 8px; font-size: 0.82em; font-weight: 600;"><code>bg-soft</code> <span style="font-weight: 400; color: var(--text-muted);">(szare)</span></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 5. MOTYWY KOLORYSTYCZNE -->
+    <div class="section">
+      <h2><span class="num">5</span> Motywy kolorystyczne</h2>
+      <p class="desc">Gotowe zestawy kolorów. Możesz też podać własne hexy.</p>
+
+      <div class="theme-grid">
+        <div class="theme-swatch">
+          <div class="colors"><div style="background: #7E57C2;"></div><div style="background: #F3EEFA;"></div><div style="background: #4CAF50;"></div><div style="background: #E8F5E9;"></div></div>
+          <div class="theme-label">aromagic<span>kursy, aromapsychologia</span></div>
+        </div>
+        <div class="theme-swatch">
+          <div class="colors"><div style="background: #7BA07E;"></div><div style="background: #D4E6D5;"></div><div style="background: #D4A843;"></div><div style="background: #FEF9E7;"></div><div style="background: #7E6BAD;"></div><div style="background: #EDE8F5;"></div></div>
+          <div class="theme-label">doterra<span>oficjalne materiały (3 kolory)</span></div>
+        </div>
+        <div class="theme-swatch">
+          <div class="colors"><div style="background: #a7c5a9;"></div><div style="background: #cce2d3;"></div><div style="background: #475569;"></div><div style="background: #F1F5F9;"></div></div>
+          <div class="theme-label">wellness<span>wellness og&oacute;lny, joga</span></div>
+        </div>
+        <div class="theme-swatch">
+          <div class="colors"><div style="background: #1565C0;"></div><div style="background: #E3F2FD;"></div><div style="background: #00897B;"></div><div style="background: #E0F7FA;"></div></div>
+          <div class="theme-label">medical<span>naukowe, medyczne</span></div>
+        </div>
+        <div class="theme-swatch">
+          <div class="colors"><div style="background: #475569;"></div><div style="background: #F1F5F9;"></div><div style="background: #2563EB;"></div><div style="background: #EFF6FF;"></div></div>
+          <div class="theme-label">neutral<span>uniwersalny, biznesowy</span></div>
+        </div>
+        <div class="theme-swatch">
+          <div class="colors"><div style="background: #B45309;"></div><div style="background: #FFFBEB;"></div><div style="background: #92400E;"></div><div style="background: #FEF3C7;"></div></div>
+          <div class="theme-label">warm<span>ciepły, jesienny</span></div>
+        </div>
+        <div class="theme-swatch">
+          <div class="colors"><div style="background: #2E7D32;"></div><div style="background: #E8F5E9;"></div><div style="background: #5D4037;"></div><div style="background: #EFEBE9;"></div></div>
+          <div class="theme-label">nature<span>ekologia, natura</span></div>
+        </div>
+        <div class="theme-swatch">
+          <div class="colors"><div style="background: #818CF8;"></div><div style="background: #1E1B4B;"></div><div style="background: #34D399;"></div><div style="background: #064E3B;"></div></div>
+          <div class="theme-label">dark<span>ciemne tło, nowoczesny</span></div>
+        </div>
+      </div>
+
+      <h3>Własna paleta</h3>
+      <p style="color: var(--text-secondary); font-size: 0.88em;">Podaj 4-6 kolorów (accent opcjonalny):</p>
+      <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 6px; margin-top: 0.3em; font-size: 0.85em;">
+        <div style="background: var(--bg-soft); padding: 6px 12px; border-radius: 6px;"><strong>primary</strong> &mdash; pill, h3, akcenty</div>
+        <div style="background: var(--bg-soft); padding: 6px 12px; border-radius: 6px;"><strong>secondary</strong> &mdash; dodatkowe akcenty</div>
+        <div style="background: var(--bg-soft); padding: 6px 12px; border-radius: 6px;"><strong>accent</strong> <em style="color: var(--text-muted);">(opcja)</em> &mdash; 3. kolor</div>
+        <div style="background: var(--bg-soft); padding: 6px 12px; border-radius: 6px;"><strong>primary-soft</strong> &mdash; tło kart</div>
+        <div style="background: var(--bg-soft); padding: 6px 12px; border-radius: 6px;"><strong>secondary-soft</strong> &mdash; tło wariantów</div>
+        <div style="background: var(--bg-soft); padding: 6px 12px; border-radius: 6px;"><strong>accent-soft</strong> <em style="color: var(--text-muted);">(opcja)</em> &mdash; tło accenta</div>
+      </div>
+    </div>
+
+    <!-- 6. JAK ZAMAWIAĆ -->
+    <div class="section">
+      <h2><span class="num">6</span> Jak zamawiać slajdy</h2>
+      <p class="desc">Trzy poziomy szczegółowości — wybierz który Ci odpowiada.</p>
+
+      <h3>Szybkie zamówienie (minimum)</h3>
+      <div class="example">
+        <div class="label">Mówisz:</div>
+        <p>&laquo;Zrób slajd z tabelą 4 grup zapachowych + tip o pamięci węchowej&raquo;</p>
+        <p style="color: var(--text-muted); font-size: 0.9em; margin-top: 0.3em;">Ja sam dobiorę typ, tło, layout.</p>
+      </div>
+
+      <h3>Standardowe zamówienie</h3>
+      <div class="example">
+        <div class="label">Mówisz:</div>
+        <p>&laquo;Slajd <strong>center, bg-soft, cards-3</strong> z emoji u góry. Sekcja: <strong>2 &middot; Warsztat</strong>&raquo;</p>
+      </div>
+
+      <h3>Precyzyjne zamówienie</h3>
+      <div class="example">
+        <div class="label">Mówisz:</div>
+        <p>&laquo;<strong>Split-reverse</strong>: grafika po lewej (placeholder: słoiczek z olejkiem), po prawej <strong>steps</strong> 1-5 + <strong>accent-box</strong> z tipem o cytrynach. Sekcja: <strong>2 &middot; Warsztat</strong>&raquo;</p>
+      </div>
+
+      <h3>Skrót: &laquo;Jak na slajdzie X&raquo;</h3>
+      <div class="example">
+        <div class="label">Mówisz:</div>
+        <p>&laquo;Zrób <strong>jak na slajdzie 8</strong> (split + checklist), ale z inną treścią&raquo;</p>
+        <p style="color: var(--text-muted); font-size: 0.9em; margin-top: 0.3em;">Skopiuję cały layout z tego slajdu.</p>
+      </div>
+    </div>
+
+    <!-- 7. POPRAWKI -->
+    <div class="section">
+      <h2><span class="num">7</span> Jak mówić o poprawkach</h2>
+      <p class="desc">Im precyzyjniej powiesz, tym szybciej poprawię. Ale &laquo;zrób ładniej&raquo; też zadziała.</p>
+
+      <div class="corrections">
+        <div class="col-head bad">Zamiast (niejasne)</div>
+        <div class="col-head good">Powiedz lepiej</div>
+        <div class="cell bad">&laquo;Zmniejsz tekst&raquo;</div>
+        <div class="cell good">&laquo;Tekst w kartach na 0.5em&raquo; lub &laquo;mniejszy o stopień&raquo;</div>
+        <div class="cell bad">&laquo;Przesuń wyżej&raquo;</div>
+        <div class="cell good">&laquo;Pill bliżej nagłówka&raquo; lub &laquo;margin-bottom h2 na 0.3em&raquo;</div>
+        <div class="cell bad">&laquo;Ładniej&raquo;</div>
+        <div class="cell good">&laquo;Dodaj bg-soft&raquo; / &laquo;Zamień na karty&raquo; / &laquo;Dodaj accent-box&raquo;</div>
+        <div class="cell bad">&laquo;Więcej miejsca&raquo;</div>
+        <div class="cell good">&laquo;Zmniejsz padding kart&raquo; / &laquo;Tabela na pełną szerokość&raquo;</div>
+        <div class="cell bad">&laquo;Inaczej&raquo;</div>
+        <div class="cell good">&laquo;Zamień na split&raquo; / &laquo;Zamiast listy &mdash; cards-2&raquo;</div>
+        <div class="cell bad">&laquo;Za dużo tekstu&raquo;</div>
+        <div class="cell good">&laquo;Podziel na 2 slajdy&raquo; / &laquo;Skróć do 3 bulletów&raquo;</div>
+      </div>
+
+      <div class="tip" style="margin-top: 1em;">
+        <strong>Protip:</strong> Możesz też podawać wartości CSS bezpośrednio &mdash; &laquo;gap: 8px&raquo;, &laquo;font-size: 0.5em&raquo;, &laquo;padding: 1em&raquo;. Rozumiem je dosłownie.
+      </div>
+    </div>
+
+    <!-- 8. GRAFIKI -->
+    <div class="section">
+      <h2><span class="num">8</span> Grafiki</h2>
+      <p class="desc">Podczas tworzenia slajdów wstawiam placeholdery. Na koniec dostajesz Graphics Brief.</p>
+
+      <h3>Podczas zamawiania slajdu</h3>
+      <div class="example">
+        <div class="label">Mówisz:</div>
+        <p>&laquo;Split &mdash; po prawej <strong>placeholder: przekrój nosa z zaznaczonym nabłonkiem węchowym</strong>&raquo;</p>
+      </div>
+
+      <h3>Graphics Brief (na koniec)</h3>
+      <p style="color: var(--text-secondary); font-size: 0.88em; margin-top: 0.3em;">Dla każdego placeholdera dostajesz:</p>
+      <div style="background: var(--bg-soft); border-radius: 10px; padding: 1em 1.2em; margin-top: 0.5em; font-size: 0.85em; line-height: 1.7;">
+        <strong>Slajd 5 &mdash; &laquo;Jak przygotować słoiczek?&raquo;</strong><br>
+        <strong>Typ:</strong> Panel split (40% lewej strony)<br>
+        <strong>Wymiary:</strong> 480&times;700px<br>
+        <strong>Kontekst:</strong> Instrukcja przygotowania słoiczka z olejkiem<br>
+        <strong>Prompt AI:</strong> <em>&laquo;Flat illustration of a small dark glass jar with watercolor paper strip inside, essential oil drops, minimal style, soft purple accent #7E57C2, white background, clean medical illustration style&raquo;</em>
+      </div>
+    </div>
+
+    <!-- 9. CHEAT SHEET -->
+    <div class="section">
+      <h2><span class="num">9</span> Ściąga</h2>
+      <p class="desc">Wszystko w jednym miejscu.</p>
+
+      <div class="cheat">
+<span class="c">// Layout</span>
+<span class="k">Layout:</span>    <span class="v">title</span> | <span class="v">section</span> | <span class="v">center</span> | <span class="v">left</span> | <span class="v">split</span> | <span class="v">split-reverse</span>
+
+<span class="c">// Tło</span>
+<span class="k">Tło:</span>       <span class="v">bg-soft</span> | <span class="c">(białe domyślne)</span>
+
+<span class="c">// Bloki treści</span>
+<span class="k">Treść:</span>     <span class="v">cards-2</span> | <span class="v">cards-3</span> | <span class="v">cards-2x2</span> | <span class="v">table</span> | <span class="v">checklist</span>
+           <span class="v">steps</span> | <span class="v">paragraphs</span> | <span class="v">quote</span> | <span class="v">accent-box</span> | <span class="v">stats</span>
+
+<span class="c">// Modyfikatory</span>
+<span class="k">Accent:</span>    <span class="v">fioletowy</span> <span class="c">(default)</span> | <span class="v">zielony</span>
+<span class="k">Grafiki:</span>   <span class="v">placeholder</span> + opis co ma przedstawiać
+<span class="k">Sekcja:</span>    <span class="v">"N · Nazwa"</span> <span class="c">(pill)</span>
+
+<span class="c">// Motywy</span>
+<span class="k">Motyw:</span>     <span class="v">aromagic</span> | <span class="v">doterra</span> | <span class="v">medical</span> | <span class="v">neutral</span>
+           <span class="v">warm</span> | <span class="v">nature</span> | <span class="v">wellness</span> | <span class="v">dark</span> | <span class="v">custom</span>
+
+<span class="c">// Poprawki</span>
+<span class="k">Skrót:</span>     <span class="v">"jak na slajdzie X"</span>
+<span class="k">CSS:</span>       <span class="v">font-size: 0.5em</span> | <span class="v">gap: 8px</span> | <span class="v">margin-top: auto</span>
+      </div>
+    </div>
+
+  </div>
+</body>
+</html>
