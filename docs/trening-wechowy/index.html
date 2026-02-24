@@ -373,6 +373,12 @@
       .reveal .controls { display: none !important; }
     }
 
+    /* Hide slide number and controls on mobile */
+    @media screen and (max-width: 1024px) {
+      .reveal .slide-number,
+      .reveal .controls { display: none !important; }
+    }
+
     /* Portrait overlay — rotate device hint */
     .rotate-hint {
       display: none;
