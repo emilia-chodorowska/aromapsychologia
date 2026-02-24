@@ -1,0 +1,54 @@
+{
+  "model": "gemini-2.5-flash-image",
+  "output_dir": ".",
+  "images": [
+    {
+      "filename": "grafika-grypa.png",
+      "prompt": "Photorealistic portrait of a person with a cold, holding their nose, visibly congested and uncomfortable, red irritated nose area, tissues nearby, soft indoor lighting, shallow depth of field, no text",
+      "slide": 1,
+      "context": "Karta porównawcza: grypa (zatkany nos)"
+    },
+    {
+      "filename": "grafika-covid.png",
+      "prompt": "Photorealistic 3D render of SARS-CoV-2 coronavirus particles, detailed spike proteins, red-orange virus spheres floating against a soft blurred dark background, scientific visualization style, dramatic lighting, shallow depth of field, no text",
+      "slide": 1,
+      "context": "Karta porównawcza: COVID-19 (wirus)"
+    },
+    {
+      "filename": "grafika-technika-prawidlowa.png",
+      "prompt": "A person gently sniffing a small dark glass jar held close to their nose, eyes closed, taking short delicate breaths. Calm, meditative posture. Minimal flat illustration, soft sage green (#a7c5a9) and slate grey (#475569) accents, white background, clean wellness aesthetic, no text, no watermarks, high quality",
+      "slide": 6,
+      "context": "Technika oddechowa: prawidłowe wąchanie"
+    },
+    {
+      "filename": "grafika-technika-blad.png",
+      "prompt": "A person taking one deep, long breath through the nose with a jar far from face, head tilted back. A subtle red X mark indicating wrong technique. Minimal flat illustration, soft sage green (#a7c5a9) and slate grey (#475569) accents, white background, clean wellness aesthetic, no text, no watermarks, high quality",
+      "slide": 6,
+      "context": "Technika oddechowa: częsty błąd"
+    },
+    {
+      "filename": "grafika-dzienniczek.png",
+      "prompt": "An open notebook or journal with handwritten notes and a pen lying beside it, small essential oil bottles nearby on a clean desk. Minimal flat illustration, soft sage green (#a7c5a9) and slate grey (#475569) accents, white background, clean wellness aesthetic, no text, no watermarks, high quality",
+      "slide": 7,
+      "context": "Dzienniczek postępów"
+    },
+    {
+      "filename": "grafika-neuroplastycznosc.png",
+      "prompt": "A human brain with glowing neural pathways reconnecting and forming new connections. Soft bioluminescent glow on the neural network. Minimal flat illustration, soft sage green (#a7c5a9) and slate grey (#475569) accents, white background, clean wellness aesthetic, no text, no watermarks, high quality",
+      "slide": 2,
+      "context": "Neuroplastyczność — nadzieja na regenerację"
+    },
+    {
+      "filename": "grafika-wachanie.png",
+      "prompt": "Photorealistic portrait of a woman in cozy casual clothes sitting on a sofa at home, eyes closed, gently smelling a small dark amber glass jar held close to her nose, warm soft natural light, cozy living room background with plants, focused concentrated expression, shallow depth of field, no text",
+      "slide": 5,
+      "context": "Panel split: sesja treningowa w domu"
+    },
+    {
+      "filename": "grafika-zasady.png",
+      "prompt": "Fotorealistyczne ujęcie z góry na jasnym drewnianym stole: małe ciemne szklane słoiczki z korkowymi zatyczkami, świeża cytryna, płatki róży, gałązki eukaliptusa, laski cynamonu, otwarty notes z długopisem, miękkie naturalne światło dzienne, ciepła estetyka wellness, mała głębia ostrości, bez tekstu",
+      "slide": 10,
+      "context": "Złote zasady — flat lay z przyborami"
+    }
+  ]
+}
