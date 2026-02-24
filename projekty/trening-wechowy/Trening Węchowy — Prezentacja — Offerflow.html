@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8" />
+  <title>Trening Węchowy w warunkach domowych</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/dist/reveal.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/dist/theme/white.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --r-background-color: hsl(0 0% 100%);
+      --r-main-font: "Inter", -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+      --r-main-font-size: 28px;
+      --r-main-color: hsl(0 0% 9%);
+      --r-heading-font: "Inter", -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+      --r-heading-color: hsl(0 0% 9%);
+      --r-heading-font-weight: 650;
+      --r-heading-letter-spacing: -0.035em;
+      --r-link-color: hsl(0 0% 30%);
+      --r-link-color-hover: hsl(0 0% 9%);
+      --r-selection-background-color: hsl(0 0% 85%);
+    }
+
+    .reveal {
+      font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+      -webkit-font-smoothing: antialiased;
+    }
+
+    .reveal .slides section {
+      display: flex !important;
+      flex-direction: column;
+      justify-content: flex-start;
+      align-items: flex-start;
+      text-align: left;
+      padding-top: 2em;
+      height: 100%;
+    }
+
+    .reveal h1 {
+      font-size: 2em;
+      font-weight: 650;
+      letter-spacing: -0.035em;
+      line-height: 1.15;
+      margin-bottom: 0.3em;
+    }
+
+    .reveal h2 {
+      font-size: 1.4em;
+      font-weight: 600;
+      letter-spacing: -0.025em;
+      margin-bottom: 0.6em;
+    }
+
+    .reveal h3 {
+      font-size: 1em;
+      font-weight: 600;
+      letter-spacing: -0.01em;
+      color: hsl(0 0% 9%);
+      margin-bottom: 0.4em;
+    }
+
+    .reveal p, .reveal li {
+      color: hsl(0 0% 45%);
+      line-height: 1.7;
+      font-size: 0.75em;
+    }
+
+    .reveal strong {
+      color: hsl(0 0% 9%);
+      font-weight: 600;
+    }
+
+    .reveal em {
+      color: hsl(0 0% 55%);
+    }
+
+    .reveal .byline {
+      color: hsl(0 0% 64%);
+      font-size: 0.5em;
+      font-weight: 400;
+      margin-top: 0.5em;
+    }
+
+    .reveal .section-number {
+      color: hsl(0 0% 80%);
+      font-size: 0.5em;
+      font-weight: 500;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      margin-bottom: 0.3em;
+      display: block;
+    }
+
+    .reveal blockquote {
+      background: hsl(0 0% 96.5%);
+      border-left: 3px solid hsl(0 0% 9%);
+      border-radius: 0 8px 8px 0;
+      padding: 0.8em 1.2em;
+      margin: 0.8em auto;
+      width: 85%;
+      font-style: normal;
+      box-shadow: none;
+    }
+
+    .reveal blockquote p {
+      color: hsl(0 0% 45%);
+      font-size: 0.65em;
+      line-height: 1.75;
+    }
+
+    .reveal ul, .reveal ol {
+      display: block;
+      margin-left: 0;
+    }
+
+    .reveal li {
+      margin-bottom: 0.35em;
+    }
+
+    .reveal li::marker {
+      color: hsl(0 0% 64%);
+    }
+
+    .reveal ol li::marker {
+      color: hsl(0 0% 9%);
+      font-weight: 600;
+    }
+
+    .reveal table {
+      border-collapse: separate;
+      border-spacing: 0;
+      font-size: 0.6em;
+      border-radius: 8px;
+      overflow: hidden;
+      border: 1px solid hsl(0 0% 92%);
+      margin: 0.8em auto;
+    }
+
+    .reveal th {
+      background: hsl(0 0% 96.5%);
+      color: hsl(0 0% 45%);
+      padding: 10px 16px;
+      text-align: left;
+      font-weight: 500;
+      font-size: 0.85em;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      border-bottom: 1px solid hsl(0 0% 92%);
+    }
+
+    .reveal td {
+      padding: 10px 16px;
+      border-bottom: 1px solid hsl(0 0% 92%);
+      color: hsl(0 0% 45%);
+    }
+
+    .reveal tr:last-child td {
+      border-bottom: none;
+    }
+
+    .reveal .checklist {
+      list-style: none;
+      padding-left: 0;
+    }
+
+    .reveal .checklist li {
+      padding-left: 1.5em;
+      position: relative;
+    }
+
+    .reveal .checklist li::before {
+      content: "\2610";
+      position: absolute;
+      left: 0;
+      color: hsl(0 0% 64%);
+    }
+
+    .reveal .highlight-box {
+      background: hsl(0 0% 96.5%);
+      border-radius: 8px;
+      padding: 0.8em 1.2em;
+      margin: 0.8em 0;
+    }
+
+    .reveal .highlight-box p {
+      margin: 0.3em 0;
+    }
+
+    .reveal .diary-table {
+      max-width: 500px;
+    }
+
+    .reveal .diary-table th, .reveal .diary-table td {
+      padding: 8px 14px;
+      font-size: 0.9em;
+    }
+
+    .reveal .golden-rules ol {
+      counter-reset: rule;
+      list-style: none;
+      padding-left: 0;
+    }
+
+    .reveal .golden-rules li {
+      counter-increment: rule;
+      padding-left: 0;
+      margin-bottom: 0.5em;
+      font-size: 0.7em;
+    }
+
+    .reveal .slide-number {
+      color: hsl(0 0% 75%);
+      font-family: "Inter", sans-serif;
+      font-size: 12px;
+    }
+
+    .reveal .progress {
+      color: hsl(0 0% 9%);
+      height: 3px;
+    }
+  </style>
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+      <!-- SLIDE 1: Tytuł -->
+      <section>
+        <h1>Trening Węchowy<br/>w warunkach domowych</h1>
+        <p class="byline">Opracowanie: Emilia Chodorowska &middot; na podstawie kursu Aromapsychologia Anny Bober</p>
+      </section>
+
+      <!-- SLIDE 2: Wstęp — mechanizm -->
+      <section>
+        <span class="section-number">1 &middot; Wstęp</span>
+        <h2>Dlaczego Twój nos &bdquo;zamilkł&rdquo;?</h2>
+        <ul>
+          <li><strong>Grypa</strong> &rarr; obrzęk tkanek fizycznie blokuje dostęp aromatów</li>
+          <li><strong>COVID-19</strong> &rarr; drożne przewody nosowe, ale wirus atakuje <strong>komórki podporowe</strong> i <strong>gruczoły Bowmana</strong></li>
+          <li>Neurony węchowe tracą &bdquo;system podtrzymywania życia&rdquo; &mdash; jak sprawne odbiorniki bez zasilania</li>
+          <li>Brak stymulacji &rarr; atrofia opuszki węchowej i zmiany w hipokampie</li>
+        </ul>
+      </section>
+
+      <!-- SLIDE 3: Wstęp — nadzieja -->
+      <section>
+        <span class="section-number">1 &middot; Wstęp</span>
+        <h2>Dlaczego to minie?</h2>
+        <p style="color: hsl(0 0% 9%); font-size: 0.85em; font-weight: 500; margin-bottom: 0.6em;">Neurony węchowe mają unikalną zdolność do regeneracji.</p>
+        <blockquote>
+          <p><em>&bdquo;Systematyczny trening węchowy wykazuje skuteczność porównywalną z terapią sterydową. Regularna stymulacja zwiększa objętość istoty szarej w mózgu, odwracając negatywne skutki anosmii. Twój mózg jest plastyczny &mdash; trening to proces jego fizycznej odbudowy.&rdquo;</em></p>
+          <p style="text-align: right; font-size: 0.85em; color: hsl(0 0% 64%);">&mdash; metaanalizy prof. Thomasa Hummela</p>
+        </blockquote>
+      </section>
+
+      <!-- SLIDE 4: Warsztat zapachowy -->
+      <section>
+        <span class="section-number">2 &middot; Warsztat zapachowy</span>
+        <h2>Co przygotować?</h2>
+        <p>Wąchanie olejków z buteleczek jest mało efektywne. Potrzebujemy stworzyć <strong>headspace</strong> &mdash; nasyconą cząsteczkami przestrzeń nad źródłem zapachu.</p>
+        <h3>Niezbędne wyposażenie</h3>
+        <ul>
+          <li><strong>Słoiczki z ciemnego szkła (15-30 ml)</strong> &mdash; chronią olejki, koncentrują opary</li>
+          <li><strong>Papier akwarelowy</strong> &mdash; porowatość idealnie trzyma aromat</li>
+          <li><strong>Olejki eteryczne</strong> &mdash; wyłącznie naturalne, wysokiej jakości</li>
+        </ul>
+      </section>
+
+      <!-- SLIDE 5: Przygotowanie krok po kroku -->
+      <section>
+        <span class="section-number">2 &middot; Warsztat zapachowy</span>
+        <h2>Przygotowanie słoiczka</h2>
+        <ol>
+          <li>Włóż do słoiczka pasek papieru akwarelowego</li>
+          <li>Nasącz go <strong>4-8 kroplami</strong> wybranego olejku</li>
+          <li>Szczelnie zakręć, odczekaj godzinę</li>
+          <li><strong>Co tydzień</strong> wymieniaj papier i dolewaj olejku<br/><em>(cytrusy szybko oksydują &mdash; myj słoiczki mydłem)</em></li>
+          <li><strong>Weryfikacja:</strong> poproś kogoś ze sprawnym węchem o sprawdzenie intensywności</li>
+        </ol>
+      </section>
+
+      <!-- SLIDE 6: Wybór zapachów — tabela -->
+      <section>
+        <span class="section-number">3 &middot; Wybór zapachów</span>
+        <h2>Cztery fundamenty treningu</h2>
+        <table>
+          <thead>
+            <tr><th>Grupa zapachowa</th><th>Zamienniki</th><th>Dlaczego?</th></tr>
+          </thead>
+          <tbody>
+            <tr><td><strong>Kwiatowa</strong> (Róża)</td><td>Geranium, ylang-ylang</td><td>Subtelne receptory</td></tr>
+            <tr><td><strong>Owocowa</strong> (Cytryna)</td><td>Pomarańcza, grejpfrut</td><td>Wysoka intensywność</td></tr>
+            <tr><td><strong>Korzenna</strong> (Goździki)</td><td>Cynamon, wanilia</td><td>Zakotwiczenie w pamięci</td></tr>
+            <tr><td><strong>Żywicza</strong> (Eukaliptus)</td><td>Mięta, rozmaryn</td><td>Stymuluje nerw trójdzielny</td></tr>
+          </tbody>
+        </table>
+        <div class="highlight-box">
+          <p><strong>Pamięć węchowa:</strong> Wybieraj aromaty budzące silne wspomnienia. Emocjonalny ślad w mózgu ułatwia regenerację połączeń synaptycznych.</p>
+        </div>
+      </section>
+
+      <!-- SLIDE 7: Technika małych wdechów -->
+      <section>
+        <span class="section-number">4 &middot; Technika oddechowa</span>
+        <h2>Technika &bdquo;Małych Wdechów&rdquo;</h2>
+        <p><strong>Głęboki wdech omija nabłonek węchowy</strong> &mdash; kieruje powietrze prosto do płuc.</p>
+        <div class="highlight-box">
+          <p><strong>Prawidłowa technika:</strong> Krótkie, małe wdechy &mdash; jak pies na spacerze. Tworzysz zawirowania powietrza, które kierują headspace bezpośrednio na pole węchowe.</p>
+        </div>
+      </section>
+
+      <!-- SLIDE 8: Sesja treningowa -->
+      <section>
+        <span class="section-number">4 &middot; Sesja treningowa</span>
+        <h2>Sesja treningowa (~2 min.)</h2>
+        <ul class="checklist">
+          <li>Wybierz spokojne miejsce, wycisz telefon</li>
+          <li>Otwórz słoiczek, zbliż go do nosa</li>
+          <li><strong>20 sekund</strong> wąchania techniką małych wdechów</li>
+          <li>Zamknij słoiczek &mdash; <strong>10-15 sek. przerwy</strong> (neutralne powietrze)</li>
+          <li>Przejdź do kolejnego zapachu</li>
+          <li>Powtarzaj <strong>2x dziennie: rano i wieczorem</strong></li>
+        </ul>
+      </section>
+
+      <!-- SLIDE 9: Praca mentalna -->
+      <section>
+        <span class="section-number">5 &middot; Praca mentalna</span>
+        <h2>Wąchanie wyobraźnią</h2>
+        <p>Nawet przy absolutnej pustce Twoja kora węchowa może wykazywać aktywność.</p>
+        <ul>
+          <li><strong>Zamknij oczy</strong> podczas wąchania</li>
+          <li>Przywołaj <strong>obraz obiektu</strong> &mdash; kolor, teksturę, smak</li>
+          <li>Spróbuj &bdquo;poczuć&rdquo; zapach siłą woli</li>
+          <li><strong>Wspieraj się bodźcami wizualnymi</strong> &mdash; zdjęcia, obrazy</li>
+        </ul>
+        <p><em>Medytacja sensoryczna zapobiega degradacji neuronów i stymuluje je do dłuższego przeżycia.</em></p>
+      </section>
+
+      <!-- SLIDE 10: Dzienniczek -->
+      <section>
+        <span class="section-number">6 &middot; Dzienniczek postępów</span>
+        <h2>Cierpliwość i śledzenie postępów</h2>
+        <ul>
+          <li>Pierwsze efekty: zazwyczaj po <strong>4 miesiącach</strong></li>
+          <li>Pełna rehabilitacja: <strong>14-24 miesiące</strong></li>
+        </ul>
+        <div class="highlight-box">
+          <p><strong>Parosmia = dobry znak!</strong> Nieprzyjemne, zniekształcone zapachy (np. spalona guma zamiast kawy) to dowód, że neurony nawiązują nowe połączenia.</p>
+        </div>
+        <table class="diary-table">
+          <thead><tr><th>Pole</th><th>Wpis</th></tr></thead>
+          <tbody>
+            <tr><td><strong>Data</strong></td><td>..................</td></tr>
+            <tr><td><strong>Zapach</strong></td><td>..................</td></tr>
+            <tr><td><strong>Odczucia</strong></td><td>nic / chłód / zniekształcony / czysty</td></tr>
+            <tr><td><strong>Intensywność</strong></td><td>0 &ndash; 1 &ndash; 2 &ndash; 3 &ndash; 4 &ndash; 5</td></tr>
+          </tbody>
+        </table>
+      </section>
+
+      <!-- SLIDE 11: Szersze korzyści -->
+      <section>
+        <span class="section-number">7 &middot; Szersze korzyści</span>
+        <h2>Nie tylko po wirusie</h2>
+        <p>Trening węchowy przynosi <strong>szersze korzyści dla mózgu</strong>:</p>
+        <ul>
+          <li><strong>Poprawa funkcji poznawczych</strong> &mdash; udowodniona u osób starszych</li>
+          <li><strong>Poprawa płynności semantycznej i werbalnej</strong></li>
+          <li><strong>Zwiększenie objętości istoty szarej</strong> &mdash; odwraca skutki anosmii</li>
+          <li><strong>Wydłużenie życia neuronów węchowych</strong></li>
+          <li><strong>Poprawa nastroju</strong> &mdash; potwierdzona klinicznie</li>
+        </ul>
+      </section>
+
+      <!-- SLIDE 12: Neuroplastyczność -->
+      <section>
+        <span class="section-number">7 &middot; Neuroplastyczność</span>
+        <h2>Mózg się odbudowuje</h2>
+        <h3>Istota szara</h3>
+        <p>Anosmia powoduje utratę istoty szarej. Systematyczny trening olfaktoryczny <strong>fizycznie zwiększa jej objętość</strong>, odwracając negatywne skutki utraty powonienia.</p>
+        <h3>Łączność strukturalna</h3>
+        <p>Długoterminowa ekspozycja na bodźce węchowe <strong>przebudowuje szlaki nerwowe</strong>. Nawet nocna ekspozycja (2h/noc przez 6 miesięcy) poprawia łączność między układem limbicznym a korą mózgową.</p>
+        <p style="margin-top: 0.8em;"><em>Trening węchowy to także trening umysłu i pamięci dla seniorów.</em></p>
+      </section>
+
+      <!-- SLIDE 13: Złote zasady -->
+      <section>
+        <span class="section-number">8 &middot; Podsumowanie</span>
+        <h2>Złote zasady cierpliwego odkrywcy</h2>
+        <div class="golden-rules">
+          <ol>
+            <li><strong>SYSTEMATYCZNOŚĆ</strong> &mdash; 2x dziennie, codziennie. To Twoje lekarstwo.</li>
+            <li><strong>TECHNIKA ODDECHU</strong> &mdash; Krótkie, &bdquo;węszące&rdquo; wdechy.</li>
+            <li><strong>WYOBRAŹNIA</strong> &mdash; Mózg reaguje na wspomnienie zapachu tak samo intensywnie jak na bodziec.</li>
+            <li><strong>STYMULACJA TRÓJDZIELNA</strong> &mdash; Zawsze mięta lub eukaliptus w zestawie.</li>
+            <li><strong>CZAS I CIERPLIWOŚĆ</strong> &mdash; 4 miesiące na pierwszy sygnał powrotu.</li>
+          </ol>
+        </div>
+      </section>
+
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/dist/reveal.js"></script>
+  <script>
+    Reveal.initialize({
+      hash: true,
+      slideNumber: true,
+      width: 1200,
+      height: 700,
+      margin: 0.1,
+      transition: 'fade',
+      transitionSpeed: 'fast',
+    });
+  </script>
+</body>
+</html>
