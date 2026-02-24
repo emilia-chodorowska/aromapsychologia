@@ -1,0 +1,2884 @@
+1
+00:00:00,000 --> 00:00:12,000
+Zatem jak odczuwamy zapachy?
+
+2
+00:00:12,000 --> 00:00:20,000
+Widzieliśmy już takie proste schematy, teraz troszeczkę zagłębiamy się w tą naszą neurobiologię
+
+3
+00:00:20,000 --> 00:00:28,000
+i tutaj mamy rysunek bardziej złożony, zaawansowany naszej jamy nosowej
+
+4
+00:00:28,000 --> 00:00:32,000
+i tego w jakim ona na otoczeniu kontekście jest szerszym.
+
+5
+00:00:32,000 --> 00:00:37,000
+Widzimy tutaj dwa nerwy czaszkowe.
+
+6
+00:00:37,000 --> 00:00:42,000
+Nerwów czaszkowych mamy 12, 12 par nerwów czaszkowych.
+
+7
+00:00:42,000 --> 00:00:47,000
+Jednym z nerwów czaszkowych jest słynny dzisiaj nerw błędny, nerw dziesiąty.
+
+8
+00:00:47,000 --> 00:00:54,000
+Natomiast my będziemy się koncentrować w kontekście tego obwodowego układu nerwowego.
+
+9
+00:00:54,000 --> 00:00:58,000
+To jest nerw oczywiście pierwszy czaszkowy, czyli nerw węchowy,
+
+10
+00:00:58,000 --> 00:01:06,000
+ale też mamy tutaj w jamie nasowej gałązki nerwu trójdzielnego.
+
+11
+00:01:06,000 --> 00:01:10,000
+Nerw trójdzielny jest dużym nerwem, on unerwia całą naszą twarz.
+
+12
+00:01:10,000 --> 00:01:18,000
+Mamy takie trzy główne gałęzie tego nerwu trójdzielnego, więc neuroanatomia taka szczegółowa.
+
+13
+00:01:18,000 --> 00:01:22,000
+Jeśli kogoś interesuje to warto ją studiować z jakimiś solidnymi atlasami.
+
+14
+00:01:22,000 --> 00:01:25,000
+Ja polecam te, które mają nazwy polskie.
+
+15
+00:01:25,000 --> 00:01:28,000
+Osobiście używam neuroanatomii Nettera.
+
+16
+00:01:28,000 --> 00:01:35,000
+Zresztą atlas neuroanatomii Nettera jest przygotowany w taki sposób,
+
+17
+00:01:35,000 --> 00:01:38,000
+że tam jest sama neurofizjologia osobno.
+
+18
+00:01:38,000 --> 00:01:42,000
+Polecam to studiować, ale zaczynamy od pewnych prostych rzeczy.
+
+19
+00:01:42,000 --> 00:01:47,000
+Mamy tutaj naszą jamę nasową z dwoma zakończeniami nerwów czaszkowych.
+
+20
+00:01:47,000 --> 00:01:57,000
+Nerw pierwszy czaszkowy, czyli nerw węchowy oraz nerw trójdzielny, czyli piąty nerw czaszkowy.
+
+21
+00:01:57,000 --> 00:02:03,000
+To jest ważny aspekt jeżeli chodzi o możliwość,
+
+22
+00:02:03,000 --> 00:02:10,000
+to są dwa kanały dla możliwości przedostawania się substancji z naszej jamy nosowej do naszego mózgu.
+
+23
+00:02:10,000 --> 00:02:15,000
+To też się wykorzystuje, potencjalnie można wykorzystywać,
+
+24
+00:02:15,000 --> 00:02:20,000
+bo różnie z tym bywa, ale jest to bardzo ważny aspekt w kontekście farmakoterapii,
+
+25
+00:02:20,000 --> 00:02:25,000
+że możemy tą drogą wprowadzić substancję do mózgu i tutaj od razu też przypominam,
+
+26
+00:02:25,000 --> 00:02:31,000
+ja będę do tego później się jeszcze odnosiła przy dalszych częściach naszego wykładu,
+
+27
+00:02:31,000 --> 00:02:36,000
+ale jeśli chodzi o powietrze, którym wdychamy,
+
+28
+00:02:36,000 --> 00:02:41,000
+to to co znajduje się w tym powietrzu może trafić do naszego mózgu
+
+29
+00:02:41,000 --> 00:02:45,000
+i to są molekuły olejkowe, które wykorzystujemy w aromaterapii,
+
+30
+00:02:45,000 --> 00:02:51,000
+to może trafić do naszego mózgu tą drogą przez te dwa nerwy czaszkowe,
+
+31
+00:02:51,000 --> 00:02:54,000
+czyli pierwszy nerw czaszkowy i piąty nerw czaszkowy,
+
+32
+00:02:54,000 --> 00:02:59,000
+nerw węchowy oraz nerw trójdzielny, to jest droga z nosa do mózgu bezpośrednia,
+
+33
+00:02:59,000 --> 00:03:05,000
+bo są inne jeszcze drogi, nabłonek węchowy, nabłonek jamy nosowej ogólnie
+
+34
+00:03:05,000 --> 00:03:11,000
+są bardzo dobrze ukrwione oczywiście, wiemy, że tutaj jak sobie zajrzymy do naszego nosa,
+
+35
+00:03:11,000 --> 00:03:16,000
+to tam jest czerwona powierzchnia, bardzo dobrze ukrwiona błona śluzowa
+
+36
+00:03:16,000 --> 00:03:22,000
+i oczywiście jest taka możliwość, że substancje w jakiś sposób dostaną się
+
+37
+00:03:22,000 --> 00:03:28,000
+do tych naczynek błony śluzowej i stamtąd zaczną wędrować sobie
+
+38
+00:03:28,000 --> 00:03:33,000
+pod naszym układzie krążenia, bo będą w systemie naczyń krwionośnych
+
+39
+00:03:33,000 --> 00:03:38,000
+i oczywiście żeby dalej dostać się do mózgu muszą przejść przez barierę krew mózgu.
+
+40
+00:03:38,000 --> 00:03:43,000
+Wyjaśnijmy sobie co to jest za bariera krew mózgu, na początek tylko takie informacje podstawowe,
+
+41
+00:03:43,000 --> 00:03:48,000
+więc ta droga też jest możliwa, ale ona jest bardziej już pośrednia,
+
+42
+00:03:48,000 --> 00:03:55,000
+jeśli chodzi o transmisję substancji z nosa do mózgu.
+
+43
+00:03:55,000 --> 00:04:00,000
+Więc nie tylko stymulujemy receptory, tutaj na gałązkach nerwotródzielnego
+
+44
+00:04:00,000 --> 00:04:07,000
+też są receptory zimne, odpowiedzialne za np. takie uczucie o świeżości,
+
+45
+00:04:07,000 --> 00:04:12,000
+kiedy wąchamy zimne powietrze, ale też kiedy wąchamy mięnte czy kiedy wąchamy eukaliptusa.
+
+46
+00:04:12,000 --> 00:04:18,000
+Tutaj te receptory zimne, TRP też mają w tym swoją rolę,
+
+47
+00:04:18,000 --> 00:04:23,000
+ale nas interesują z perspektywy aromapsychologii oczywiście receptory węchowe
+
+48
+00:04:23,000 --> 00:04:28,000
+i te receptory sobie dokładnie omówimy podczas naszego dzisiejszego spotkania.
+
+49
+00:04:28,000 --> 00:04:34,000
+Za tutaj nabłonkiem węchowym, piętro wyżej znajduje się opuszka węchowa,
+
+50
+00:04:34,000 --> 00:04:40,000
+czyli taka pierwsza ważna struktura już u podstawy czaszki,
+
+51
+00:04:40,000 --> 00:04:47,000
+ona dalej pasmem węchowym doprowadza sygnały do właśnie układu limbicznego,
+
+52
+00:04:47,000 --> 00:04:52,000
+ale to jest taka pierwsza stacja przekaźnikowa, tutaj znajduje się pierwsza synapsa,
+
+53
+00:04:53,000 --> 00:04:59,000
+czyli komunikują się ze sobą komórki receptorowe, neurony receptorowe węchu
+
+54
+00:04:59,000 --> 00:05:04,000
+z kolejnym neuronem drogi węchowej.
+
+55
+00:05:07,000 --> 00:05:11,000
+Nabłonek węchowy ma swoje cechy.
+
+56
+00:05:11,000 --> 00:05:17,000
+Tutaj przypomnę, że on znajduje się w sklepieniu jamy nosowej,
+
+57
+00:05:17,000 --> 00:05:23,000
+jest grubszy od nabłonka oddychowego, który wyścieła jamy nosową,
+
+58
+00:05:23,000 --> 00:05:25,000
+pokrywa go stale oczywiście warstwa śluzów.
+
+59
+00:05:25,000 --> 00:05:29,000
+Ta warstwa śluzów, jak sama nazywam, na nabłonach śluzowych musi być obecna
+
+60
+00:05:29,000 --> 00:05:31,000
+dla prawidłowego ich funkcjonowania.
+
+61
+00:05:31,000 --> 00:05:37,000
+Błony śluzowe mamy w różnych miejscach ważnych dla naszego organizmu,
+
+62
+00:05:37,000 --> 00:05:44,000
+czyli w całym układzie oddychowym, w układzie pokarmowym,
+
+63
+00:05:44,000 --> 00:05:48,000
+tak jak w układzie moczowo-płciowym.
+
+64
+00:05:48,000 --> 00:05:56,000
+Więc te błony śluzowe też tutaj powinny być odpowiednio nawilżone,
+
+65
+00:05:56,000 --> 00:05:58,000
+powinny zawierać tą warstwę śluzu.
+
+66
+00:05:58,000 --> 00:06:04,000
+Jeśli chodzi o nabłonek węchowy, ta warstwa śluzu też spełnia swoje ważne zadania.
+
+67
+00:06:04,000 --> 00:06:12,000
+Ona generalnie zawiera takie specjalne molekuły wiążące substancje zapachowe,
+
+68
+00:06:12,000 --> 00:06:15,000
+o tym sobie później jeszcze troszeczkę więcej powiemy.
+
+69
+00:06:15,000 --> 00:06:22,000
+Więc ta warstwa śluzu jest jedyną przegrodą dzielącą komórki nerwowe od świata zewnętrznego.
+
+70
+00:06:22,000 --> 00:06:26,000
+Za chwileczkę pokażę więcej, jak to wygląda już bardziej w szczegółach,
+
+71
+00:06:26,000 --> 00:06:34,000
+ale po prostu też wiemy o tym, że oczywiście kiedy mamy nadmierne wysuszenie nabłonka,
+
+72
+00:06:34,000 --> 00:06:40,000
+zaczynają się też różnego rodzaju problemy z układem oddychowym,
+
+73
+00:06:40,000 --> 00:06:46,000
+jeśli chodzi też na przykład o większą skłonność do infekcji układu oddychowego.
+
+74
+00:06:46,000 --> 00:06:52,000
+Nabłonek węchowy jest zbudowany z komórek nerwowo-zmysłowych, tak zwanych węchowych,
+
+75
+00:06:52,000 --> 00:06:55,000
+komórek podstawowych oraz podporowych.
+
+76
+00:06:55,000 --> 00:07:00,000
+Czyli mamy takie trzy podstawowe rodzaje komórek, które tworzą nabłonek węchowy
+
+77
+00:07:00,000 --> 00:07:06,000
+i komórki receptorowe są pobudzane przez substancje rozpuszczone uprzednio w warstwie śluzu,
+
+78
+00:07:06,000 --> 00:07:10,000
+to o czym sobie mówiliśmy przed chwileczką, która pokrywa nabłonek
+
+79
+00:07:10,000 --> 00:07:15,000
+i ten śluz jest wydzielany przez specjalne komórki Bowmana.
+
+80
+00:07:15,000 --> 00:07:20,000
+I tutaj właśnie jest zaprezentowany schemat nabłonka węchowego,
+
+81
+00:07:20,000 --> 00:07:25,000
+więc mamy gruczoł Bowmana, czyli ten, który produkuje,
+
+82
+00:07:25,000 --> 00:07:29,000
+bardzo ważny dla prawidłowego funkcjonowania nabłonka węchowego śluz.
+
+83
+00:07:29,000 --> 00:07:34,000
+Mamy nasze neurony dwubiegunowe, neurony receptorowe węchu,
+
+84
+00:07:34,000 --> 00:07:38,000
+tutaj te zielone komóreczki, one mają takie charakterystyczne wypustki,
+
+85
+00:07:38,000 --> 00:07:44,000
+to są rzęski i na powierzchni tych rzęsek znajdują się receptory węchowe.
+
+86
+00:07:44,000 --> 00:07:52,000
+No i mamy jeszcze tak zwane komórki podporowe, te brązowe i komórki podstawne.
+
+87
+00:07:52,000 --> 00:07:55,000
+Tutaj one zostały wymienione jako jeden rodzaj, tam mamy kilka rodzajów,
+
+88
+00:07:55,000 --> 00:07:58,000
+właściwie dwa rodzaje komórek podstawnych
+
+89
+00:07:58,000 --> 00:08:01,000
+i te komórki podstawne to są komórki macierzyste.
+
+90
+00:08:01,000 --> 00:08:04,000
+Co to znaczy dla nas z perspektywy?
+
+91
+00:08:04,000 --> 00:08:07,000
+Myślę, że już kojarzycie, co to znaczy komórki macierzyste,
+
+92
+00:08:07,000 --> 00:08:10,000
+czyli takie, które mogą dawać inne typy komórek, takie komórki wyjściowe,
+
+93
+00:08:10,000 --> 00:08:14,000
+bo nasz nabłonek węchowy regeneruje się,
+
+94
+00:08:14,000 --> 00:08:19,000
+czyli jeżeli podczas jakiegoś powodu dojdzie do uszkodzenia tego nabłonka węchowego,
+
+95
+00:08:19,000 --> 00:08:22,000
+to on stanie się zregenerować,
+
+96
+00:08:22,000 --> 00:08:25,000
+też neurony mają swoją określoną żywotność,
+
+97
+00:08:25,000 --> 00:08:27,000
+czyli są po prostu wymieniane,
+
+98
+00:08:27,000 --> 00:08:30,000
+czyli jest to taka część naszego organizmu,
+
+99
+00:08:30,000 --> 00:08:33,000
+gdzie zachodzi ta regeneracja
+
+100
+00:08:33,000 --> 00:08:36,000
+i rzeczywiście na poziomie nabłonka węchowego
+
+101
+00:08:36,000 --> 00:08:40,000
+ona się odbywa przez całe nasze życie.
+
+102
+00:08:40,000 --> 00:08:44,000
+O tym decyduje obecność właśnie komórek podstawnych.
+
+103
+00:08:44,000 --> 00:08:47,000
+To nie jest stricte proces neurogenezy.
+
+104
+00:08:47,000 --> 00:08:51,000
+Tutaj mówimy o regeneracji nabłonka węchowego,
+
+105
+00:08:51,000 --> 00:08:55,000
+bo neurogeneza w kontekście osiedlkowego, kulendrowego
+
+106
+00:08:55,000 --> 00:08:58,000
+będzie szczegółowo omówiona,
+
+107
+00:08:58,000 --> 00:09:02,000
+czyli to jak nowe neurony powstają w naszym mózgu,
+
+108
+00:09:02,000 --> 00:09:05,000
+czyli w tym ośrodkowym układzie nerwowym.
+
+109
+00:09:05,000 --> 00:09:09,000
+Tutaj bardziej mamy poziom już obwodowego układu nerwowego,
+
+110
+00:09:09,000 --> 00:09:14,000
+tak jak powiedzieliśmy, tutaj jest pierwszy nerw czaszkowy,
+
+111
+00:09:14,000 --> 00:09:19,000
+ma swoją lokalizację, nerw węchowy.
+
+112
+00:09:20,000 --> 00:09:24,000
+Czy to wszystko, co mówię jest jasne?
+
+113
+00:09:24,000 --> 00:09:28,000
+Dajcie mi znać, czy to jest zrozumiałe,
+
+114
+00:09:28,000 --> 00:09:31,000
+czy są to dla Was informacje przydatne,
+
+115
+00:09:31,000 --> 00:09:36,000
+bo też jest to ważna informacja dla mnie zwrotna.
+
+116
+00:09:39,000 --> 00:09:42,000
+Tak jak powiedziałam już wcześniej,
+
+117
+00:09:42,000 --> 00:09:45,000
+tak oczywiście można zadawać pytania, zapraszam.
+
+118
+00:09:45,000 --> 00:09:49,000
+Nabłonek węchowy jest drogą z nosa do mózgu.
+
+119
+00:09:49,000 --> 00:09:55,000
+Komórki węchowe stykają się bezpośrednio ze światem zewnętrznym organizmu.
+
+120
+00:09:55,000 --> 00:09:57,000
+To już mówiłam wcześniej.
+
+121
+00:09:57,000 --> 00:10:03,000
+To jest taka unikalna wręcz cecha, jeśli chodzi o zmysł węchu
+
+122
+00:10:03,000 --> 00:10:05,000
+na tle innych zmysłów,
+
+123
+00:10:05,000 --> 00:10:07,000
+bo oczywiście możemy sobie teraz analizować,
+
+124
+00:10:07,000 --> 00:10:09,000
+jak to jest ze zmysłem wzroku.
+
+125
+00:10:09,000 --> 00:10:14,000
+Mamy oko, gdzie znajdują się komórki receptorowe,
+
+126
+00:10:14,000 --> 00:10:16,000
+znajdują się komórki nerwowe,
+
+127
+00:10:16,000 --> 00:10:19,000
+znajdują się na siatkówce, czyli z tyłu gałki oczy.
+
+128
+00:10:19,000 --> 00:10:26,000
+Nie mam bezpośredniego kontaktu neuronów siatkówki
+
+129
+00:10:26,000 --> 00:10:28,000
+ze środowiskiem zewnętrznym.
+
+130
+00:10:28,000 --> 00:10:33,000
+To inaczej wygląda w przypadku zmysłu węchu,
+
+131
+00:10:33,000 --> 00:10:36,000
+więc jest to bardzo wyjątkowe,
+
+132
+00:10:36,000 --> 00:10:38,000
+jeśli chodzi o ten kontakt bezpośredni.
+
+133
+00:10:38,000 --> 00:10:41,000
+Właściwie to jest taki kanał transmisji do naszego mózgu,
+
+134
+00:10:41,000 --> 00:10:43,000
+takie wrota do naszego mózgu,
+
+135
+00:10:43,000 --> 00:10:45,000
+więc też powinniśmy mieć świadomość tego,
+
+136
+00:10:45,000 --> 00:10:50,000
+jeżeli pracujemy z węchem i pracujemy bodźcując nasz mózg
+
+137
+00:10:50,000 --> 00:10:52,000
+różnymi substancjami,
+
+138
+00:10:52,000 --> 00:10:57,000
+mogącymi się do niego po prostu dostać z nosa do mózgu.
+
+139
+00:10:57,000 --> 00:11:01,000
+Na błędach węchowych pokrywa stale warstwa śluzu,
+
+140
+00:11:01,000 --> 00:11:03,000
+która jest jedyną przyrodą dzielącą komórki nerwowe
+
+141
+00:11:03,000 --> 00:11:05,000
+od świata zewnętrznego.
+
+142
+00:11:05,000 --> 00:11:07,000
+Jest to jedyne miejsce w organizmie człowieka,
+
+143
+00:11:07,000 --> 00:11:11,000
+gdzie komórki nerwowe bezpośrednio odbierają bodźce
+
+144
+00:11:11,000 --> 00:11:13,000
+ze środowiska zewnętrznego.
+
+145
+00:11:13,000 --> 00:11:17,000
+Mówiliśmy sobie od chwileczki o opuszczce węchowej
+
+146
+00:11:17,000 --> 00:11:22,000
+i jest ona jedyną częścią ośrodkowego układu nerwowego,
+
+147
+00:11:22,000 --> 00:11:26,000
+która nie jest chroniona przez oponę twardą.
+
+148
+00:11:26,000 --> 00:11:29,000
+Z powodu takiego położenia komórki węchowe
+
+149
+00:11:29,000 --> 00:11:32,000
+są wystawione na działanie różnych czynników,
+
+150
+00:11:32,000 --> 00:11:34,000
+na przykład wirusów,
+
+151
+00:11:34,000 --> 00:11:38,000
+o tym dużo było mówione w kontekście COVID-u,
+
+152
+00:11:38,000 --> 00:11:42,000
+ale ogólnie wirusy neurotropowe są dla nas problematyczne.
+
+153
+00:11:42,000 --> 00:11:47,000
+Ta droga też może tworzyć takie wrota dla infekcji wirusowych
+
+154
+00:11:47,000 --> 00:11:53,000
+i wirusy mogą przez te komórki nerwowe,
+
+155
+00:11:53,000 --> 00:11:55,000
+bezpośrednio kontaktując ze środowiskiem zewnętrznym,
+
+156
+00:11:55,000 --> 00:11:59,000
+docierać do ośrodkowego układu nerwowego.
+
+157
+00:12:00,000 --> 00:12:04,000
+Tutaj mamy jeszcze raz spojrzenie na nabłonek węchowy
+
+158
+00:12:04,000 --> 00:12:08,000
+i widzimy też właśnie dwa rodzaje tych komórek podstawnych.
+
+159
+00:12:08,000 --> 00:12:11,000
+Mówiłam wcześniej, że te basal cells tam były
+
+160
+00:12:11,000 --> 00:12:14,000
+jako jeden rodzaj z tym prostym rysunek.
+
+161
+00:12:14,000 --> 00:12:16,000
+Tutaj widzimy już dwa rodzaje kuliste
+
+162
+00:12:16,000 --> 00:12:19,000
+oraz poziomy horyzontalne komórki podstawne.
+
+163
+00:12:19,000 --> 00:12:21,000
+Widzimy nasze neurony,
+
+164
+00:12:21,000 --> 00:12:23,000
+tutaj mamy najpierw niedojrzały neuron węchowy,
+
+165
+00:12:23,000 --> 00:12:25,000
+później on dojrzewa.
+
+166
+00:12:25,000 --> 00:12:27,000
+Tutaj mamy też jeszcze komórki podporowe,
+
+167
+00:12:27,000 --> 00:12:32,000
+bardzo ważne, takie opiekuńcze komóreczki,
+
+168
+00:12:32,000 --> 00:12:37,000
+które dbają o to, żeby neurony prawidłowo funkcjonowały.
+
+169
+00:12:37,000 --> 00:12:39,000
+No i w covidzie zauważono,
+
+170
+00:12:39,000 --> 00:12:42,000
+że te komórki podporowe są atakowane, uszkadzane
+
+171
+00:12:42,000 --> 00:12:46,000
+i konsekwencją jest to jeden z patomechanizmów,
+
+172
+00:12:46,000 --> 00:12:53,000
+który wyjaśnia dlaczego dochodziło do utraty powonienia podczas covidu.
+
+173
+00:12:54,000 --> 00:12:57,000
+Opuszka węchowa to parzysty narząd,
+
+174
+00:12:57,000 --> 00:12:59,000
+który leży u podstawy mózgu
+
+175
+00:12:59,000 --> 00:13:03,000
+i jest to obwodowa część węchomózgowia.
+
+176
+00:13:03,000 --> 00:13:06,000
+Malutka struktura, możemy sobie...
+
+177
+00:13:06,000 --> 00:13:10,000
+Tak, pasmo węchowe jest przedłużeniem opuszki węchowej.
+
+178
+00:13:10,000 --> 00:13:13,000
+Za chwileczkę to będzie ładnie zilustrowane,
+
+179
+00:13:13,000 --> 00:13:15,000
+jest to słuszne,
+
+180
+00:13:15,000 --> 00:13:19,000
+Marta idzie troszeczkę dalej,
+
+181
+00:13:19,000 --> 00:13:21,000
+bo wiem, że Marta jest bardziej zaawansowana,
+
+182
+00:13:21,000 --> 00:13:24,000
+więc ona wie, że tam jest gdzieś pasmo węchowe.
+
+183
+00:13:24,000 --> 00:13:26,000
+Za chwileczkę będziemy mówić o pasmie węchowym,
+
+184
+00:13:26,000 --> 00:13:30,000
+którym neurony przekazują sygnały dalej do węchomózgowia
+
+185
+00:13:30,000 --> 00:13:33,000
+z właśnie pierwszej stacji, czyli z opuszki węchowej.
+
+186
+00:13:33,000 --> 00:13:35,000
+Więc mamy dwie opuszki węchowe,
+
+187
+00:13:35,000 --> 00:13:37,000
+to jest parzysty narząd,
+
+188
+00:13:37,000 --> 00:13:41,000
+zresztą nasz mózg to też dwie półkule, dwie opuszki węchowe,
+
+189
+00:13:41,000 --> 00:13:45,000
+dwa ciała migdałowate, dwa układy limbiczne.
+
+190
+00:13:46,000 --> 00:13:52,000
+Przeciętna długość to 6 do 14 milimetrów,
+
+191
+00:13:52,000 --> 00:13:54,000
+czyli takie około 10 milimetrów,
+
+192
+00:13:54,000 --> 00:13:57,000
+jeden centymetr można sobie taką średnią przyjąć,
+
+193
+00:13:57,000 --> 00:13:59,000
+a szerokość to 3,7,
+
+194
+00:13:59,000 --> 00:14:03,000
+czyli około powiedzmy, że 4 milimetry.
+
+195
+00:14:03,000 --> 00:14:07,000
+Objętość opuszki węchowej różni się w zależności od płci,
+
+196
+00:14:07,000 --> 00:14:12,000
+u mężczyzn jest większa niż u kobiet,
+
+197
+00:14:13,000 --> 00:14:15,000
+od poziomu sprawności węchowej,
+
+198
+00:14:15,000 --> 00:14:17,000
+czyli jeżeli będziemy ćwiczyć,
+
+199
+00:14:17,000 --> 00:14:21,000
+to jest szansa, że sobie zwiększymy objętość opuszki węchowej,
+
+200
+00:14:21,000 --> 00:14:23,000
+oczywiście ćwiczyć węchowo.
+
+201
+00:14:23,000 --> 00:14:29,000
+Z wiekiem się niestety opuszka zmniejsza,
+
+202
+00:14:29,000 --> 00:14:33,000
+ale też towarzyszy temu upośledzenie, osłabienie powonienia,
+
+203
+00:14:33,000 --> 00:14:37,000
+to też jest taki element starzenia się organizmu,
+
+204
+00:14:37,000 --> 00:14:41,000
+także powonienie się troszeczkę osłabia,
+
+205
+00:14:41,000 --> 00:14:43,000
+ona też może się dużo bardziej osłabiać
+
+206
+00:14:43,000 --> 00:14:46,000
+w chorobach neurodegeneracyjnych czy w depresji,
+
+207
+00:14:46,000 --> 00:14:50,000
+więc dzisiaj badamy temat,
+
+208
+00:14:50,000 --> 00:14:53,000
+jak to jest z tym bodźcowaniem zmysłów węchu,
+
+209
+00:14:53,000 --> 00:14:57,000
+czym możemy wykorzystywać aromaterapię
+
+210
+00:14:57,000 --> 00:14:59,000
+w profilaktyce tych chorób,
+
+211
+00:14:59,000 --> 00:15:02,000
+które wiążą się z osłabieniem powonienia,
+
+212
+00:15:02,000 --> 00:15:04,000
+to jest też przedmiot dzisiaj współczesnych badań.
+
+213
+00:15:04,000 --> 00:15:07,000
+Obecność zaburzeń depresyjnych osoby z depresją
+
+214
+00:15:07,000 --> 00:15:10,000
+mają mniejszą opuszkę węchową oraz gorszą sprawność węchową,
+
+215
+00:15:10,000 --> 00:15:12,000
+też o choroby neurodegeneracyjne,
+
+216
+00:15:12,000 --> 00:15:14,000
+czyli przykładowo w chorobie Alzheimera
+
+217
+00:15:14,000 --> 00:15:20,000
+też te ubytki neuronów mogą dotyczyć tej części układu węchowego.
+
+218
+00:15:20,000 --> 00:15:25,000
+I tak jak powiedzieliśmy sobie wcześniej,
+
+219
+00:15:25,000 --> 00:15:30,000
+tutaj nasz nabłonek węchowy się regeneruje,
+
+220
+00:15:30,000 --> 00:15:31,000
+jeszcze tylko na pytanie,
+
+221
+00:15:31,000 --> 00:15:36,000
+czy uszkodzenie w węchu przez nadmierne wystawienie zmysłu węchu na zapachy
+
+222
+00:15:36,000 --> 00:15:39,000
+powoduje, że aromaterapia jest bez wartości,
+
+223
+00:15:39,000 --> 00:15:41,000
+a substancji nie docierają do mózgu.
+
+224
+00:15:41,000 --> 00:15:49,000
+To znaczy nie uszkodzimy sobie węchu przez nadmierne wystawianie nas,
+
+225
+00:15:49,000 --> 00:15:50,000
+eksponowanie na zapach.
+
+226
+00:15:50,000 --> 00:15:53,000
+To, co się dzieje podczas nadmiernej ekspozycji,
+
+227
+00:15:53,000 --> 00:15:55,000
+to jest desensytyzacja,
+
+228
+00:15:55,000 --> 00:15:58,000
+czyli przyzwyczajenie się,
+
+229
+00:15:58,000 --> 00:16:01,000
+jakby receptory tracą wrażliwość,
+
+230
+00:16:01,000 --> 00:16:06,000
+to jest mechanizm takiego przyzwyczajenia się do tego zapachu,
+
+231
+00:16:06,000 --> 00:16:08,000
+który czujemy cały czas.
+
+232
+00:16:08,000 --> 00:16:13,000
+Więc jakby przeboćcowanie układu węchowego prowadzi do tego,
+
+233
+00:16:13,000 --> 00:16:16,000
+że on jest, nazwijmy to, niewrażliwy.
+
+234
+00:16:16,000 --> 00:16:19,000
+Dlatego w aromapsychologii stosujemy przerwy.
+
+235
+00:16:19,000 --> 00:16:20,000
+One są bardzo ważne.
+
+236
+00:16:20,000 --> 00:16:24,000
+Przerwy, prawidłowa wentylacja pomieszczeń, wietrzenie,
+
+237
+00:16:24,000 --> 00:16:26,000
+czyli takie boćcowanie.
+
+238
+00:16:26,000 --> 00:16:29,000
+Inaczej, kiedy oddziałujemy na układ oddechowy,
+
+239
+00:16:29,000 --> 00:16:32,000
+nie ma tutaj znaczenia stosowanie tych przerw.
+
+240
+00:16:32,000 --> 00:16:35,000
+Natomiast w aromapsychologii,
+
+241
+00:16:35,000 --> 00:16:38,000
+w kontekście wpływu na np. nasze emocje,
+
+242
+00:16:38,000 --> 00:16:41,000
+bardzo ważnym elementem są przerwy.
+
+243
+00:16:41,000 --> 00:16:43,000
+One też mogą mieć takie znaczenie terapeutyczne,
+
+244
+00:16:43,000 --> 00:16:47,000
+czyli jeżeli zbyt długo jesteśmy eksponowani na zapach
+
+245
+00:16:47,000 --> 00:16:51,000
+i zbyt dużo jest intensywności w tej ekspozycji,
+
+246
+00:16:51,000 --> 00:16:56,000
+to konsekwencją tego jest to, że możemy być poirytowani.
+
+247
+00:16:56,000 --> 00:17:01,000
+Czyli efekt pojawia się przeciwny do tego najczęściej zamierzonego.
+
+248
+00:17:01,000 --> 00:17:06,000
+Dobrze, więc jeszcze tylko tutaj cofnę.
+
+249
+00:17:06,000 --> 00:17:09,000
+Czy odpowiedziałam dokładnie na to pytanie?
+
+250
+00:17:09,000 --> 00:17:11,000
+Czy wszystko powiedziałam?
+
+251
+00:17:11,000 --> 00:17:15,000
+Substancje docierają do mózgu,
+
+252
+00:17:15,000 --> 00:17:18,000
+receptory nie przekazują sygnałów,
+
+253
+00:17:18,000 --> 00:17:22,000
+bo po prostu jest taka już oporność na ten sygnał.
+
+254
+00:17:22,000 --> 00:17:25,000
+Tutaj mi pytanie zniknęło,
+
+255
+00:17:25,000 --> 00:17:28,000
+ale chyba już odpowiedziałam.
+
+256
+00:17:32,000 --> 00:17:35,000
+Także tutaj nie uszkadzamy,
+
+257
+00:17:35,000 --> 00:17:38,000
+natomiast gdybyśmy mówili o uszkodzeniu, jest ono możliwe,
+
+258
+00:17:38,000 --> 00:17:43,000
+jeżeli substancje, które wrychamy,
+
+259
+00:17:43,000 --> 00:17:45,000
+w jakiś sposób mają potencjał uszkadzający,
+
+260
+00:17:45,000 --> 00:17:50,000
+czyli mogą być w jakiś sposób toksyczne dla neuronów,
+
+261
+00:17:50,000 --> 00:17:52,000
+to wówczas jest możliwe jakieś uszkodzenie,
+
+262
+00:17:52,000 --> 00:17:55,000
+ale w aromaterapii nie znam takich przykładów.
+
+263
+00:17:55,000 --> 00:17:58,000
+Oczywiście jakieś podrażnienie jest możliwe
+
+264
+00:17:58,000 --> 00:18:01,000
+przy intensywnych praktykach,
+
+265
+00:18:01,000 --> 00:18:06,000
+czyli jest to możliwe, jeżeli bardzo jesteśmy agresywni,
+
+266
+00:18:06,000 --> 00:18:09,000
+stosujemy jakieś nebulizacje, maseczki,
+
+267
+00:18:09,000 --> 00:18:17,000
+to jest to możliwe, że pojawi się jakiś efekt toksyczny.
+
+268
+00:18:17,000 --> 00:18:21,000
+Z czym związana jest gorsza sprawność węchowa u osób z depresją?
+
+269
+00:18:21,000 --> 00:18:23,000
+Może to sobie zostawimy na później.
+
+270
+00:18:23,000 --> 00:18:26,000
+Gdybym nie odpowiedziała, bo może mi to wyleciać,
+
+271
+00:18:27,000 --> 00:18:31,000
+to później będziemy mówić o tej sprawności węchowej w kontakcie depresji,
+
+272
+00:18:31,000 --> 00:18:34,000
+więc może poczekamy z tym pytaniem.
+
+273
+00:18:34,000 --> 00:18:36,000
+Jak długie przerwy?
+
+274
+00:18:36,000 --> 00:18:42,000
+Pamiętam, że np. godzina dyfuzowania i przerwa,
+
+275
+00:18:42,000 --> 00:18:47,000
+ale długość tych przerw jest dosyć taka umowna,
+
+276
+00:18:47,000 --> 00:18:51,000
+czyli to też może być kwestia, co jest bardzo ważne,
+
+277
+00:18:51,000 --> 00:18:53,000
+jeżeli chodzi o aromaterapię.
+
+278
+00:18:53,000 --> 00:18:56,000
+To jest efekt hedonistyczny, czyli przyjemność.
+
+279
+00:18:56,000 --> 00:18:59,000
+I to jest sprawa też troszeczkę indywidualna,
+
+280
+00:18:59,000 --> 00:19:02,000
+czyli przede wszystkim powinniśmy tak zaprojektować
+
+281
+00:19:02,000 --> 00:19:04,000
+dla danej osoby aromaterapię,
+
+282
+00:19:04,000 --> 00:19:10,000
+żeby ona doświadczała przyjemności wynikającej z obsowania z tym zapachem.
+
+283
+00:19:10,000 --> 00:19:14,000
+Więc te przerwy to może być np. godzinka czy dłużej,
+
+284
+00:19:14,000 --> 00:19:19,000
+ale to bardziej chodzi o to, że w praktyce, w życiu codziennym
+
+285
+00:19:19,000 --> 00:19:24,000
+najczęściej jest tak, że my stosujemy np. jakieś rundę aromaterapii wieczornej,
+
+286
+00:19:24,000 --> 00:19:27,000
+bo załóżmy ktoś chce sobie poprawić sobie jakoś snu.
+
+287
+00:19:27,000 --> 00:19:31,000
+I wtedy jest określony kontekst, kiedy jest takie okno terapeutyczne,
+
+288
+00:19:31,000 --> 00:19:33,000
+albo w treningu węchowem robimy to rano i wieczorem,
+
+289
+00:19:33,000 --> 00:19:36,000
+czyli ustrukturyzowujemy sobie tę ekspozycję na zapach.
+
+290
+00:19:36,000 --> 00:19:43,000
+Więc tak naprawdę to kwestia jest tego, jaki kto prowadzi tryb życia
+
+291
+00:19:43,000 --> 00:19:47,000
+i raczej nie jest tak, że ktoś cały dzień się poddaje aromaterapii,
+
+292
+00:19:47,000 --> 00:19:51,000
+bo to nie ma sensu, to spowoduje bardzo szybko różne objawy,
+
+293
+00:19:51,000 --> 00:19:57,000
+nazwijmy to takiego przestymulowania i też niechęci do praktyki aromaterapii.
+
+294
+00:19:57,000 --> 00:20:01,000
+Więc tak jak w muzyce ważna jest cisza, tak samo w aromaterapii potrzebna jest
+
+295
+00:20:01,000 --> 00:20:09,000
+ta przestrzeń, kiedy jest odpoczynek od jakiejkolwiek ekspozycji na olejki etryczne.
+
+296
+00:20:11,000 --> 00:20:15,000
+Dobrze, wrócimy teraz do naszego nabłonka węchowego.
+
+297
+00:20:15,000 --> 00:20:20,000
+Dzięki obecności komórek macierzystych, komórki nabłonka stale się odnawiają,
+
+298
+00:20:20,000 --> 00:20:25,000
+czyli te komórki macierzyste dają źródło dla innych komórek nabłonka,
+
+299
+00:20:25,000 --> 00:20:29,000
+czyli z nich powstają komórki podporowe, z nich powstają te neurony dwubiegunowe,
+
+300
+00:20:29,000 --> 00:20:35,000
+czyli receptorowe węchu, czy też komórki bałmana,
+
+301
+00:20:35,000 --> 00:20:38,000
+chyba też będą powstawały z tych komórek macierzystych.
+
+302
+00:20:38,000 --> 00:20:43,000
+Nerwy węchowe regenerują się przez całe życie.
+
+303
+00:20:43,000 --> 00:20:46,000
+Na poziomie nabłonka węchowego w ciągu życia następuje osłabienie
+
+304
+00:20:46,000 --> 00:20:50,000
+regeneracji węchowych neuronów przeciowych i po 55 roku życia obserwuje się
+
+305
+00:20:50,000 --> 00:20:56,000
+wyraźny spadek sprawności węchowej, któremu towarzyszy istotne zmniejszenie się
+
+306
+00:20:56,000 --> 00:21:00,000
+opuszki węchowej, o czym sobie już też wcześniej powiedzieliśmy.
+
+307
+00:21:01,000 --> 00:21:09,000
+Kolejny temat to jak rozpoznajemy zapachy, jaka jest tutaj taka biomechanika.
+
+308
+00:21:09,000 --> 00:21:14,000
+To jest temat, który został opracowany w 2004 roku przez noblistów.
+
+309
+00:21:14,000 --> 00:21:19,000
+Oni otrzymali za to Nagrodę Nobla, to byli dwaj autorzy, Linda Axel i Linda Book
+
+310
+00:21:19,000 --> 00:21:24,000
+i Richard Axel i o tym za chwileczkę powiem więcej, ale już tutaj widzimy
+
+311
+00:21:24,000 --> 00:21:29,000
+pierwsze takie wstępne informacje płynące z ich pracy naukowej,
+
+312
+00:21:29,000 --> 00:21:35,000
+czyli widzimy to, że każdy neuron receptorowy i receptory, które znajdują się
+
+313
+00:21:35,000 --> 00:21:42,000
+na wypustkach, na zakończeniach tutaj na tych rzęskach komórek dwubiegunowych
+
+314
+00:21:42,000 --> 00:21:49,000
+mają określony kolor i tutaj mamy sąsiadujące ze sobą dwie komórki dwubiegunowe,
+
+315
+00:21:49,000 --> 00:21:54,000
+dwa neurony receptorowe węchu i proszę zobaczyć, że tu mamy wypustkę jednej komórki
+
+316
+00:21:54,000 --> 00:21:57,000
+w powiększeniu, a tu jest wypustka drugiej komóreczki w powiększeniu
+
+317
+00:21:57,000 --> 00:22:03,000
+i one mają inny kolor, co pokazuje nam, ilustruje nam, że mają inny typ receptora.
+
+318
+00:22:03,000 --> 00:22:11,000
+Jeden neuron, jedna komórka, to jest jeden typ receptora i później te neurony
+
+319
+00:22:11,000 --> 00:22:15,000
+sobie wędrują do opuszki węchowej, gdzie znajdują się takie specjalne
+
+320
+00:22:15,000 --> 00:22:22,000
+kłębuszki węchowe i widzimy, że te kłębuszki węchowe też mają określony kolor.
+
+321
+00:22:27,000 --> 00:22:32,000
+Molekularne i komórkowe mechanizmy, tak jak powiedziałam, rozpoznawania
+
+322
+00:22:32,000 --> 00:22:37,000
+praców zapachowych zostały odkryte przez Lindenburg i Richarda Axela.
+
+323
+00:22:37,000 --> 00:22:47,000
+Były to prace publikowane od 1991 roku i ostatecznie honorowane nagrodą Nobla.
+
+324
+00:22:47,000 --> 00:22:51,000
+Nobliści na podstawie badań nabłonka węchowego myszy opisali sposób interpretacji
+
+325
+00:22:51,000 --> 00:22:57,000
+w mózgu wzorców pobudzenia nabłonka węchowego i to, co jest ważne dla nas
+
+326
+00:22:57,000 --> 00:23:01,000
+do zapamiętania, dana substancja zapachowa pobudza w jamie nosowej
+
+327
+00:23:01,000 --> 00:23:07,000
+określoną kombinacją neuronów węchowych, czyli nie jest tak, że mamy jeden receptor
+
+328
+00:23:07,000 --> 00:23:12,000
+dla jednej substancji, czyli załóżmy, jest sobie tutaj eugenol albo cineol
+
+329
+00:23:12,000 --> 00:23:17,000
+i on wędruje sobie do naszego nabłonka i tam, gdzie znajduje się receptor,
+
+330
+00:23:17,000 --> 00:23:24,000
+który łączy się z tym eugenolem i dzięki temu do mózgu przydostaje się informacja,
+
+331
+00:23:24,000 --> 00:23:28,000
+że oto zapach olejku goździkowego czujemy.
+
+332
+00:23:31,000 --> 00:23:35,000
+Czy molekuły zapachowe dostają się do całego nosa czy tylko tak,
+
+333
+00:23:35,000 --> 00:23:39,000
+jak to jest pokazane na prezentacji? Molekuły zapachowe dostają się razem
+
+334
+00:23:39,000 --> 00:23:45,000
+z wdychanym powietrzem do naszego układu oddechowego, czyli znajdują się
+
+335
+00:23:45,000 --> 00:23:49,000
+w naszej i najpierw jamie nosowej i ten strumień sobie wędruje dalej.
+
+336
+00:23:50,000 --> 00:23:58,000
+I teraz tutaj w kontakcie pewna ilość powietrza wpada w kontakt z błoną śluzową,
+
+337
+00:23:58,000 --> 00:24:03,000
+z nabłonkiem jamy nosowej, który może mieć charakter nabłonka oddechowego,
+
+338
+00:24:03,000 --> 00:24:07,000
+o czym mówiliśmy wcześniej, albo nabłonka węchowego, czyli w górnej części jamy nosowej,
+
+339
+00:24:07,000 --> 00:24:11,000
+w sklepieniu jamy nosowej. Tu jest nabłonek węchowy, ten grubszy, inaczej zbudowany,
+
+340
+00:24:11,000 --> 00:24:16,000
+ten, który zawiera receptor dla powonienia, zmysłu węchu.
+
+341
+00:24:16,000 --> 00:24:23,000
+Więc generalnie cała jama nosowa jest eksponowana, natomiast tam,
+
+342
+00:24:23,000 --> 00:24:26,000
+gdzie jest kontakt substancji bezpośrednio z błoną śluzową,
+
+343
+00:24:26,000 --> 00:24:31,000
+dostają się substancje bezpośrednio, mogą się komunikować,
+
+344
+00:24:31,000 --> 00:24:35,000
+że tak powiem, w jakiś sposób dalej ten sygnał może być przesyłany,
+
+345
+00:24:35,000 --> 00:24:38,000
+czyli może się też wchłonąć do naczyniek krwonośnych,
+
+346
+00:24:38,000 --> 00:24:42,000
+może coś się wchłonąć drogą trójdzielnego czy nerwu węchowego.
+
+347
+00:24:45,000 --> 00:24:50,000
+Ale czy u zwierząt całą funkcję przetwarzania substancji chemicznych
+
+348
+00:24:50,000 --> 00:24:53,000
+przyjmuje narząd Jakobsona? Nie wiem dokładnie, jak to jest u zwierząt,
+
+349
+00:24:53,000 --> 00:25:01,000
+bo ja studiuję ludzki układ węchowy, on funkcjonuje troszeczkę inaczej u ssaków.
+
+350
+00:25:01,000 --> 00:25:06,000
+Generalnie jest ważny u człowieka, wiemy o tym, że doszło do redukcji tego powonienia,
+
+351
+00:25:06,000 --> 00:25:10,000
+ale okazuje się, że jednak ewolucyjnie ten zmysł jest dla nas bardzo ważny
+
+352
+00:25:10,000 --> 00:25:16,000
+i ma bardzo ciekawe powiązania właśnie z tą korą, tym ssaczem, mózgiem
+
+353
+00:25:16,000 --> 00:25:20,000
+i też to implikacje dla nas daje w bardzo fajne praktyczne.
+
+354
+00:25:20,000 --> 00:25:27,000
+Ale tutaj co do układu węchowego zwierząt, to najwięcej wiem na temat
+
+355
+00:25:27,000 --> 00:25:30,000
+tak naprawdę myszy laboratoryjnych czy szczurów,
+
+356
+00:25:30,000 --> 00:25:32,000
+dlatego że bardzo często te badania przedkliniczne,
+
+357
+00:25:32,000 --> 00:25:36,000
+które później mają dla nas być inspiracją do dalszych badań na ludziach
+
+358
+00:25:36,000 --> 00:25:41,000
+są prowadzone na tym modelu zwierzęcem, więc ja się niestety nie specjalizuję
+
+359
+00:25:41,000 --> 00:25:46,000
+w tym kontekście. No właśnie, króliki, także to nie moja specjalizacja,
+
+360
+00:25:46,000 --> 00:25:51,000
+może kiedyś do tego momentu się jakoś tam, no raczej koncentruje się
+
+361
+00:25:51,000 --> 00:25:54,000
+na neurobiologii ludzkiej, a ona jest tak obszerna,
+
+362
+00:25:54,000 --> 00:25:58,000
+że już tutaj przestrzeni mi brakuje na zwierzątka.
+
+363
+00:25:58,000 --> 00:26:01,000
+Tak więc pamiętamy, dana substancja zapachowa
+
+364
+00:26:01,000 --> 00:26:05,000
+pobudza w jamie nosowej określoną kombinację neuronów węchowych
+
+365
+00:26:05,000 --> 00:26:09,000
+i to jest na tym schemacie tutaj przedstawione, czyli mamy odoranta,
+
+366
+00:26:09,000 --> 00:26:13,000
+substancję zapachową, widzimy, że ona ma określone cechy,
+
+367
+00:26:13,000 --> 00:26:17,000
+czyli ma określony kształt, tutaj określone kolory
+
+368
+00:26:17,000 --> 00:26:23,000
+i teraz dana substancja łączy się z nie jednym receptorem,
+
+369
+00:26:23,000 --> 00:26:28,000
+ale kilkoma, tak, czyli pobudza określoną kombinację,
+
+370
+00:26:28,000 --> 00:26:35,000
+to ta kombinacja receptorów daje nam później informację,
+
+371
+00:26:35,000 --> 00:26:40,000
+że mamy do czynienia z tą jedną substancją.
+
+372
+00:26:43,000 --> 00:26:48,000
+Jedna substancja zapachowa może być rozpoznawana przez wiele typów receptorów
+
+373
+00:26:48,000 --> 00:26:52,000
+i teraz w nabłonku węchowym człowieka znajduje się
+
+374
+00:26:52,000 --> 00:26:58,000
+339 różnych białek receptorowych, czyli różnych receptorów,
+
+375
+00:26:58,000 --> 00:27:05,000
+czyli tak naprawdę różnych neuronów receptorowych węchu,
+
+376
+00:27:05,000 --> 00:27:08,000
+w milionach komórek nabłonka węchowego.
+
+377
+00:27:08,000 --> 00:27:12,000
+Cechy kształtu różnych receptorów oraz cząsteczek odorantów
+
+378
+00:27:12,000 --> 00:27:16,000
+reprezentują oczywiście różne właściwości chemiczne i stereochemiczne
+
+379
+00:27:16,000 --> 00:27:20,000
+reprezentujące o wzajemnym powinnowatwie,
+
+380
+00:27:20,000 --> 00:27:26,000
+czyli taki kształt łączy się z tym receptorem i z tym receptorem,
+
+381
+00:27:26,000 --> 00:27:31,000
+czyli to jest kombinacja receptorów, która jest pobudzana
+
+382
+00:27:31,000 --> 00:27:35,000
+przez tą daną substancję zapachową.
+
+383
+00:27:35,000 --> 00:27:40,000
+No i tutaj liczba wzorców pobudzenia tych receptorów
+
+384
+00:27:40,000 --> 00:27:45,000
+jest niemal nieograniczona i dzięki temu możemy rozpoznawać
+
+385
+00:27:45,000 --> 00:27:51,000
+też, no to nie jest tak, że nieograniczono ilość zapachów,
+
+386
+00:27:51,000 --> 00:27:55,000
+ale u ludzi mówi się o tysiącach różnych zapachów.
+
+387
+00:27:55,000 --> 00:28:01,000
+Oczywiście im ktoś bardziej ćwiczy, tym bardziej też te jego
+
+388
+00:28:01,000 --> 00:28:06,000
+możliwości węchowe i możliwości rozróżniania różnych zapachów
+
+389
+00:28:06,000 --> 00:28:12,000
+będą też bardziej takie precyzyjne i dokładne.
+
+390
+00:28:12,000 --> 00:28:16,000
+Więc mówi się o tym, że takie osoby z dobrym węchem,
+
+391
+00:28:16,000 --> 00:28:25,000
+z tutaj taką praktyką, szczególnie w perfumiarstwie to się często wydarza.
+
+392
+00:28:25,000 --> 00:28:30,000
+Perfumiarzy mają bardzo dobrze rozwiniętą tą percepcję wrażeń węchowych
+
+393
+00:28:30,000 --> 00:28:36,000
+i potrafią rozpoznawać nawet powyżej 10 tysięcy różnych zapachów.
+
+394
+00:28:36,000 --> 00:28:45,000
+I tutaj slajd z strony nobelprize.org, on też później był przedrukowany,
+
+395
+00:28:45,000 --> 00:28:49,000
+między innymi u Państwa Brudów, możecie Państwo znaleźć ten rysuneczek
+
+396
+00:28:49,000 --> 00:28:55,000
+w Księżyce Podstawy Perfumerii i widzimy właśnie jak to wygląda.
+
+397
+00:28:55,000 --> 00:28:59,000
+Czyli mamy nasze odoranty, tutaj są neurony dwubiegunowe,
+
+398
+00:28:59,000 --> 00:29:03,000
+widzimy te różne kolory, różne później opuszki węchowe
+
+399
+00:29:03,000 --> 00:29:08,000
+i te sygnały są przekazywane dalej i mamy tak naprawdę taką sytuację,
+
+400
+00:29:08,000 --> 00:29:15,000
+że jedna substancja może pobudzać określoną kombinację różnych receptorów.
+
+401
+00:29:15,000 --> 00:29:18,000
+Każda komórka węchowa ma jeden typ receptora
+
+402
+00:29:18,000 --> 00:29:22,000
+i reaguje jedynie na niektóre substancje zapachowe,
+
+403
+00:29:22,000 --> 00:29:25,000
+ale dana substancja zapachowa pobudza w jamienosowej
+
+404
+00:29:25,000 --> 00:29:29,000
+już określoną kombinację receptorów węchowych.
+
+405
+00:29:33,000 --> 00:29:38,000
+No więc tak widzimy, że tutaj na początek jest taka kombinacja
+
+406
+00:29:38,000 --> 00:29:41,000
+i później mózg to musi przetworzyć,
+
+407
+00:29:41,000 --> 00:29:46,000
+czyli w mózgu dochodzi do połączenia poszczególnych elementów w całość,
+
+408
+00:29:46,000 --> 00:29:50,000
+czyli dochodzi do syntezy tych wrażeń węchowych.
+
+409
+00:29:50,000 --> 00:29:56,000
+Zdolność percepcji zapachu jest wynikiem obecności dużej liczby receptorów węchowych
+
+410
+00:29:56,000 --> 00:29:59,000
+znajdujących się na błonku węchowym w jamienosowej.
+
+411
+00:29:59,000 --> 00:30:02,000
+Zapachy wykrywane przez te same retetory
+
+412
+00:30:02,000 --> 00:30:05,000
+mają pokrewne, po prostu zbliżone struktury chemiczne,
+
+413
+00:30:05,000 --> 00:30:09,000
+bo tutaj decyduje o tym chemia, stereochemia, tak budowa przestrzenna.
+
+414
+00:30:09,000 --> 00:30:13,000
+Każdy rodzaj receptora rozpoznaje niewielką liczbę zapachów
+
+415
+00:30:13,000 --> 00:30:17,000
+i istnieje złożony kod receptorowy,
+
+416
+00:30:17,000 --> 00:30:25,000
+według którego określona substancja pobudza zdefiniowany zespół neuronów węchowych.
+
+417
+00:30:25,000 --> 00:30:31,000
+To, że potrafimy rozróżnić nawet kilkanaście tysięcy rozmaitych zapachów
+
+418
+00:30:31,000 --> 00:30:38,000
+zawdzięczamy wielostopniowej obróbce bodźców węchowych przez nasz układ nerwowy,
+
+419
+00:30:38,000 --> 00:30:40,000
+czyli pierwsza sprawa to jest ten poziom nabłonka węchowego,
+
+420
+00:30:40,000 --> 00:30:48,000
+ale druga sprawa to jest to, co się dzieje na poziomie już ośrodkowego układu nerwowego.
+
+421
+00:30:48,000 --> 00:30:51,000
+Nerw węchowy jest pierwszym nerwem czaszkowym,
+
+422
+00:30:51,000 --> 00:30:55,000
+przynajmniej jeden z dwunastu nerwów czaszkowych.
+
+423
+00:30:55,000 --> 00:30:59,000
+Składa się z dwudziestu nici węchowych, które odchodzą od komórek węchowych
+
+424
+00:30:59,000 --> 00:31:03,000
+mieszczących się w polu węchowym jamy nosowej.
+
+425
+00:31:03,000 --> 00:31:08,000
+Nici węchowe wchodzą do jamy czaszki przez blaszkę sitową kości sitowe
+
+426
+00:31:08,000 --> 00:31:10,000
+i kończą się w opuszczce węchowej.
+
+427
+00:31:10,000 --> 00:31:12,000
+Za chwileczkę sobie to wyjaśnimy, gdzie jest ta kość sitowa,
+
+428
+00:31:12,000 --> 00:31:16,000
+gdzie są te dziurki, przez które przychodzą nici węchowe.
+
+429
+00:31:16,000 --> 00:31:23,000
+Pomiędzy receptorami i ośrodkami chorowymi występuje tylko jedna synapsa.
+
+430
+00:31:23,000 --> 00:31:29,000
+Ale to jest ważne, czas reakcji na zapach jest stosunkowo długi
+
+431
+00:31:29,000 --> 00:31:32,000
+i wynosi tutaj od 0,6 do 2 sekund. Dlaczego?
+
+432
+00:31:32,000 --> 00:31:39,000
+Dlatego, że aksony dróg węchowych nie są zmielinizowane.
+
+433
+00:31:39,000 --> 00:31:45,000
+Mielina, mielinizacja, mówię o osłonce mielinowej.
+
+434
+00:31:45,000 --> 00:31:48,000
+Mielina to jest osłonka mielinowa, która odpowiedzialna jest za to,
+
+435
+00:31:48,000 --> 00:31:56,000
+że sygnały są znacznie szybciej przesyłane w naszym mózgu
+
+436
+00:31:56,000 --> 00:31:59,000
+czy w obwodowym układzie nerwowym.
+
+437
+00:31:59,000 --> 00:32:11,000
+I tutaj właśnie ten nerw węchowy jest nerwem niezmielinizowanym.
+
+438
+00:32:15,000 --> 00:32:17,000
+To były dosyć skomplikowane rzeczy.
+
+439
+00:32:17,000 --> 00:32:19,000
+Będziemy teraz wchodzić jeszcze bardziej w szczegółę,
+
+440
+00:32:19,000 --> 00:32:22,000
+ale dajcie znać, jeśli coś jest niejasne
+
+441
+00:32:22,000 --> 00:32:25,000
+albo to, co powiedziałam jest zrozumiałe,
+
+442
+00:32:25,000 --> 00:32:30,000
+to kodowanie zapachów na początek może się wydawać takie jakieś trudne, dziwne.
+
+443
+00:32:30,000 --> 00:32:39,000
+Wiem, że też nie zawsze od razu to się ładnie nam układa.
+
+444
+00:32:39,000 --> 00:32:43,000
+Model przekazywania sygnałów z nabłonka węchowego do ośrodka korowego.
+
+445
+00:32:43,000 --> 00:32:47,000
+Czyli najpierw mamy tutaj nabłonek węchowy,
+
+446
+00:32:47,000 --> 00:32:52,000
+mamy pobudzenie kombinacji receptorów,
+
+447
+00:32:52,000 --> 00:32:58,000
+czyli tak jak powiedzieliśmy jeden odorant pobudza określeną kombinację receptorów
+
+448
+00:32:58,000 --> 00:33:03,000
+i dalej sygnały sobie wędrują do pierwszej stacji przekaźnikowej,
+
+449
+00:33:03,000 --> 00:33:07,000
+czyli do naszej opuszki węchowej, która znajduje się mniej więcej tutaj,
+
+450
+00:33:07,000 --> 00:33:12,000
+czyli nad polem węchowym jest kość sitowa
+
+451
+00:33:12,000 --> 00:33:19,000
+i zaraz nad tą kością sitową, nazwa sitowa też od razu nas trochę informuje,
+
+452
+00:33:19,000 --> 00:33:27,000
+że tam są takie dziurki jak w sicie i przez te dziurki przechodzą nici węchowe
+
+453
+00:33:27,000 --> 00:33:31,000
+i dostają się neurony węchowe do opuszki węchowej.
+
+454
+00:33:31,000 --> 00:33:34,000
+I mamy tą pierwszą stację, tu jest pierwsza synapsa
+
+455
+00:33:34,000 --> 00:33:38,000
+i dalej pasmem węchowym, o które pytała Marta,
+
+456
+00:33:38,000 --> 00:33:42,000
+idą sygnały już do ośrodków korowych,
+
+457
+00:33:42,000 --> 00:33:46,000
+czyli do węchomuzgowia, ale też to może iść dalej.
+
+458
+00:33:46,000 --> 00:33:50,000
+I teraz wchodzimy sobie bardziej w nasz mózg już,
+
+459
+00:33:50,000 --> 00:33:52,000
+czyli idziemy piętro wyżej,
+
+460
+00:33:52,000 --> 00:33:55,000
+czyli sobie omówiliśmy dokładnie poziom nabłonka węchowego,
+
+461
+00:33:55,000 --> 00:33:57,000
+omówiliśmy o opuszce węchowej,
+
+462
+00:33:57,000 --> 00:34:03,000
+no i teraz co się dzieje dalej w naszym układzie limbicznym, ale nie tylko.
+
+463
+00:34:03,000 --> 00:34:07,000
+Tutaj mamy różne obszary tego układu,
+
+464
+00:34:07,000 --> 00:34:11,000
+zresztą za chwileczkę ja to pokażę na takim rysunku bardziej neuroanatomicznym,
+
+465
+00:34:11,000 --> 00:34:16,000
+to jest schemat, który trochę nas to wprowadza w ten pewien poziom uszczegłowienia,
+
+466
+00:34:16,000 --> 00:34:20,000
+więc widzimy różne nazwy, widzimy jądro migdałowate,
+
+467
+00:34:20,000 --> 00:34:25,000
+ciało migdałowate jest bardziej znaną nazwą,
+
+468
+00:34:25,000 --> 00:34:30,000
+ale ciało migdałowate amygdala z języka angielskiego zawiera jądra,
+
+469
+00:34:30,000 --> 00:34:34,000
+i to jądro migdałowate tutaj się pojawiło nam na naszym schemacie.
+
+470
+00:34:34,000 --> 00:34:37,000
+Mamy guzki węchowe, mamy kory gruszkowatą,
+
+471
+00:34:37,000 --> 00:34:40,000
+kora gruszkowata jest też ważną częścią węchomuzgowia,
+
+472
+00:34:40,000 --> 00:34:43,000
+przednie jądro węchowe to jest na początek,
+
+473
+00:34:43,000 --> 00:34:46,000
+jeszcze właśnie tutaj jak idą sygnały z opuszki węchowej,
+
+474
+00:34:46,000 --> 00:34:49,000
+no to tam potykają na swojej drodze przednie jądro węchowe,
+
+475
+00:34:49,000 --> 00:34:53,000
+mamy kory śródwęchową, też taki ważny ośrodek łączący,
+
+476
+00:34:53,000 --> 00:34:56,000
+też łącznik z hipokampem,
+
+477
+00:34:56,000 --> 00:34:59,000
+i mamy jeszcze pierwszorzędową korę węchową.
+
+478
+00:34:59,000 --> 00:35:03,000
+Tak więc widzimy tutaj mniej więcej co się dzieje z tymi sygnałami,
+
+479
+00:35:03,000 --> 00:35:07,000
+gdzie one wędrują już na poziomie naszego mózgu.
+
+480
+00:35:07,000 --> 00:35:10,000
+Inne jeszcze takie spojrzenie,
+
+481
+00:35:10,000 --> 00:35:14,000
+tutaj już jest to bardziej poukładane neuroanatomicznie,
+
+482
+00:35:14,000 --> 00:35:17,000
+więc mamy taką powiększoną opuszkę węchową,
+
+483
+00:35:17,000 --> 00:35:20,000
+do której wędrują sobie sygnały z nabłonka węchowego,
+
+484
+00:35:20,000 --> 00:35:23,000
+tutaj mamy komórki mitralne i pędzelkowate,
+
+485
+00:35:23,000 --> 00:35:27,000
+mitralcel i tuftet, taftet może bardziej powinno się czytać z języka angielskiego,
+
+486
+00:35:27,000 --> 00:35:31,000
+czyli takie dwa podstawowe typy jest tych typów,
+
+487
+00:35:31,000 --> 00:35:35,000
+więcej komórek nerwowych już w opuszce węchowej,
+
+488
+00:35:35,000 --> 00:35:39,000
+i dalej sygnały są pasmem węchowym
+
+489
+00:35:39,000 --> 00:35:43,000
+przesyłane do przedniego jądra węchowego,
+
+490
+00:35:43,000 --> 00:35:46,000
+do gózka węchowego, do kory gruszkowatej,
+
+491
+00:35:46,000 --> 00:35:50,000
+dalej pojawia się na drodze ciało migdałowate i kora śródwęchowa,
+
+492
+00:35:50,000 --> 00:35:53,000
+i ta kora śródwęchowa jest taką stacją przekaźnikową,
+
+493
+00:35:53,000 --> 00:35:56,000
+jak tutaj widzicie, do hipokampu.
+
+494
+00:35:56,000 --> 00:35:58,000
+Później będziemy patrzeć na neuroanatomię,
+
+495
+00:35:58,000 --> 00:36:01,000
+to zobaczycie, że hipokamp jest trochę bardziej z tyłu,
+
+496
+00:36:01,000 --> 00:36:04,000
+i on się łączy właśnie z tą korą śródwęchową.
+
+497
+00:36:04,000 --> 00:36:07,000
+No i proszę zobaczmy, tutaj jeszcze dalej mamy podzgórze,
+
+498
+00:36:07,000 --> 00:36:10,000
+ale jak idziemy sobie w dół tymi strzałeczkami,
+
+499
+00:36:10,000 --> 00:36:13,000
+to się okazuje, że sygnały wędrują albo do wzgórza,
+
+500
+00:36:13,000 --> 00:36:15,000
+albo omijają wzgórze.
+
+501
+00:36:15,000 --> 00:36:18,000
+Wzgórze to jest taka ważna stacja przekaźnikowa
+
+502
+00:36:18,000 --> 00:36:22,000
+dla informacji czuciowych, takich sensorycznych ze środowiska.
+
+503
+00:36:22,000 --> 00:36:24,000
+I właśnie węg się tym wyróżnia,
+
+504
+00:36:24,000 --> 00:36:28,000
+że niektóre sygnały nie przechodzą przez wzgórze,
+
+505
+00:36:28,000 --> 00:36:33,000
+je omijają w drodze do kory mózgowej.
+
+506
+00:36:34,000 --> 00:36:41,000
+Trzecie oko, jak to się ma do sygnałów węchowych?
+
+507
+00:36:41,000 --> 00:36:46,000
+To znaczy, tutaj mamy, opuszki węchowe są mniej więcej tutaj,
+
+508
+00:36:46,000 --> 00:36:48,000
+tu nie ma opuszki węchowe,
+
+509
+00:36:48,000 --> 00:36:51,000
+znaczy ona może być mniej więcej tak, na tej wysokości.
+
+510
+00:36:51,000 --> 00:36:54,000
+Nie wiem, czy jestem precyzyjna,
+
+511
+00:36:54,000 --> 00:36:57,000
+bo tu jest taka bardziej ścisła neuroanatomia.
+
+512
+00:36:57,000 --> 00:37:00,000
+Opuszka węchowa jest też malutka, tak jak mówiliśmy, średnica,
+
+513
+00:37:00,000 --> 00:37:03,000
+około 1 cm, takie na 4 mm,
+
+514
+00:37:03,000 --> 00:37:06,000
+więc to maleństwo po jednej i po drugiej stronie,
+
+515
+00:37:06,000 --> 00:37:10,000
+jako parzysty narząd, znajduje się mniej więcej tutaj,
+
+516
+00:37:10,000 --> 00:37:15,000
+więc tu raczej to nie jest ten poziom trzeciego oka.
+
+517
+00:37:15,000 --> 00:37:18,000
+No właśnie pytanie, czym jest trzecie oko?
+
+518
+00:37:18,000 --> 00:37:23,000
+Powiem szczerze, że mnie ta tematyka tak szczegółowo też interesuje,
+
+519
+00:37:23,000 --> 00:37:26,000
+ale jeszcze nie analizowałam dokładnie schematu,
+
+520
+00:37:26,000 --> 00:37:29,000
+bo to bardziej, nie wiem, czy szyszynka,
+
+521
+00:37:29,000 --> 00:37:33,000
+czy przesadka miała być tym odpowiednikiem trzeciego oka,
+
+522
+00:37:33,000 --> 00:37:36,000
+więc takie szukanie tych analogii,
+
+523
+00:37:36,000 --> 00:37:42,000
+takie tłumaczenie tej neuroanatomii, takiej ezoterycznej
+
+524
+00:37:42,000 --> 00:37:46,000
+na współczesną neuroanatomię, to też jest taka ciekawa sprawa,
+
+525
+00:37:46,000 --> 00:37:49,000
+wymaga to takiego detektywistycznego śledztwa
+
+526
+00:37:49,000 --> 00:37:53,000
+i też przede wszystkim takiego realnego spojrzenia
+
+527
+00:37:53,000 --> 00:37:57,000
+na to, co gdzieś tam w tradycyjnych tekstach
+
+528
+00:37:57,000 --> 00:38:00,000
+czy w przekazach wiedzy ezoterycznej
+
+529
+00:38:00,000 --> 00:38:03,000
+funkcjonuje już od tysięcy często lat.
+
+530
+00:38:03,000 --> 00:38:06,000
+Dobre pytanie, czym jest trzecie oko?
+
+531
+00:38:06,000 --> 00:38:09,000
+To może kiedyś na innym wykładzie.
+
+532
+00:38:09,000 --> 00:38:12,000
+Tak więc ja tutaj nie widzę takiej analogii,
+
+533
+00:38:12,000 --> 00:38:17,000
+że opuszka węchowa w jakiś sposób nam się nakłada na trzecie oko,
+
+534
+00:38:17,000 --> 00:38:20,000
+bo jest to parzysty narząd
+
+535
+00:38:20,000 --> 00:38:24,000
+i mimo, że te opuszki węchowe są blisko siebie,
+
+536
+00:38:24,000 --> 00:38:28,000
+więc dwa narządy parzyste po jednej i po drugiej stronie nad jednym
+
+537
+00:38:28,000 --> 00:38:31,000
+i drugim polem węchowym jamy nosowej,
+
+538
+00:38:31,000 --> 00:38:34,000
+bo mamy też dwa pola węchowa jamy nosowej.
+
+539
+00:38:38,000 --> 00:38:40,000
+No i tak dla utrwalenia informacji,
+
+540
+00:38:40,000 --> 00:38:42,000
+to też jest dla tych osób ambitnych,
+
+541
+00:38:42,000 --> 00:38:44,000
+które będą chciały to studiować,
+
+542
+00:38:44,000 --> 00:38:46,000
+bo wiem, że na pewno się ktoś taki znajdzie,
+
+543
+00:38:46,000 --> 00:38:49,000
+więc jak sobie takie mapy będziecie analizować
+
+544
+00:38:49,000 --> 00:38:52,000
+i później sobie otworzycie na przykład atlas neuroanatomii,
+
+545
+00:38:53,000 --> 00:38:55,000
+chociaż ja zachęcam do takich atlasów,
+
+546
+00:38:55,000 --> 00:38:58,000
+bo akurat z tego korzystam, natomiast są też inne atlasy,
+
+547
+00:38:58,000 --> 00:39:01,000
+ale jest ich mniej, dużo więcej jest atlasów z łaciną
+
+548
+00:39:01,000 --> 00:39:03,000
+i wiem, że to jest trudne,
+
+549
+00:39:03,000 --> 00:39:06,000
+bo mimo, że w tekście pojawi się nazwa zwyczajowa,
+
+550
+00:39:06,000 --> 00:39:09,000
+to uczenie się tysięcy nazw łacińskich
+
+551
+00:39:09,000 --> 00:39:12,000
+jest sporym wyzwaniem dla osób,
+
+552
+00:39:12,000 --> 00:39:14,000
+które się nie specjalizują w neuroanatomii.
+
+553
+00:39:14,000 --> 00:39:18,000
+Tak więc tutaj mamy kolejną taką właśnie prostą grafikę
+
+554
+00:39:18,000 --> 00:39:21,000
+pokazującą, jak przekazywane są sygnały z nabłonka węchowego
+
+555
+00:39:21,000 --> 00:39:25,000
+przez opuszkę węchową już do węchomuzgowia
+
+556
+00:39:25,000 --> 00:39:28,000
+i mamy tutaj piriform, czyli kora gruszkowata,
+
+557
+00:39:28,000 --> 00:39:31,000
+amygdala, oczywiście ciało migdałowate, entorinal,
+
+558
+00:39:31,000 --> 00:39:36,000
+czyli kora śródwęchowa, która przekazuje sygnały do hipokampa,
+
+559
+00:39:36,000 --> 00:39:40,000
+a tutaj mamy jeszcze właśnie wzgórek węchowy
+
+560
+00:39:40,000 --> 00:39:45,000
+i przednie jądro węchowe, anterior olfactory nucleus.
+
+561
+00:39:45,000 --> 00:39:47,000
+I te nazwy po angielsku też tutaj celowo,
+
+562
+00:39:47,000 --> 00:39:50,000
+bo jak będziecie przypadkiem gdzieś tam czytać może jakieś publikacje,
+
+563
+00:39:50,000 --> 00:39:53,000
+to już będziecie wiedzieć jak to się nazywa po angielsku.
+
+564
+00:39:53,000 --> 00:39:56,000
+Tutaj też zresztą macie Państwo literaturę
+
+565
+00:39:56,000 --> 00:39:59,000
+Basic Mechanism and Evidence-Based Clinical Use,
+
+566
+00:39:59,000 --> 00:40:01,000
+jeżeli chodzi o aromaterapię.
+
+567
+00:40:01,000 --> 00:40:04,000
+I tutaj widzimy dalej połączenie z wzgórzem.
+
+568
+00:40:04,000 --> 00:40:07,000
+Pamiętamy, że wzgórze to jest ta stacja przykaźnikowa.
+
+569
+00:40:07,000 --> 00:40:11,000
+Mamy podwzgórze, mamy orbitofrontal cortex,
+
+570
+00:40:11,000 --> 00:40:14,000
+czyli kora oczodołowo-czołowa,
+
+571
+00:40:14,000 --> 00:40:17,000
+czyli ta kora tutaj mniej więcej zlokalizowana
+
+572
+00:40:17,000 --> 00:40:21,000
+i mamy nasz hipokan, o którym też już sobie wcześniej mówiliśmy.
+
+573
+00:40:21,000 --> 00:40:26,000
+Podsumowanie, jak te sygnały są przekazywane.
+
+574
+00:40:26,000 --> 00:40:29,000
+Droga węchowa składa się z trzech neuronów.
+
+575
+00:40:29,000 --> 00:40:32,000
+Początek oczywiście, to są pierwszy neuron drogi węchowej,
+
+576
+00:40:32,000 --> 00:40:34,000
+to są komórki dwubiegunowe,
+
+577
+00:40:34,000 --> 00:40:37,000
+czyli te, które znajdują się na powierzchni naszego nabłonka węchowego,
+
+578
+00:40:37,000 --> 00:40:41,000
+znaczy na powierzchni nagrają się wypustki tych neuronów,
+
+579
+00:40:41,000 --> 00:40:43,000
+komórek dwubiegunowych.
+
+580
+00:40:43,000 --> 00:40:48,000
+To są te rzęski, które zawierają receptory,
+
+581
+00:40:48,000 --> 00:40:57,000
+czyli te białka receptorowe, z którymi łączą się już odoranty.
+
+582
+00:40:57,000 --> 00:41:00,000
+I dalej impulsy z tych komórek dwubiegunowych
+
+583
+00:41:00,000 --> 00:41:03,000
+przez nici węchowe docierają przez blaszkę sitową do puszki węchowej.
+
+584
+00:41:03,000 --> 00:41:05,000
+To jest pierwszy etap.
+
+585
+00:41:05,000 --> 00:41:09,000
+Co się dzieje dalej? Mamy dalej drugi neuron naszej drogi węchowej.
+
+586
+00:41:09,000 --> 00:41:13,000
+Ten drugi neuron tworzą komórki mitralne oraz pędzelkowate,
+
+587
+00:41:13,000 --> 00:41:15,000
+to jest na poziomie opuszki węchowej,
+
+588
+00:41:15,000 --> 00:41:19,000
+w których neuryty układają się dalej w pasmo węchowe
+
+589
+00:41:19,000 --> 00:41:23,000
+dochodzące do istoty dziurkowanej przedniej.
+
+590
+00:41:23,000 --> 00:41:25,000
+Ta istota dziurkowana też się pojawi za chwilę na slajdzie
+
+591
+00:41:25,000 --> 00:41:27,000
+i zobaczcie, tam znowu będą dziureczki
+
+592
+00:41:27,000 --> 00:41:31,000
+i przez te dziurki tak naprawdę przechodzą chyba głównie naczynia krwenośne,
+
+593
+00:41:31,000 --> 00:41:35,000
+ale to już taka informacja bardziej techniczna.
+
+594
+00:41:35,000 --> 00:41:37,000
+Dlaczego istota dziurkowana?
+
+595
+00:41:37,000 --> 00:41:41,000
+Skąd te dziurki? Tak samo jak z tą kością sitową.
+
+596
+00:41:41,000 --> 00:41:46,000
+Tam jest sito takie trochę i to też nazwa jest oczywiście nieprzypadkowa.
+
+597
+00:41:46,000 --> 00:41:48,000
+I teraz dalej.
+
+598
+00:41:48,000 --> 00:41:50,000
+Pasmo się dzieli na trzy prążki.
+
+599
+00:41:50,000 --> 00:41:53,000
+I to też jest ważne, żeby rozumieć,
+
+600
+00:41:53,000 --> 00:41:59,000
+że nasz zmysł węchu działa w taki sposób,
+
+601
+00:41:59,000 --> 00:42:04,000
+że głównie percepcja jest tą półkulą, którą mamy powonienie.
+
+602
+00:42:04,000 --> 00:42:07,000
+Tak, czyli jeżeli zablokujemy jedną dziurkę
+
+603
+00:42:07,000 --> 00:42:09,000
+i będziemy mieć powonienie tylko przez tę opuszkę,
+
+604
+00:42:09,000 --> 00:42:14,000
+to głównie ta półkula mózgu będzie brała udział w percepcji wrażeń,
+
+605
+00:42:14,000 --> 00:42:22,000
+ale jest też taka możliwość, że prążkami tutaj węchowymi,
+
+606
+00:42:22,000 --> 00:42:28,000
+mamy trzy prążki, te rezeptory pójdą też do ośrodków
+
+607
+00:42:28,000 --> 00:42:31,000
+zlokalizowanych w tej innej półkuli.
+
+608
+00:42:31,000 --> 00:42:34,000
+Tak jak w przypadku układu wzrokowego jest tak,
+
+609
+00:42:34,000 --> 00:42:36,000
+że mamy to skrzyżowanie wzrokowe
+
+610
+00:42:36,000 --> 00:42:42,000
+i generalnie sporo sygnałów jest po prostu interpretowanych
+
+611
+00:42:42,000 --> 00:42:44,000
+przez przeciwną półkulę,
+
+612
+00:42:44,000 --> 00:42:48,000
+tak tutaj jest raczej taka lateralizacja
+
+613
+00:42:48,000 --> 00:42:52,000
+i taka korespondencja, że dana opuszka do tej półkuli,
+
+614
+00:42:52,000 --> 00:42:55,000
+przy czym i tak są pewne połączenia.
+
+615
+00:42:55,000 --> 00:43:01,000
+To nie jest tak, że tylko to w taki sposób niezależnie się odbywa,
+
+616
+00:43:01,000 --> 00:43:04,000
+ale też są te dodatkowe prążki,
+
+617
+00:43:04,000 --> 00:43:09,000
+które pozwalają na komunikację ze sobą tych półkul mózgowych,
+
+618
+00:43:09,000 --> 00:43:11,000
+ale to jest taki bardziej margines.
+
+619
+00:43:11,000 --> 00:43:15,000
+No i teraz spojrzenie na to, jak to wygląda w naszym mózgu,
+
+620
+00:43:15,000 --> 00:43:18,000
+bo pojawiły się pewne nazwy, pojawiła się ta kora gruszkowata
+
+621
+00:43:18,000 --> 00:43:21,000
+i jest to ta kora gruszkowata piriform cortex tutaj,
+
+622
+00:43:21,000 --> 00:43:23,000
+proszę zobaczyć ta pierwsza stacja przekaźnikowa dalej,
+
+623
+00:43:23,000 --> 00:43:26,000
+mamy tutaj hypodalamus, czyli podzgórze,
+
+624
+00:43:26,000 --> 00:43:28,000
+a mygdala, czyli ciało migdałowate,
+
+625
+00:43:28,000 --> 00:43:31,000
+no i hipokampus, tak tutaj taki,
+
+626
+00:43:31,000 --> 00:43:35,000
+my też tutaj ten hipokamp sobie często analizujemy,
+
+627
+00:43:35,000 --> 00:43:37,000
+szczególnie ten zakręt zębata nas interesuje na dole,
+
+628
+00:43:37,000 --> 00:43:41,000
+bo te ząbki to jest tam miejsce, gdzie powstają nowe neurony,
+
+629
+00:43:41,000 --> 00:43:43,000
+ale też od razu pamiętamy, widzimy,
+
+630
+00:43:43,000 --> 00:43:46,000
+to tak zwracam uwagę, żebyśmy to sobie od razu układali
+
+631
+00:43:46,000 --> 00:43:50,000
+w te puzle w głowie, że ciało migdałowate jest blisko hipokampa,
+
+632
+00:43:50,000 --> 00:43:53,000
+że emocje i pamięć, pamięć emocjonalna,
+
+633
+00:43:53,000 --> 00:43:57,000
+to jest ze sobą mocno powiązane w naszym mózgu.
+
+634
+00:43:59,000 --> 00:44:02,000
+I spojrzenie od dołu, tak,
+
+635
+00:44:02,000 --> 00:44:04,000
+czyli do tej pory patrzyliśmy głównie z boku,
+
+636
+00:44:04,000 --> 00:44:06,000
+a tutaj spojrzenie od dołu,
+
+637
+00:44:06,000 --> 00:44:08,000
+na naszą opuszkę węchową,
+
+638
+00:44:08,000 --> 00:44:10,000
+czyli tak jakbyśmy sobie spojrzeli mniej więcej tak,
+
+639
+00:44:10,000 --> 00:44:13,000
+tutaj jakbyśmy zrobili taką płaszczyznę spojrzenia,
+
+640
+00:44:13,000 --> 00:44:16,000
+na to się pojawi tutaj nam na tej wysokości opuszka węchowa,
+
+641
+00:44:16,000 --> 00:44:19,000
+tutaj pasmo węchowe za opuszką węchową.
+
+642
+00:44:19,000 --> 00:44:23,000
+Mamy tutaj guzek węchowy, jest nasza kora gruszkowata,
+
+643
+00:44:23,000 --> 00:44:25,000
+czyli piriform cortex,
+
+644
+00:44:25,000 --> 00:44:27,000
+tutaj mamy ciało migdałowate,
+
+645
+00:44:27,000 --> 00:44:29,000
+mamy też korę śródwęchową,
+
+646
+00:44:29,000 --> 00:44:32,000
+a za korą śródwęchową co się znajduje?
+
+647
+00:44:32,000 --> 00:44:34,000
+Kto uważnie słucha?
+
+648
+00:44:38,000 --> 00:44:40,000
+Już czekamy na odpowiedź,
+
+649
+00:44:40,000 --> 00:44:45,000
+oczywiście hipokamp się znajduje za korą śródwęchową.
+
+650
+00:44:46,000 --> 00:44:48,000
+No właśnie, i tutaj już jest odpowiedź na to pytanie,
+
+651
+00:44:48,000 --> 00:44:51,000
+ładna tak, jeszcze jedno spojrzenie bardziej szczegółowe,
+
+652
+00:44:51,000 --> 00:44:53,000
+znowu opuszka węchowa, pasmo węchowe,
+
+653
+00:44:53,000 --> 00:44:55,000
+przednie jądro węchowe,
+
+654
+00:44:55,000 --> 00:44:58,000
+dalej co tutaj mamy wzgórek węchowe,
+
+655
+00:44:58,000 --> 00:45:00,000
+prążek węchowy, boczny,
+
+656
+00:45:00,000 --> 00:45:02,000
+to jest to o czym mówiłam,
+
+657
+00:45:02,000 --> 00:45:05,000
+że mamy te prążek węchowe przyśrodkowe i boczny.
+
+658
+00:45:05,000 --> 00:45:09,000
+Ten boczny przesyła sygnały do półkuli mózgowej,
+
+659
+00:45:09,000 --> 00:45:16,000
+z której płyną po tej samej sygnały danej opuszki.
+
+660
+00:45:16,000 --> 00:45:19,000
+Ciało migdałowate, formacja hipokampa,
+
+661
+00:45:19,000 --> 00:45:23,000
+i kora śródwęchowa, tutaj wszystko zostało też zaznaczone.
+
+662
+00:45:23,000 --> 00:45:26,000
+I jeszcze jeden schemat z neuronatominektera,
+
+663
+00:45:26,000 --> 00:45:30,000
+tutaj mamy też widoczną naszą istotę dziurkowaną przednią,
+
+664
+00:45:30,000 --> 00:45:32,000
+o której też była wcześniej mowa.
+
+665
+00:45:32,000 --> 00:45:35,000
+No i jeszcze raz, tutaj mamy nabłonek węchowy,
+
+666
+00:45:35,000 --> 00:45:38,000
+dalej tu jest kości, to była bardzo ładnie pokazana,
+
+667
+00:45:38,000 --> 00:45:41,000
+mamy dziurki w kości sitowej,
+
+668
+00:45:41,000 --> 00:45:45,000
+przez te dziurki przychodzą neurony.
+
+669
+00:45:46,000 --> 00:45:51,000
+Węchowe, tak, czyli one są zebrane w nici węchowe
+
+670
+00:45:51,000 --> 00:45:54,000
+i dalej wędrują sobie do opuszki węchowej.
+
+671
+00:45:54,000 --> 00:45:56,000
+Tu jest pierwsza synapsa,
+
+672
+00:45:56,000 --> 00:45:59,000
+tu znajdują się te komórki mitralne i pędzelkowate,
+
+673
+00:45:59,000 --> 00:46:05,000
+dalej one przesyłają sygnały do kolejnych elementów układu węchowego,
+
+674
+00:46:05,000 --> 00:46:07,000
+które sobie już omawialiśmy wcześniej,
+
+675
+00:46:07,000 --> 00:46:09,000
+i tutaj na przykład mamy tę kora śródwęchowa,
+
+676
+00:46:09,000 --> 00:46:11,000
+mamy nasze ciało migdałowate,
+
+677
+00:46:12,000 --> 00:46:15,000
+mamy zakręt zęba, te hipokampa,
+
+678
+00:46:15,000 --> 00:46:19,000
+tutaj te ząbki są widoczne, chociaż nie zostały opisane.
+
+679
+00:46:19,000 --> 00:46:22,000
+No i jest prążek węchowy boczny,
+
+680
+00:46:22,000 --> 00:46:27,000
+ale jest też, są też włókna do opuszki,
+
+681
+00:46:27,000 --> 00:46:30,000
+do drugiej opuszki węchowej, tak,
+
+682
+00:46:30,000 --> 00:46:36,000
+czyli jest też takie krzyżowanie się tych informacji pomiędzy półkulami.
+
+683
+00:46:37,000 --> 00:46:41,000
+Chociaż w głównej mierze idą one symetrycznie.
+
+684
+00:46:42,000 --> 00:46:44,000
+Struktury układu limbicznego,
+
+685
+00:46:44,000 --> 00:46:46,000
+czyli tej części mózgu,
+
+686
+00:46:46,000 --> 00:46:48,000
+która znajduje się w głębi spota skolniowego,
+
+687
+00:46:48,000 --> 00:46:53,000
+tej części mózgu, która zawiera ośrodki przetwarzania wrażeń węchowych,
+
+688
+00:46:53,000 --> 00:46:56,000
+ale także jest to ośrodek regulacji,
+
+689
+00:46:56,000 --> 00:47:00,000
+ośrodki regulacji procesów emocjonalnych, tak.
+
+690
+00:47:00,000 --> 00:47:04,000
+Ja pokazuję tak dużo tych schematów, żeby ta wiedza się utrwalała,
+
+691
+00:47:04,000 --> 00:47:08,000
+bo neuroanatomia nie jest, nazwijmy czymś takim,
+
+692
+00:47:08,000 --> 00:47:11,000
+że my patrzymy sobie, posłuchamy sobie pięć minut wykłady
+
+693
+00:47:11,000 --> 00:47:13,000
+i już my to pamiętamy.
+
+694
+00:47:13,000 --> 00:47:16,000
+Tak to nie działa, będziecie musieli sobie do tego wracać, powtarzać
+
+695
+00:47:16,000 --> 00:47:19,000
+i się to zacznie bardzo ładnie nam układać,
+
+696
+00:47:19,000 --> 00:47:21,000
+a polecam, żeby się układało,
+
+697
+00:47:21,000 --> 00:47:25,000
+bo jeśli chcemy zajmować się różnymi aspektami naszego mózgu,
+
+698
+00:47:25,000 --> 00:47:28,000
+układu nerwowego, to jest to fascynująca dziedzina wiedzy,
+
+699
+00:47:28,000 --> 00:47:30,000
+ale niezwykle złożona
+
+700
+00:47:30,000 --> 00:47:33,000
+i warto sobie te puzle powolutku, stopniowo układać,
+
+701
+00:47:33,000 --> 00:47:38,000
+tak, żeby to było dla nas jasne i zrozumiałe mniej więcej,
+
+702
+00:47:38,000 --> 00:47:40,000
+co tam w tym naszym mózgu się dzieje,
+
+703
+00:47:40,000 --> 00:47:45,000
+mniej więcej, bo my cały czas tak naprawdę mniej więcej wiemy,
+
+704
+00:47:45,000 --> 00:47:48,000
+ale dużo jeszcze przed nami jest tajemnic.
+
+705
+00:47:48,000 --> 00:47:52,000
+Będziemy na kolejnym spotkaniu za dwa tygodnie mówić o emocjach
+
+706
+00:47:52,000 --> 00:47:56,000
+i tutaj tylko takie zasygnalizowanie tego problemu,
+
+707
+00:47:56,000 --> 00:48:01,000
+bo sprawa będzie jeszcze raz omówiona właśnie tak pod kątem
+
+708
+00:48:01,000 --> 00:48:06,000
+już takich aspektów ściśle aroma psychologii.
+
+709
+00:48:06,000 --> 00:48:10,000
+Tutaj jeszcze takie zbliżenie, widzimy nasz hipokamp,
+
+710
+00:48:10,000 --> 00:48:14,000
+zakręt ze baty hipokampa, widzimy obok tutaj ciało migdałowate,
+
+711
+00:48:14,000 --> 00:48:20,000
+dalej mamy jądro przednie wzgórza, jądro przyśrodkowe wzgórza,
+
+712
+00:48:21,000 --> 00:48:27,000
+jądra to są miejsca, gdzie mamy skupiska ciał komórek nerwowych
+
+713
+00:48:27,000 --> 00:48:32,000
+i przypomnienie tych dwóch podstawowych mechanizmów oddziaływania zapachem
+
+714
+00:48:32,000 --> 00:48:39,000
+na nasz układ nerwowy poprzez symulację receptorów węchowych
+
+715
+00:48:39,000 --> 00:48:42,000
+i to jest ta droga, którą sobie przed chwileczką omówiliśmy,
+
+716
+00:48:42,000 --> 00:48:49,000
+czyli droga od nabłonka węchowego do wyższych pięter układu węchowego,
+
+717
+00:48:49,000 --> 00:48:53,000
+czyli ośrodków przetwarzania bodźców węchowych w naszym mózgu,
+
+718
+00:48:53,000 --> 00:48:56,000
+ale mamy też ten efekt farmakologiczny,
+
+719
+00:48:56,000 --> 00:49:02,000
+który za chwileczkę sobie bardziej szczegółowo omówimy.
+
+720
+00:49:02,000 --> 00:49:08,000
+Ja widzę, że dopiero jest 40 slajd, więc bardzo wolno nam to tutaj idzie,
+
+721
+00:49:08,000 --> 00:49:12,000
+więc może będę musiała troszeczkę przyspieszyć.
+

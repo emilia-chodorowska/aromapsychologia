@@ -1,0 +1,4828 @@
+1
+00:00:03,410 --> 00:00:08,360
+[Muzyka]
+
+2
+00:00:06,560 --> 00:00:12,440
+Kolejnym problemem, który się dzisiaj
+
+3
+00:00:08,360 --> 00:00:16,480
+zajmiemy, wprowadzając
+
+4
+00:00:12,440 --> 00:00:20,400
+też później tematy inne, będzie
+
+5
+00:00:16,480 --> 00:00:22,840
+epidemiologia chorób mózgu, tak? czyli
+
+6
+00:00:20,400 --> 00:00:24,560
+jakie problemy z naszym ośrodkowym
+
+7
+00:00:22,840 --> 00:00:27,279
+układem nerwowym, chociaż tak jak
+
+8
+00:00:24,560 --> 00:00:29,439
+powiedziałam, dzisiaj też coraz bardziej
+
+9
+00:00:27,279 --> 00:00:32,320
+yyy skierowujemy naszą uwagę także na
+
+10
+00:00:29,439 --> 00:00:34,079
+obwodowy yyy układ nerwowy i to też dużo
+
+11
+00:00:32,320 --> 00:00:35,680
+tutaj w tym aspekcie dała nam teoria
+
+12
+00:00:34,079 --> 00:00:38,239
+polifagalna, o której przed chwileczką
+
+13
+00:00:35,680 --> 00:00:41,399
+też powiedziałam sporo.
+
+14
+00:00:38,239 --> 00:00:43,680
+Więc jakie problemy występują tutaj
+
+15
+00:00:41,399 --> 00:00:46,039
+najczęściej? Tak jak powiedziałam, to są
+
+16
+00:00:43,680 --> 00:00:48,719
+choroby mózgu, bo ja też posługuję się
+
+17
+00:00:46,039 --> 00:00:50,120
+literaturą dotyczącą chorób mózgu, ale
+
+18
+00:00:48,719 --> 00:00:51,559
+będę o tym cały czas przypominać, że
+
+19
+00:00:50,120 --> 00:00:54,640
+jeżeli dzisiaj mówimy o zaburzeniach
+
+20
+00:00:51,559 --> 00:00:57,079
+lękowych czy o depresji, powinniśmy też
+
+21
+00:00:54,640 --> 00:00:59,840
+interesować się obwodowym układem
+
+22
+00:00:57,079 --> 00:01:02,359
+nerwowym, bo bywa, że jego rola jest
+
+23
+00:00:59,840 --> 00:01:05,119
+tutaj niebagatelna,
+
+24
+00:01:02,359 --> 00:01:09,080
+czyli na przykład nie działa osi to mózg
+
+25
+00:01:05,119 --> 00:01:10,600
+i mamy załóżmy obniżony nastrój. Znaczy
+
+26
+00:01:09,080 --> 00:01:15,520
+nie działa, ona zawsze działa, tylko
+
+27
+00:01:10,600 --> 00:01:17,200
+właśnie ta informacja przekazywana z
+
+28
+00:01:15,520 --> 00:01:19,200
+naszego przewodu pokarmowego, a
+
+29
+00:01:17,200 --> 00:01:22,240
+dokładnie dzisiaj mówimy o osi jito
+
+30
+00:01:19,200 --> 00:01:24,439
+mikrobiota mózg, czyli załóżmy skład
+
+31
+00:01:22,240 --> 00:01:26,280
+naszej mikrobioty jelitowej może
+
+32
+00:01:24,439 --> 00:01:28,720
+decydować o tym jak się czujemy
+
+33
+00:01:26,280 --> 00:01:30,360
+psychicznie, tak? I co wynika z tego dla
+
+34
+00:01:28,720 --> 00:01:32,399
+nas praktycznego, oczywiście
+
+35
+00:01:30,360 --> 00:01:36,479
+psychobiotyki
+
+36
+00:01:32,399 --> 00:01:39,880
+możemy wykorzystywać w terapii zaburzeń
+
+37
+00:01:36,479 --> 00:01:42,240
+nastroju czy też innego rodzaju zaburzeń
+
+38
+00:01:39,880 --> 00:01:44,280
+psychicznych. Więc to jest coś, co
+
+39
+00:01:42,240 --> 00:01:47,799
+pojawia się dzisiaj jako taka coraz
+
+40
+00:01:44,280 --> 00:01:51,360
+bardziej popularna wiedza, bo ona jest
+
+41
+00:01:47,799 --> 00:01:54,079
+oczywiście wynikiem aktualnych badań. Na
+
+42
+00:01:51,360 --> 00:01:55,680
+dzień dzisiejszy nauka mocno temat osi
+
+43
+00:01:54,079 --> 00:01:57,680
+jelitowo-mózgowej
+
+44
+00:01:55,680 --> 00:02:00,200
+eksploruje, ale wynikają z niej
+
+45
+00:01:57,680 --> 00:02:02,960
+konkretne implikacje również praktyczne,
+
+46
+00:02:00,200 --> 00:02:05,759
+tak? Czyli coraz częściej sięgamy po
+
+47
+00:02:02,960 --> 00:02:07,680
+narzędzia modulacji
+
+48
+00:02:05,759 --> 00:02:09,560
+mikrobioty przewodu pokarmowego czy
+
+49
+00:02:07,680 --> 00:02:13,040
+narzędzia modulujące pracę przewodu
+
+50
+00:02:09,560 --> 00:02:15,519
+pokarmowego, żeby sobie radzić z
+
+51
+00:02:13,040 --> 00:02:17,720
+układem nerwowym i w drugą stronę. Tak,
+
+52
+00:02:15,519 --> 00:02:21,239
+czyli tutaj też
+
+53
+00:02:17,720 --> 00:02:23,760
+możemy yyy wpływać na przykład poprzez
+
+54
+00:02:21,239 --> 00:02:26,200
+techniki relaksacyjnie korzystnie na
+
+55
+00:02:23,760 --> 00:02:28,800
+pracę naszego przewodu
+
+56
+00:02:26,200 --> 00:02:30,680
+pokarmowego. Choroby mózgu należą do
+
+57
+00:02:28,800 --> 00:02:32,280
+jednych z najbardziej obciążających
+
+58
+00:02:30,680 --> 00:02:34,800
+Europę społecznie i ekonomicznie
+
+59
+00:02:32,280 --> 00:02:37,959
+schorzeń. O tym się mówi już od da
+
+60
+00:02:34,800 --> 00:02:39,879
+długich lat. E, i tak troszeczkę danych
+
+61
+00:02:37,959 --> 00:02:42,159
+liczbowych też takich historycznych,
+
+62
+00:02:39,879 --> 00:02:45,560
+żeby pokazać takie szersze tło. Na
+
+63
+00:02:42,159 --> 00:02:47,239
+przykład w 2010 roku 179 milionów
+
+64
+00:02:45,560 --> 00:02:49,519
+Europejczyków cierpiało z powodu chorób
+
+65
+00:02:47,239 --> 00:02:51,560
+mózgu, podczas gdy 6 lat wcześniej było
+
+66
+00:02:49,519 --> 00:02:55,040
+to 127 milionów, kiedy widzimy bardzo
+
+67
+00:02:51,560 --> 00:02:57,560
+duży progres. Akurat w tym wypadku
+
+68
+00:02:55,040 --> 00:03:00,440
+wartości oznaczają wzrost zachorowań w
+
+69
+00:02:57,560 --> 00:03:05,400
+ciągu 6 lat o około 40%. To jest bardzo
+
+70
+00:03:00,440 --> 00:03:07,680
+dużo. Spośród chorób mózgu ponad 60%
+
+71
+00:03:05,400 --> 00:03:09,680
+kosztów społecznych i ekonomicznych
+
+72
+00:03:07,680 --> 00:03:11,319
+generują zaburzenia psychiczne.
+
+73
+00:03:09,680 --> 00:03:14,239
+Generalnie choroby mózgu możemy sobie
+
+74
+00:03:11,319 --> 00:03:16,200
+podzielić na zaburzenia psychiczne oraz
+
+75
+00:03:14,239 --> 00:03:19,560
+problemy neurologiczne, tak? Czyli mamy
+
+76
+00:03:16,200 --> 00:03:21,519
+psychiatrię i neurologię.
+
+77
+00:03:19,560 --> 00:03:23,360
+Natomiast jeśli chodzi już o zaburzenia
+
+78
+00:03:21,519 --> 00:03:26,280
+psychiczne same w sobie, no to tutaj
+
+79
+00:03:23,360 --> 00:03:28,400
+najczęstszym problemem jest
+
+80
+00:03:26,280 --> 00:03:32,159
+występowanie zaburzeń lękowych. A na
+
+81
+00:03:28,400 --> 00:03:34,840
+drugim miejscu są to stany depresyjne,
+
+82
+00:03:32,159 --> 00:03:38,840
+zaburzenia nastroju.
+
+83
+00:03:34,840 --> 00:03:40,439
+Tutaj jest schematyczne zestawienie
+
+84
+00:03:38,840 --> 00:03:44,040
+różnych
+
+85
+00:03:40,439 --> 00:03:46,000
+chorób mózgu akurat w Europie w 2010
+
+86
+00:03:44,040 --> 00:03:49,959
+roku,
+
+87
+00:03:46,000 --> 00:03:53,920
+jeżeli chodzi o wartości liczbowe, tak?
+
+88
+00:03:49,959 --> 00:03:55,799
+Czyli mamy miliony osób, które których
+
+89
+00:03:53,920 --> 00:03:58,200
+dotyczy dany problem kliniczny. No i
+
+90
+00:03:55,799 --> 00:04:01,920
+zwróćcie państwu uwagę,
+
+91
+00:03:58,200 --> 00:04:04,439
+które słupki są tutaj najbardziej
+
+92
+00:04:01,920 --> 00:04:07,799
+zaznaczone. Tak, czyli mamy zaburzenia
+
+93
+00:04:04,439 --> 00:04:09,760
+lękowe, anxiety disorders i to jest
+
+94
+00:04:07,799 --> 00:04:10,920
+największa wartość liczbowa. Na drugim
+
+95
+00:04:09,760 --> 00:04:13,360
+miejscu jest to jest zaburzenie
+
+96
+00:04:10,920 --> 00:04:16,560
+psychiczne, czyli choroba psychiczna.
+
+97
+00:04:13,360 --> 00:04:18,199
+Dalej mamy migreny. Migrenowe bóle głowy
+
+98
+00:04:16,560 --> 00:04:20,320
+są najczęstszym problemem z kolei
+
+99
+00:04:18,199 --> 00:04:22,720
+neurologicznym. I dalej mamy zaburzenia
+
+100
+00:04:20,320 --> 00:04:25,199
+nastroju. W tej grupie oczywiście
+
+101
+00:04:22,720 --> 00:04:27,880
+znajduje się depresja, nałogi,
+
+102
+00:04:25,199 --> 00:04:30,039
+uzależnienia. Kolejny problem kliniczny
+
+103
+00:04:27,880 --> 00:04:32,240
+to jest demencja, zaburzenia
+
+104
+00:04:30,039 --> 00:04:34,400
+psychotyczne, padaczka, ale tak jak
+
+105
+00:04:32,240 --> 00:04:37,400
+powiedziałam już wcześniej, padaczka
+
+106
+00:04:34,400 --> 00:04:41,039
+jest objawem, który może towarzyszyć
+
+107
+00:04:37,400 --> 00:04:42,560
+różnego rodzaju chorobom mózgu. Udary,
+
+108
+00:04:41,039 --> 00:04:46,280
+jakieś
+
+109
+00:04:42,560 --> 00:04:48,880
+urazy mózgu, choroba Parkinsona,
+
+110
+00:04:46,280 --> 00:04:50,400
+stwardnienie rozsiane i choroba
+
+111
+00:04:48,880 --> 00:04:52,080
+nowotworowa
+
+112
+00:04:50,400 --> 00:04:55,560
+mózgu. Oczywiście to wszystko generuje
+
+113
+00:04:52,080 --> 00:04:58,120
+koszty i widzimy, szczególnie te koszty
+
+114
+00:04:55,560 --> 00:04:59,720
+są duże, jeżeli chodzi o zaburzenia
+
+115
+00:04:58,120 --> 00:05:03,479
+nastroju
+
+116
+00:04:59,720 --> 00:05:06,000
+oraz o demencję. Demencja może być
+
+117
+00:05:03,479 --> 00:05:08,320
+spowodowana chorobą Alzheimera, bo
+
+118
+00:05:06,000 --> 00:05:11,039
+widzicie tutaj państwo też, że choroba
+
+119
+00:05:08,320 --> 00:05:12,919
+Alzheimera nie została wymieniona,
+
+120
+00:05:11,039 --> 00:05:16,400
+natomiast ona jest tutaj w tle tej
+
+121
+00:05:12,919 --> 00:05:18,240
+demencji. Tak, czyli najczęstszą
+
+122
+00:05:16,400 --> 00:05:20,880
+przyczyną
+
+123
+00:05:18,240 --> 00:05:24,060
+demencji jest związanie z wiekiem. jest
+
+124
+00:05:20,880 --> 00:05:27,259
+choroba Alzheimera.
+
+125
+00:05:24,060 --> 00:05:27,259
+[Muzyka]
+
+126
+00:05:27,800 --> 00:05:33,720
+I tu jest źródło literaturowe tych
+
+127
+00:05:31,960 --> 00:05:35,759
+informacji.
+
+128
+00:05:33,720 --> 00:05:37,520
+No i takie uproszczenie, zestawienie,
+
+129
+00:05:35,759 --> 00:05:39,280
+tak? Jedna na trzy osoby cierpi na
+
+130
+00:05:37,520 --> 00:05:44,199
+zaburzenie psychiczne lub neurologiczne
+
+131
+00:05:39,280 --> 00:05:46,560
+w ciągu życia w Europie. 1/3, tak? Czyli
+
+132
+00:05:44,199 --> 00:05:50,840
+yyy ta częstość chorób mózgu
+
+133
+00:05:46,560 --> 00:05:53,440
+rzeczywiście jest po prostu duża. Yyy i
+
+134
+00:05:50,840 --> 00:05:55,720
+to uproszczone zestawienie podstawowych
+
+135
+00:05:53,440 --> 00:05:57,240
+chorób mózgu, takich najczęstszych, tak
+
+136
+00:05:55,720 --> 00:06:00,880
+jak powiedziałam już wcześniej, choroby
+
+137
+00:05:57,240 --> 00:06:03,800
+psychiczne i neurologiczne są takie dwa
+
+138
+00:06:00,880 --> 00:06:05,160
+podstawowe rodzaje chorób. I tutaj w
+
+139
+00:06:03,800 --> 00:06:06,599
+chorobach psychicznych mówimy o
+
+140
+00:06:05,160 --> 00:06:08,720
+zaburzeniach lękowych, zaburzeniach
+
+141
+00:06:06,599 --> 00:06:09,880
+nastrojów, w tym depresji i zaburzenia
+
+142
+00:06:08,720 --> 00:06:11,599
+również tutaj psychotyczne się
+
+143
+00:06:09,880 --> 00:06:12,919
+zaliczają. A choroby neurologiczne to są
+
+144
+00:06:11,599 --> 00:06:14,960
+choroby naczyń mózgowych. Mówiliśmy o
+
+145
+00:06:12,919 --> 00:06:19,160
+tym, że najczęściej to jest problem taki
+
+146
+00:06:14,960 --> 00:06:22,160
+jak migrena, ale inne także y pierwotne
+
+147
+00:06:19,160 --> 00:06:24,680
+bóle głowy, padaczka, choroba Alzheimera
+
+148
+00:06:22,160 --> 00:06:26,960
+i inne demencje, inne choroby
+
+149
+00:06:24,680 --> 00:06:29,199
+neurodegeneracyjne takie jak stwardienie
+
+150
+00:06:26,960 --> 00:06:34,120
+rośne czy choroba parkinsana, ale te już
+
+151
+00:06:29,199 --> 00:06:36,840
+występują znacznie rzadziej. Tutaj mamy
+
+152
+00:06:34,120 --> 00:06:41,000
+tabelkę pokazującą wartości liczbowe dla
+
+153
+00:06:36,840 --> 00:06:44,360
+Polski. Tutaj yyy w 2019 roku choroby w
+
+154
+00:06:41,000 --> 00:06:46,520
+mózgu w Polsce dotaczyły 15 milionów
+
+155
+00:06:44,360 --> 00:06:50,120
+osób. I znowu widzimy strzałeczki. Nawet
+
+156
+00:06:46,520 --> 00:06:52,160
+tutaj ponumerowałam y te poszczególne
+
+157
+00:06:50,120 --> 00:06:53,680
+wiersze, tabelki, żeby to było jasne i
+
+158
+00:06:52,160 --> 00:06:56,759
+klarowne. Zaburzenia lękowe są
+
+159
+00:06:53,680 --> 00:07:00,759
+najważniejsze. Tak, 5 milionów ponad
+
+160
+00:06:56,759 --> 00:07:04,639
+Polaków w roku 2019 miało zaburzenia
+
+161
+00:07:00,759 --> 00:07:07,520
+lękowe. Na drugim miejscu zaburzenie
+
+162
+00:07:04,639 --> 00:07:10,440
+neurologiczne, czyli migrena. A jeśli
+
+163
+00:07:07,520 --> 00:07:13,000
+chodzi o zaburzenia psychiczne, to na
+
+164
+00:07:10,440 --> 00:07:14,720
+drugim miejscu po zaburzeniach lękowych
+
+165
+00:07:13,000 --> 00:07:18,479
+są zaburzenia nastroj. I dalej mamy
+
+166
+00:07:14,720 --> 00:07:20,720
+jeszcze uzależnienia. No i widzimy, że y
+
+167
+00:07:18,479 --> 00:07:23,720
+zaburzenia psychotyczne to już znacznie
+
+168
+00:07:20,720 --> 00:07:25,879
+mniej, tak? Udary mniej więcej tyle
+
+169
+00:07:23,720 --> 00:07:27,800
+samo. Tu jest 453,
+
+170
+00:07:25,879 --> 00:07:31,080
+choroba Alzheimera
+
+171
+00:07:27,800 --> 00:07:32,639
+357 i widzimy rzadsze choroby
+
+172
+00:07:31,080 --> 00:07:35,879
+neurodegeneracyjne.
+
+173
+00:07:32,639 --> 00:07:37,759
+Choroba Parkinsona dwa razy więcej niż
+
+174
+00:07:35,879 --> 00:07:41,199
+stwardnienie rozsiane. To jest polska
+
+175
+00:07:37,759 --> 00:07:41,199
+sytuacja epidemiologiczna.
+
+176
+00:07:44,039 --> 00:07:49,560
+A teraz już przechodzimy do aspektów
+
+177
+00:07:47,120 --> 00:07:53,159
+takich terapeutycznych, do aromaterapii,
+
+178
+00:07:49,560 --> 00:07:57,240
+czyli wiemy jak wygląda ten krajobraz.
+
+179
+00:07:53,159 --> 00:07:57,240
+Ja tutaj właśnie
+
+180
+00:07:58,080 --> 00:08:02,879
+ja tutaj widzę, że Aha, będą będą
+
+181
+00:08:00,000 --> 00:08:05,440
+później nowsze, bo jeszcze przy
+
+182
+00:08:02,879 --> 00:08:08,599
+poszczególnych jednostkach chorobowych,
+
+183
+00:08:05,440 --> 00:08:09,800
+bo mamy pracę i ona się pojawi tutaj,
+
+184
+00:08:08,599 --> 00:08:12,039
+jeżeli chodzi o zaburzenie nastroju
+
+185
+00:08:09,800 --> 00:08:16,960
+będzie przy depresji,
+
+186
+00:08:12,039 --> 00:08:19,400
+bo ta ten brain raport 2019 roku cały
+
+187
+00:08:16,960 --> 00:08:20,960
+czas jest aktualny, bo nieczęsto są
+
+188
+00:08:19,400 --> 00:08:22,599
+takie badania w Polsce robione, ale mamy
+
+189
+00:08:20,960 --> 00:08:25,639
+kolejne jeszcze prace Ja też do tego
+
+190
+00:08:22,599 --> 00:08:26,560
+będę nawiązywała.
+
+191
+00:08:25,639 --> 00:08:27,960
+Czyli przechodzimy teraz do
+
+192
+00:08:26,560 --> 00:08:30,319
+najczęstszych problemów, czyli
+
+193
+00:08:27,960 --> 00:08:32,000
+zaburzenia lękowe. Ale to jest też tak,
+
+194
+00:08:30,319 --> 00:08:34,919
+że mówimy z jednej strony o jednostkach
+
+195
+00:08:32,000 --> 00:08:37,800
+chorobowych, a z drugiej strony też o y
+
+196
+00:08:34,919 --> 00:08:40,039
+mówimy o takim kontekście szerszym, tak?
+
+197
+00:08:37,800 --> 00:08:43,599
+Czyli nie zawsze jest tak, że mamy
+
+198
+00:08:40,039 --> 00:08:46,480
+diagnozę zaburzenia lękowego czy PTSD,
+
+199
+00:08:43,599 --> 00:08:48,040
+ale mamy problem, mamy dolegliwości,
+
+200
+00:08:46,480 --> 00:08:49,920
+które chcielibyśmy w jakiś sposób
+
+201
+00:08:48,040 --> 00:08:54,080
+zaopiekować, tak? Czyli jesteśmy na
+
+202
+00:08:49,920 --> 00:08:56,959
+etapie, kiedy y nie wpadamy w kryteria
+
+203
+00:08:54,080 --> 00:08:59,640
+diagnostyczne, natomiast możemy już coś
+
+204
+00:08:56,959 --> 00:09:01,800
+zrobić i to nam daje aromaterapia. Czy
+
+205
+00:08:59,640 --> 00:09:03,600
+zmiany jakie powstają przy migranie po
+
+206
+00:09:01,800 --> 00:09:06,120
+włączaniu skutecznej farmakoterapii
+
+207
+00:09:03,600 --> 00:09:07,800
+powodują widoczne remisje w strukturach
+
+208
+00:09:06,120 --> 00:09:11,079
+mózgu? Będziemy mówić o migrenie
+
+209
+00:09:07,800 --> 00:09:13,600
+później, czyli na trzecim naszym
+
+210
+00:09:11,079 --> 00:09:16,920
+spotkaniu. Natomiast bardzo często jest
+
+211
+00:09:13,600 --> 00:09:19,440
+też tak, że pojawiają się zmiany w
+
+212
+00:09:16,920 --> 00:09:21,360
+mózgu. To widać też szczególnie w
+
+213
+00:09:19,440 --> 00:09:23,880
+depresji, bo tutaj też mamy sporo badań
+
+214
+00:09:21,360 --> 00:09:26,800
+takich neuroobrazowych, coraz więcej,
+
+215
+00:09:23,880 --> 00:09:29,079
+więc widać te zmiany
+
+216
+00:09:26,800 --> 00:09:31,160
+w kontekście tego, że na przykład
+
+217
+00:09:29,079 --> 00:09:33,800
+zwiększa się objętość hipokampa. Jeśli
+
+218
+00:09:31,160 --> 00:09:35,440
+chodzi o migrenę, to może to rozwinę
+
+219
+00:09:33,800 --> 00:09:37,959
+później, ale też sobie coś tam sprawdzę,
+
+220
+00:09:35,440 --> 00:09:41,240
+bo akurat w tym nie wyświetla mi się w
+
+221
+00:09:37,959 --> 00:09:43,760
+pamięci teraz żadne konkretne badanie
+
+222
+00:09:41,240 --> 00:09:46,720
+neuroobrazowe,
+
+223
+00:09:43,760 --> 00:09:48,240
+które wiązałoby się ze skuteczną
+
+224
+00:09:46,720 --> 00:09:52,800
+farmakoterapią,
+
+225
+00:09:48,240 --> 00:09:55,839
+ale to też jest kwestia rodzaju migreny.
+
+226
+00:09:52,800 --> 00:09:58,640
+Y więc do tego sobie wrócimy na naszym
+
+227
+00:09:55,839 --> 00:10:00,360
+kolejnym spotkaniu.
+
+228
+00:09:58,640 --> 00:10:03,519
+Teraz jesteśmy w zaburzeniach lękowych,
+
+229
+00:10:00,360 --> 00:10:05,959
+czyli w najczęstszych chorobach yyy
+
+230
+00:10:03,519 --> 00:10:08,279
+psychicznych. Migrena jest neurologiczna
+
+231
+00:10:05,959 --> 00:10:10,320
+i powiemy sobie o niej za y dwa
+
+232
+00:10:08,279 --> 00:10:12,200
+tygodnie.
+
+233
+00:10:10,320 --> 00:10:14,200
+Takim składnikiem aktywnym, bardzo
+
+234
+00:10:12,200 --> 00:10:17,240
+powszechnie występującym w olejkach
+
+235
+00:10:14,200 --> 00:10:19,480
+eterycznych y są trzy takie najczęściej
+
+236
+00:10:17,240 --> 00:10:20,880
+występujące i powtarzające się w różnych
+
+237
+00:10:19,480 --> 00:10:23,360
+olejkach eterycznych. To jest między
+
+238
+00:10:20,880 --> 00:10:25,000
+innymi linalol. Na drugim miejscu,
+
+239
+00:10:23,360 --> 00:10:27,959
+znaczy tutaj w tym zestawie jeszcze jest
+
+240
+00:10:25,000 --> 00:10:30,440
+limonen i pinen. Te trzy to jest kor,
+
+241
+00:10:27,959 --> 00:10:32,920
+jeśli chodzi o to, co trafia do naszego
+
+242
+00:10:30,440 --> 00:10:35,120
+organizmu razem z
+
+243
+00:10:32,920 --> 00:10:37,320
+aromaterapią.
+
+244
+00:10:35,120 --> 00:10:38,959
+I teraz
+
+245
+00:10:37,320 --> 00:10:40,560
+jak działa ten linelol, czyli jeden z
+
+246
+00:10:38,959 --> 00:10:41,680
+najpowszechniej występujących składników
+
+247
+00:10:40,560 --> 00:10:43,880
+olejków w eterycznych. To też jest dla
+
+248
+00:10:41,680 --> 00:10:45,560
+nas od razu informacja. Jeżeli linalol
+
+249
+00:10:43,880 --> 00:10:47,120
+działa w taki sposób, a on jest tak
+
+250
+00:10:45,560 --> 00:10:49,079
+powszechnie występującym składnikiem
+
+251
+00:10:47,120 --> 00:10:51,760
+olejków eterycznych, co to dla nas
+
+252
+00:10:49,079 --> 00:10:54,680
+oznacza, że bardzo często możemy
+
+253
+00:10:51,760 --> 00:10:57,279
+spodziewać się takiego efektu, jaki daje
+
+254
+00:10:54,680 --> 00:10:58,720
+linalol. Tak, czyli oczywiście nie jest
+
+255
+00:10:57,279 --> 00:11:01,440
+to takie proste, ale jeżeli weźmiemy
+
+256
+00:10:58,720 --> 00:11:03,160
+sobie taką lawendę, która zawiera dwa
+
+257
+00:11:01,440 --> 00:11:05,040
+podstawowe najważniejsze składniki, one
+
+258
+00:11:03,160 --> 00:11:07,160
+się powtarzają w różnych chemotypach. ma
+
+259
+00:11:05,040 --> 00:11:09,920
+czasami jest więcej lina lolu, innym
+
+260
+00:11:07,160 --> 00:11:11,560
+razem jest więcej octanu lina lilu, ale
+
+261
+00:11:09,920 --> 00:11:13,240
+jak się sprzyjrzymy temu co się dzieje z
+
+262
+00:11:11,560 --> 00:11:16,079
+oceanem lilalu w naszym mózgu, to się
+
+263
+00:11:13,240 --> 00:11:18,320
+okaże, okaże się, że ostan linailinu
+
+264
+00:11:16,079 --> 00:11:20,040
+hydrolizuje i powstaje z niego linalol.
+
+265
+00:11:18,320 --> 00:11:22,240
+Tak więc lawenda dostarcza nam przede
+
+266
+00:11:20,040 --> 00:11:23,680
+wszystkim linalolu i jak ten linalol
+
+267
+00:11:22,240 --> 00:11:25,279
+działa?
+
+268
+00:11:23,680 --> 00:11:26,880
+jak działa lawenda, która jest
+
+269
+00:11:25,279 --> 00:11:28,800
+najczęściej wykorzystywanym olejkiem
+
+270
+00:11:26,880 --> 00:11:30,680
+metrycznym w aromaterapii i ma najwięcej
+
+271
+00:11:28,800 --> 00:11:33,880
+badań klinicznych,
+
+272
+00:11:30,680 --> 00:11:36,440
+więc on stymuluje receptory GABA i ma
+
+273
+00:11:33,880 --> 00:11:39,279
+właściwości antykonwulsyjne i to też
+
+274
+00:11:36,440 --> 00:11:41,519
+sobie zilustrujemy dzisiaj. yyy hamuje
+
+275
+00:11:39,279 --> 00:11:44,240
+wiązanie się z
+
+276
+00:11:41,519 --> 00:11:45,519
+kwasu glutaminowego z receptorami. To
+
+277
+00:11:44,240 --> 00:11:47,720
+też może wpłynąć istotnie na
+
+278
+00:11:45,519 --> 00:11:51,000
+neurotransmisję glutaminergiczną i
+
+279
+00:11:47,720 --> 00:11:52,560
+dlatego też nie zawsze jest lawenda
+
+280
+00:11:51,000 --> 00:11:54,240
+rekomendowana, jeżeli chcemy poprawić
+
+281
+00:11:52,560 --> 00:11:56,079
+funkcje kognitywne, no bo glut
+
+282
+00:11:54,240 --> 00:11:58,519
+neurotransmisja glutaminergiczna dla
+
+283
+00:11:56,079 --> 00:12:00,920
+funkcji kognitywnych dla pamięci ma
+
+284
+00:11:58,519 --> 00:12:04,639
+znaczenie. hamuje tak samo uwalnianie
+
+285
+00:12:00,920 --> 00:12:06,519
+acetyloholiny i dlatego również no nie
+
+286
+00:12:04,639 --> 00:12:09,600
+jest to taki pierwszy wybór. Chociaż
+
+287
+00:12:06,519 --> 00:12:13,399
+jeżeli mamy zaburzenia kognitywne,
+
+288
+00:12:09,600 --> 00:12:15,320
+jakieś na przykład konteksty związane ze
+
+289
+00:12:13,399 --> 00:12:16,800
+stresem, to czasami lawenda może być
+
+290
+00:12:15,320 --> 00:12:19,360
+pomocna, ale to będzie bardzo
+
+291
+00:12:16,800 --> 00:12:21,279
+indywidualne i jeżeli ktoś nie ma tego
+
+292
+00:12:19,360 --> 00:12:23,399
+komponentu stresowego istotnego w
+
+293
+00:12:21,279 --> 00:12:25,800
+kontekście pracy,
+
+294
+00:12:23,399 --> 00:12:27,519
+pracy różnych zadań poznawczych, no to
+
+295
+00:12:25,800 --> 00:12:30,000
+wówczas
+
+296
+00:12:27,519 --> 00:12:32,639
+nie wybieramy lawendy, bo nie jest ona
+
+297
+00:12:30,000 --> 00:12:33,959
+dla nas takim pierwszego wyboru
+
+298
+00:12:32,639 --> 00:12:35,399
+olejkiem, czy też innych olejków,
+
+299
+00:12:33,959 --> 00:12:37,880
+oczywiście bogatych w Linalu, no bo jest
+
+300
+00:12:35,399 --> 00:12:38,920
+ich oczywiście więcej wykazuje
+
+301
+00:12:37,880 --> 00:12:41,079
+właściwości przeciwbolowe
+
+302
+00:12:38,920 --> 00:12:43,160
+przeciwzapalne. Jest to alifatyczny
+
+303
+00:12:41,079 --> 00:12:44,880
+alkohol monoterpenowy. Występuje bardzo
+
+304
+00:12:43,160 --> 00:12:48,839
+powszechnie. Olejki bogate w linaru to
+
+305
+00:12:44,880 --> 00:12:52,040
+przykładowo ho, czyli liść cynamonowca
+
+306
+00:12:48,839 --> 00:12:54,680
+komforowego. Dalej nasiona kolendry,
+
+307
+00:12:52,040 --> 00:12:57,040
+drzewo różane też bardzo bogate. Dzisiaj
+
+308
+00:12:54,680 --> 00:12:59,040
+mamy tego problem z tym surowcem.
+
+309
+00:12:57,040 --> 00:13:00,480
+Tymianek, ale nie każdy tymianek,
+
+310
+00:12:59,040 --> 00:13:03,120
+absolutnie nie każdy. To musi być
+
+311
+00:13:00,480 --> 00:13:06,680
+chemotyp linolowy. Linalolowy, tak? No
+
+312
+00:13:03,120 --> 00:13:08,680
+bo chemotyp załóżmy tenmolowy,
+
+313
+00:13:06,680 --> 00:13:10,880
+z którym najczęściej kojarzymy, tymianek
+
+314
+00:13:08,680 --> 00:13:13,519
+tutaj się zupełnie nam nie sprawdzi.
+
+315
+00:13:10,880 --> 00:13:17,240
+Neroli czy oczywiście lawenda lekarska,
+
+316
+00:13:13,519 --> 00:13:20,480
+czyli nasze combo lina lol odan lina
+
+317
+00:13:17,240 --> 00:13:22,199
+lilu i tutaj tabelka z Roberta Ticeranda
+
+318
+00:13:20,480 --> 00:13:25,760
+Hoł, czyli to jest to co powiedzieliśmy
+
+319
+00:13:22,199 --> 00:13:30,360
+sobie wcześniej tak drzewo ho. Dalej
+
+320
+00:13:25,760 --> 00:13:32,199
+mamy drzewo różane, nasiona kolendry i
+
+321
+00:13:30,360 --> 00:13:33,480
+tak dalej. Więc to jest taka ściągawka,
+
+322
+00:13:32,199 --> 00:13:36,720
+jakby ktoś chciał wchodzić mocno w
+
+323
+00:13:33,480 --> 00:13:39,480
+szczegóły, ile tego lina LOLu jest
+
+324
+00:13:36,720 --> 00:13:42,720
+obecnego w różnych olejkach. Jak
+
+325
+00:13:39,480 --> 00:13:45,160
+widzimy, jest to duża tabelka. Tu jest
+
+326
+00:13:42,720 --> 00:13:48,480
+dużo olejków w eterycznych, bo ten
+
+327
+00:13:45,160 --> 00:13:53,519
+składnik jest powszechnie występującym
+
+328
+00:13:48,480 --> 00:13:56,079
+związkiem chemicznym. W olejkach mamy
+
+329
+00:13:53,519 --> 00:13:58,399
+zestaw olejków eterycznych o
+
+330
+00:13:56,079 --> 00:14:01,440
+właściwościach przeciwlękowych. On też
+
+331
+00:13:58,399 --> 00:14:03,360
+wynika z tego, że częściej te olejki na
+
+332
+00:14:01,440 --> 00:14:04,720
+przykład są wykorzystywane w badaniach.
+
+333
+00:14:03,360 --> 00:14:08,560
+Mamy takie, nazwijmy to, dowody
+
+334
+00:14:04,720 --> 00:14:10,759
+kliniczne, ale też praktyki
+
+335
+00:14:08,560 --> 00:14:13,680
+aromaterapeutyczne
+
+336
+00:14:10,759 --> 00:14:15,800
+często je po prostu biorą pod uwagę. Tak
+
+337
+00:14:13,680 --> 00:14:19,199
+różni autorzy na przykład wykorzystują w
+
+338
+00:14:15,800 --> 00:14:22,880
+swoich własnych podejściach. Więc to
+
+339
+00:14:19,199 --> 00:14:25,639
+jest taki zestaw autorski, tak? Można go
+
+340
+00:14:22,880 --> 00:14:27,199
+oczywiście rozszerzać. Yyy, lawenda
+
+341
+00:14:25,639 --> 00:14:30,440
+lekarska jest na pierwszym miejscu, bo
+
+342
+00:14:27,199 --> 00:14:33,000
+jest najwięcej jej w użyciu, w badaniu i
+
+343
+00:14:30,440 --> 00:14:35,079
+wszyscy ją znają. Yyy, pomarańcza,
+
+344
+00:14:33,000 --> 00:14:36,440
+słodka, cytrusy. Ogólnie tutaj mamy cały
+
+345
+00:14:35,079 --> 00:14:38,000
+zestaw cytrusów. Tutaj zostały
+
+346
+00:14:36,440 --> 00:14:39,440
+wymienione akurat cytryna, neroli czy
+
+347
+00:14:38,000 --> 00:14:41,360
+też bergamotka. No neroli zupełnie
+
+348
+00:14:39,440 --> 00:14:43,040
+inaczej pachnie niż cytryna czy
+
+349
+00:14:41,360 --> 00:14:44,480
+pomarańcza,
+
+350
+00:14:43,040 --> 00:14:47,040
+ale też jest często wykorzystana w
+
+351
+00:14:44,480 --> 00:14:48,480
+kontekście różnych problemów ze stresem,
+
+352
+00:14:47,040 --> 00:14:53,360
+lękiem.
+
+353
+00:14:48,480 --> 00:14:53,360
+bergamotka, taki olejek delikatnyi
+
+354
+00:14:54,680 --> 00:15:00,519
+cytrus, można powiedzieć lawendowy.
+
+355
+00:14:57,480 --> 00:15:02,800
+Połączenie cytrusa, olejku cytrusowego z
+
+356
+00:15:00,519 --> 00:15:06,240
+z lawendą. Dalej ilang, ilang, czyli
+
+357
+00:15:02,800 --> 00:15:08,480
+kalange odorata. y też często
+
+358
+00:15:06,240 --> 00:15:11,839
+wykorzystany i mocny olejek w działaniu.
+
+359
+00:15:08,480 --> 00:15:15,320
+Często też się o niej ilang, ilang,
+
+360
+00:15:11,839 --> 00:15:17,000
+czyli o tym surowcu, on też ten olejek
+
+361
+00:15:15,320 --> 00:15:19,240
+może być bardzo zróżnicowany w
+
+362
+00:15:17,000 --> 00:15:21,240
+zależności od tego, jakim z jakim
+
+363
+00:15:19,240 --> 00:15:22,720
+rodzajem destylacji mamy do czynienia.
+
+364
+00:15:21,240 --> 00:15:24,560
+Czy to jest complete, czy to jest
+
+365
+00:15:22,720 --> 00:15:26,320
+ekstra, pierwsza, druga, trzecia faza
+
+366
+00:15:24,560 --> 00:15:28,839
+destylacji. Więc jeżeli ktoś kiedyś
+
+367
+00:15:26,320 --> 00:15:30,880
+wąchał różne oleki etryczne ilang,
+
+368
+00:15:28,839 --> 00:15:33,399
+ilang, pracował z nimi, to wie doskonale
+
+369
+00:15:30,880 --> 00:15:35,839
+o czym ja mówię. też jest tak, że każdy
+
+370
+00:15:33,399 --> 00:15:38,240
+ma swoje tutaj preferencje,
+
+371
+00:15:35,839 --> 00:15:40,079
+bo nie każdy lubi na przykład ten
+
+372
+00:15:38,240 --> 00:15:42,800
+ekstra, który jest taki bardzo mocny już
+
+373
+00:15:40,079 --> 00:15:46,160
+taki duszący. Wtedy warto go połączyć z
+
+374
+00:15:42,800 --> 00:15:48,600
+czymś innym. Natomiast olejek często
+
+375
+00:15:46,160 --> 00:15:50,279
+pojawia się w badaniach w kontekście na
+
+376
+00:15:48,600 --> 00:15:52,279
+przykład
+
+377
+00:15:50,279 --> 00:15:53,680
+ciśnienia.
+
+378
+00:15:52,279 --> 00:15:55,360
+Pojawia się w badaniach klinicznych,
+
+379
+00:15:53,680 --> 00:15:56,720
+jeżeli chodzi o depresję. Nie ma tego
+
+380
+00:15:55,360 --> 00:15:58,240
+dużo, ale pojawia się. No i w
+
+381
+00:15:56,720 --> 00:16:00,759
+zaburzeniach lękowych również go gdzieś
+
+382
+00:15:58,240 --> 00:16:02,600
+znajdziemy. Trawa cytrynow to już te
+
+383
+00:16:00,759 --> 00:16:04,319
+dalej są już rzadsze. Trawa cytrynowa
+
+384
+00:16:02,600 --> 00:16:05,639
+grejpfrut na przykład olej grejfrutowy
+
+385
+00:16:04,319 --> 00:16:07,959
+przy procedurach medycznych był
+
+386
+00:16:05,639 --> 00:16:09,759
+wykorzystywany róża damasceńska
+
+387
+00:16:07,959 --> 00:16:13,720
+oczywiście rozmaryn się pojawia czy też
+
+388
+00:16:09,759 --> 00:16:18,639
+szałwia muszka tołowa.
+
+389
+00:16:13,720 --> 00:16:20,720
+Tutaj tabelka z pracy przeglądowej
+
+390
+00:16:18,639 --> 00:16:23,199
+dotyczącej wpływu olejków eterycznych na
+
+391
+00:16:20,720 --> 00:16:27,639
+układ nerwowy. I w tej tabelce właśnie
+
+392
+00:16:23,199 --> 00:16:29,360
+mamy yyy zwrócenie uwagi na to, jakie
+
+393
+00:16:27,639 --> 00:16:32,399
+olejki były wykorzystywane, jaka grupa
+
+394
+00:16:29,360 --> 00:16:34,880
+pacjentów, jaka była też dawka. Tutaj
+
+395
+00:16:32,399 --> 00:16:38,639
+jest ta część dotycząca dawki, tak,
+
+396
+00:16:34,880 --> 00:16:41,240
+jakie uzyskano efekty, yyy, no i
+
+397
+00:16:38,639 --> 00:16:42,800
+referencje, tak, czyli źródło
+
+398
+00:16:41,240 --> 00:16:46,240
+literaturowe. No i pojawiła się nam
+
+399
+00:16:42,800 --> 00:16:48,480
+tutaj lawenda. Mamy węchowo stosowaną
+
+400
+00:16:46,240 --> 00:16:52,360
+lawendę, ale też jest droga doustna. I
+
+401
+00:16:48,480 --> 00:16:55,399
+to jest takie słynne badanie z 2010
+
+402
+00:16:52,360 --> 00:16:58,480
+roku, gdzie wykazano właściwości
+
+403
+00:16:55,399 --> 00:17:00,959
+przeciwlękowe yyy lawendy stosowanej
+
+404
+00:16:58,480 --> 00:17:04,439
+drogą doustną. Trzy kropelki to były
+
+405
+00:17:00,959 --> 00:17:08,160
+duże badania, 200 ponad osób yyy
+
+406
+00:17:04,439 --> 00:17:11,520
+pacjentów cierpiących na yyy zaburzenia
+
+407
+00:17:08,160 --> 00:17:13,760
+lękowe. Tutaj niżej mamy pracę dotyczącą
+
+408
+00:17:11,520 --> 00:17:16,559
+yyy wykorzystania
+
+409
+00:17:13,760 --> 00:17:20,280
+yyy olejku grejpfrutowego u pacjentów,
+
+410
+00:17:16,559 --> 00:17:23,240
+którzy przechodzili zabieg kolonoskopii
+
+411
+00:17:20,280 --> 00:17:25,679
+i się okazało też, że yyy odnotowano
+
+412
+00:17:23,240 --> 00:17:29,160
+korzyści y terapeutyczne, zmniejszenie
+
+413
+00:17:25,679 --> 00:17:31,919
+na przykład dolegliwości dyskomfortu
+
+414
+00:17:29,160 --> 00:17:34,840
+bólowego, brzusznego, tak? Bo oczywiście
+
+415
+00:17:31,919 --> 00:17:38,480
+takie dolegliwości pojawiają się podczas
+
+416
+00:17:34,840 --> 00:17:41,960
+tego zabiegu, tak? Tutaj mamy z kolei
+
+417
+00:17:38,480 --> 00:17:45,440
+geranium, tak, pelargonium, graveolens,
+
+418
+00:17:41,960 --> 00:17:48,280
+pacjenci z
+
+419
+00:17:45,440 --> 00:17:50,320
+miokardial infraction, już nie pamiętam
+
+420
+00:17:48,280 --> 00:17:54,280
+co to było. To jakiś oczywiście jest to
+
+421
+00:17:50,320 --> 00:17:54,280
+problem sercowy, ale
+
+422
+00:17:54,799 --> 00:17:58,960
+musiałabym dokładnie sprawdzić o co
+
+423
+00:17:56,600 --> 00:18:00,960
+chodzi z tym infraction.
+
+424
+00:17:58,960 --> 00:18:04,720
+To może w przerwie.
+
+425
+00:18:00,960 --> 00:18:06,880
+I mamy tutaj obniżone również nasilenie
+
+426
+00:18:04,720 --> 00:18:09,400
+lęku. Tak. i za każdym razem działanie
+
+427
+00:18:06,880 --> 00:18:14,120
+ankssiolityczne, czyli przeciwlękowe,
+
+428
+00:18:09,400 --> 00:18:17,200
+ale także przeciw depresyjne.
+
+429
+00:18:14,120 --> 00:18:19,799
+Tutaj zestaw różnych prac dotyczących
+
+430
+00:18:17,200 --> 00:18:23,000
+olejku ilang, ilang, wyciszający i
+
+431
+00:18:19,799 --> 00:18:25,919
+przeciwlękowy charakter tego olejku. I
+
+432
+00:18:23,000 --> 00:18:29,840
+widzimy też znowu bodźcowanie węchowe,
+
+433
+00:18:25,919 --> 00:18:33,080
+ale także aplikacja na skórę. Tak. I yyy
+
+434
+00:18:29,840 --> 00:18:34,919
+tutaj yyy często widzimy znowu działanie
+
+435
+00:18:33,080 --> 00:18:37,679
+przeciwdepresyjne i przeciwlękowe. Przy
+
+436
+00:18:34,919 --> 00:18:40,760
+czym często tutaj też badano inne
+
+437
+00:18:37,679 --> 00:18:42,919
+elementy, czyli badano wpływ na przykład
+
+438
+00:18:40,760 --> 00:18:46,320
+na ciśnienie krwi. Tak? I w tej tabelce
+
+439
+00:18:42,919 --> 00:18:50,039
+widzimy te efekty, że obniżyło się
+
+440
+00:18:46,320 --> 00:18:53,360
+ciśnienie krwi, obniżył się puls, tak?
+
+441
+00:18:50,039 --> 00:18:55,640
+Czyli rate.
+
+442
+00:18:53,360 --> 00:18:57,159
+I ten aspekt wpływu na ciśnienie krwi
+
+443
+00:18:55,640 --> 00:18:58,679
+często to się pojawia. Natomiast co to
+
+444
+00:18:57,159 --> 00:19:01,000
+jest ważne, żebyśmy z tego sobie
+
+445
+00:18:58,679 --> 00:19:03,880
+zapamiętali, tutaj wszędzie są zdrowi
+
+446
+00:19:01,000 --> 00:19:06,880
+ochotnicy i też ja oczywiście nie
+
+447
+00:19:03,880 --> 00:19:06,880
+omawiam
+
+448
+00:19:21,320 --> 00:19:27,720
+czy teraz słychać?
+
+449
+00:19:24,000 --> 00:19:27,720
+Mam nadzieję, że słychać.
+
+450
+00:19:33,080 --> 00:19:36,679
+Okej, dobrze.
+
+451
+00:19:42,240 --> 00:19:47,760
+Atak serca. Tak, to jest cardial
+
+452
+00:19:44,640 --> 00:19:50,799
+infraction, żeby to było jasne od razu
+
+453
+00:19:47,760 --> 00:19:54,240
+o czym mówiłam wcześniej.
+
+454
+00:19:50,799 --> 00:19:57,480
+I dlaczego o tym mówię? dlatego że
+
+455
+00:19:54,240 --> 00:20:00,919
+skuteczność hipotensyjna aromaterapii
+
+456
+00:19:57,480 --> 00:20:03,679
+inhalacyjnej nie jest wysoka, ona nie
+
+457
+00:20:00,919 --> 00:20:08,799
+zastępuje farmakoterapii. Tak, czyli u
+
+458
+00:20:03,679 --> 00:20:11,840
+osób zdrowych te efekty są widoczne i
+
+459
+00:20:08,799 --> 00:20:15,720
+tutaj te badania, które zostały ujęte w
+
+460
+00:20:11,840 --> 00:20:18,000
+tabeli to pokazują. Yyy, natomiast yyy
+
+461
+00:20:15,720 --> 00:20:19,960
+jest tak, że jeżeli ktoś już ma chorobę
+
+462
+00:20:18,000 --> 00:20:22,720
+nadciśnieniową, to nie spodziewamy się,
+
+463
+00:20:19,960 --> 00:20:25,240
+że jeżeli ktoś będzie sobie wąchał yyy
+
+464
+00:20:22,720 --> 00:20:27,000
+załóżmy i lan tam lawendę i jeszcze
+
+465
+00:20:25,240 --> 00:20:28,320
+neroli, tak? Taki zestaw był
+
+466
+00:20:27,000 --> 00:20:30,360
+wykorzystywany między innymi w badaniach
+
+467
+00:20:28,320 --> 00:20:33,360
+klinicznych, jeszcze majeranek do tego,
+
+468
+00:20:30,360 --> 00:20:35,640
+yyy, to on będzie miał efekt
+
+469
+00:20:33,360 --> 00:20:39,400
+hipotensyjny. On się pojawi, ale to jest
+
+470
+00:20:35,640 --> 00:20:43,240
+niski efekt hipotensyjny, tak? Do 10
+
+471
+00:20:39,400 --> 00:20:47,000
+jednostek, tak? natomiast nie yyy
+
+472
+00:20:43,240 --> 00:20:49,080
+obniżymy sobie ciśnienia ze 180 do 130
+
+473
+00:20:47,000 --> 00:20:51,640
+na przykład skurczowego, więc to też
+
+474
+00:20:49,080 --> 00:20:54,360
+warto sobie zapamiętać.
+
+475
+00:20:51,640 --> 00:20:57,159
+Ale wracamy do naszych zaburzeń lękowych
+
+476
+00:20:54,360 --> 00:21:00,799
+i do prac, które wykorzystywały oleje
+
+477
+00:20:57,159 --> 00:21:03,080
+getczne lawendowe drogą doustną. I to są
+
+478
+00:21:00,799 --> 00:21:05,480
+bardzo ciekawe badania. One zaczęły się
+
+479
+00:21:03,080 --> 00:21:08,240
+mniej więcej w roku 2010 i od tego czasu
+
+480
+00:21:05,480 --> 00:21:11,679
+pojawiło się sporo publikacji. Ta praca
+
+481
+00:21:08,240 --> 00:21:13,840
+jest duża, czas trwania 10 tygodni jest
+
+482
+00:21:11,679 --> 00:21:15,360
+też całkiem niezły, czyli nie jest to
+
+483
+00:21:13,840 --> 00:21:17,480
+krótko. Znaczy oczywiście można
+
+484
+00:21:15,360 --> 00:21:20,799
+podyskutować, czy to krótko, bo cyneol
+
+485
+00:21:17,480 --> 00:21:22,840
+ma badania na sześciu miesiącach i i to
+
+486
+00:21:20,799 --> 00:21:26,039
+już jest całkiem sporo. tutaj 10
+
+487
+00:21:22,840 --> 00:21:29,080
+tygodni, czyli mamy dwa miesiące,
+
+488
+00:21:26,039 --> 00:21:30,760
+ale to już jest coś i co ważne, preparat
+
+489
+00:21:29,080 --> 00:21:35,120
+olejku lawendowego miał znaczący
+
+490
+00:21:30,760 --> 00:21:38,679
+korzystny wpływ na jakość i czas snu w
+
+491
+00:21:35,120 --> 00:21:41,120
+grupie osób z zaburzeniami lękowymi.
+
+492
+00:21:38,679 --> 00:21:44,640
+Nie widziałam jeszcze badań, może już
+
+493
+00:21:41,120 --> 00:21:46,919
+takie są, pokazujących, czy na przykład
+
+494
+00:21:44,640 --> 00:21:48,679
+osoby z besennością przy stosowaniu
+
+495
+00:21:46,919 --> 00:21:50,480
+olejku lawendowego, bo bezność może mieć
+
+496
+00:21:48,679 --> 00:21:53,240
+bardzo różną etiologię, nie zawsze
+
+497
+00:21:50,480 --> 00:21:55,120
+współwystępują zaburzenia lękowe, jest
+
+498
+00:21:53,240 --> 00:21:58,520
+wysoce prawdopodobne, że ten efekt się
+
+499
+00:21:55,120 --> 00:22:02,240
+też pojawi, że będzie lepsza jakość snu
+
+500
+00:21:58,520 --> 00:22:05,360
+i czas snu, ale takich bez evidence base
+
+501
+00:22:02,240 --> 00:22:07,360
+dowodów na to jeszcze nie mamy. Jest to
+
+502
+00:22:05,360 --> 00:22:10,440
+wysoce prawdopodobne. Można taką
+
+503
+00:22:07,360 --> 00:22:11,799
+hipotezę formułować z pewnością.
+
+504
+00:22:10,440 --> 00:22:13,640
+Poprawił się ogólny stan zdrowia
+
+505
+00:22:11,799 --> 00:22:15,120
+psychicznego, fizycznego, nie powodując
+
+506
+00:22:13,640 --> 00:22:17,000
+działań niepożądanych, przede wszystkim
+
+507
+00:22:15,120 --> 00:22:19,240
+nadmiernej szacji, innych efektów
+
+508
+00:22:17,000 --> 00:22:20,679
+specyficznych dla leku. Dlaczego mówimy
+
+509
+00:22:19,240 --> 00:22:22,679
+o tej nadmiernej szacji? No to jest
+
+510
+00:22:20,679 --> 00:22:25,720
+temat bardzo podstawowy, jeżeli chodzi o
+
+511
+00:22:22,679 --> 00:22:28,159
+stosowanie benzodiazepin, czyli często
+
+512
+00:22:25,720 --> 00:22:30,240
+wykorzystanych leków farmakoterapii
+
+513
+00:22:28,159 --> 00:22:32,080
+zaburzeń lękowych. Tutaj było
+
+514
+00:22:30,240 --> 00:22:34,640
+wykorzystane preparacj leken, czyli to
+
+515
+00:22:32,080 --> 00:22:37,679
+jest nazwa nazwa handlowa.
+
+516
+00:22:34,640 --> 00:22:40,039
+Dawka 80 mg olejku to jest około trzech
+
+517
+00:22:37,679 --> 00:22:42,000
+kropli. Kropla nie jest miarą
+
+518
+00:22:40,039 --> 00:22:44,760
+precyzyjną. Ja o tym mówię dlatego, że
+
+519
+00:22:42,000 --> 00:22:46,360
+my w Polsce ciągle nie mamy jeszcze
+
+520
+00:22:44,760 --> 00:22:49,640
+preparatu,
+
+521
+00:22:46,360 --> 00:22:51,440
+preparatu o charakterze leku.
+
+522
+00:22:49,640 --> 00:22:53,679
+Może już się pojawią jakieś suplementy
+
+523
+00:22:51,440 --> 00:22:56,480
+diety, bo to się jak grzyby po deszczu,
+
+524
+00:22:53,679 --> 00:22:58,880
+że tak powiem, pojawia. Natomiast to też
+
+525
+00:22:56,480 --> 00:23:00,799
+jest informacja praktyczna, że my możemy
+
+526
+00:22:58,880 --> 00:23:03,159
+sami sobie przygotować kapsułkę z
+
+527
+00:23:00,799 --> 00:23:05,440
+olekiem lawendowym.
+
+528
+00:23:03,159 --> 00:23:09,880
+Kapsułki z hydroksypropyloceluloz robimy
+
+529
+00:23:05,440 --> 00:23:12,039
+na bieżąco, czyli używamy podłoża
+
+530
+00:23:09,880 --> 00:23:13,400
+jakiegoś bazowego, olejowego, medium,
+
+531
+00:23:12,039 --> 00:23:15,640
+tak? Najlepiej, żeby to był też przy
+
+532
+00:23:13,400 --> 00:23:17,840
+okazji olej funkcjonalny. To może być
+
+533
+00:23:15,640 --> 00:23:19,679
+olej rokitnikowy. Nie potrzebujemy
+
+534
+00:23:17,840 --> 00:23:22,799
+dużych ilości, bo kapsułeczka ma
+
+535
+00:23:19,679 --> 00:23:25,400
+niewielką objętość, więc dobrze włożyć
+
+536
+00:23:22,799 --> 00:23:28,159
+tam olej, który daje nam konkretne już
+
+537
+00:23:25,400 --> 00:23:31,240
+działanie w tak niewielkiej dawce.
+
+538
+00:23:28,159 --> 00:23:33,039
+I na to nanosimy trzy kropelki olejku
+
+539
+00:23:31,240 --> 00:23:35,159
+lawendowego. Czy można więcej? Można
+
+540
+00:23:33,039 --> 00:23:37,320
+więcej. Zawsze tutaj jest pytanie o to,
+
+541
+00:23:35,159 --> 00:23:38,799
+co jeszcze stosujemy, tak żeby nie
+
+542
+00:23:37,320 --> 00:23:42,520
+pojawiły się interakcje, bo one są w
+
+543
+00:23:38,799 --> 00:23:45,880
+przodku drogi do ustnej i olejków. Tutaj
+
+544
+00:23:42,520 --> 00:23:48,440
+jak najbardziej możliwe.
+
+545
+00:23:45,880 --> 00:23:50,559
+Olejek lawendowy do ustnie z lawendy
+
+546
+00:23:48,440 --> 00:23:52,919
+lekarskiej wywiera klinicznie istotny
+
+547
+00:23:50,559 --> 00:23:56,279
+wpływ przeciwlękowy oraz łagodzi
+
+548
+00:23:52,919 --> 00:23:59,080
+zaburzenia snu związane z lękiem. Tak
+
+549
+00:23:56,279 --> 00:24:01,440
+tylko są dla nas informacje płynące z
+
+550
+00:23:59,080 --> 00:24:04,320
+tego badania i to jest praca. Ja tutaj
+
+551
+00:24:01,440 --> 00:24:07,360
+mam jeszcze slajd przygotowywany w
+
+552
+00:24:04,320 --> 00:24:12,320
+czasach kiedy PBM wyglądał inaczej. miał
+
+553
+00:24:07,360 --> 00:24:15,200
+inną szatę taką graficzną i tutaj są
+
+554
+00:24:12,320 --> 00:24:16,880
+zaznaczone te najważniejsze informacje,
+
+555
+00:24:15,200 --> 00:24:20,120
+które zostały przedstawione na
+
+556
+00:24:16,880 --> 00:24:21,679
+poprzednim też slajdzie, ale te badania
+
+557
+00:24:20,120 --> 00:24:24,240
+były dalej kontynuowane. Tutaj jeszcze
+
+558
+00:24:21,679 --> 00:24:26,600
+jest praca również z 2010 roku. 6
+
+559
+00:24:24,240 --> 00:24:28,559
+tygodni zażywania olejku lawendowego do
+
+560
+00:24:26,600 --> 00:24:32,080
+ustnia, ale już w porównaniu właśnie z
+
+561
+00:24:28,559 --> 00:24:35,279
+benzodiai. Tutaj z lorazepamem
+
+562
+00:24:32,080 --> 00:24:38,240
+w przypadku osób dorosłych, u których
+
+563
+00:24:35,279 --> 00:24:42,440
+występowały uogólnione zaburzenia
+
+564
+00:24:38,240 --> 00:24:46,159
+lękowe, czyli w skrócie GAT. Yyy i tutaj
+
+565
+00:24:42,440 --> 00:24:48,919
+mamy yyy efekt kliniczny porównywalny do
+
+566
+00:24:46,159 --> 00:24:50,760
+benzodiazepin, tak? Yyy jak patrzymy na
+
+567
+00:24:48,919 --> 00:24:53,240
+wyniki tego badania, tutaj akurat
+
+568
+00:24:50,760 --> 00:24:54,880
+mierzono to w skali nasilenia lęku
+
+569
+00:24:53,240 --> 00:24:57,640
+Hamiltona.
+
+570
+00:24:54,880 --> 00:24:59,159
+Yyy i widzimy, że yyy zarówno w jednej,
+
+571
+00:24:57,640 --> 00:25:02,679
+jak i w drugiej grupie te efekty były
+
+572
+00:24:59,159 --> 00:25:06,000
+bardzo podobne. Tutaj 45%
+
+573
+00:25:02,679 --> 00:25:10,679
+dla preparatu z olejkiem lawendowym. A
+
+574
+00:25:06,000 --> 00:25:16,360
+yyy tutaj wpływ na yyy jeśli chodzi o
+
+575
+00:25:10,679 --> 00:25:18,440
+wpływ benzyń był bardzo podobny 40 6%.
+
+576
+00:25:16,360 --> 00:25:21,120
+Czyli możemy tutaj podsumowując
+
+577
+00:25:18,440 --> 00:25:23,360
+stwierdzić, że yyy olejek lawendowy
+
+578
+00:25:21,120 --> 00:25:26,200
+drogą do ustną jest tak samo efektywny
+
+579
+00:25:23,360 --> 00:25:29,240
+jak Lora Zepam u osób dorosłych z
+
+580
+00:25:26,200 --> 00:25:30,679
+uogólnionymi zaburzeniami lękowymi.
+
+581
+00:25:29,240 --> 00:25:32,480
+Natomiast mamy przewagę olejku
+
+582
+00:25:30,679 --> 00:25:36,799
+lawendowego, ponieważ nie pojawił się
+
+583
+00:25:32,480 --> 00:25:39,760
+tutaj efekt sedatywny. yyy ale też nie
+
+584
+00:25:36,799 --> 00:25:41,960
+pojawiła się yyy taka yyy tutaj
+
+585
+00:25:39,760 --> 00:25:45,480
+skłonność do uzależnienia, tak? Czyli
+
+586
+00:25:41,960 --> 00:25:48,960
+mamy yyy efektywność kliniczną i
+
+587
+00:25:45,480 --> 00:25:52,960
+jednocześnie dobrą tolerancję, co daje
+
+588
+00:25:48,960 --> 00:25:56,159
+nam yyy tak naprawdę alternatywę dla
+
+589
+00:25:52,960 --> 00:26:01,039
+benzodiazepin. Myślę, że to jest już dla
+
+590
+00:25:56,159 --> 00:26:01,039
+nas bardzo ciekawy wynik.
+
+591
+00:26:06,080 --> 00:26:11,440
+Mam nadzieję, że dźwięk jest w porządku.
+
+592
+00:26:08,799 --> 00:26:13,399
+No i teraz idziemy sobie dalej do
+
+593
+00:26:11,440 --> 00:26:17,000
+przodu.
+
+594
+00:26:13,399 --> 00:26:19,320
+Prace trwają. Tutaj rok 2024. I co się
+
+595
+00:26:17,000 --> 00:26:21,919
+okazało? Że okazało się, że też mamy
+
+596
+00:26:19,320 --> 00:26:24,360
+efekty przeciwdepresyjne, czyli jeżeli
+
+597
+00:26:21,919 --> 00:26:27,640
+mamy zaburzenia lękowe,
+
+598
+00:26:24,360 --> 00:26:29,520
+to tutaj
+
+599
+00:26:27,640 --> 00:26:32,080
+powiązane z zaburzeniami depresyjnymi,
+
+600
+00:26:29,520 --> 00:26:36,600
+to tutaj też efekty są.
+
+601
+00:26:32,080 --> 00:26:39,520
+możliwe i tym razem porównywano
+
+602
+00:26:36,600 --> 00:26:42,679
+porównywano to jeszcze
+
+603
+00:26:39,520 --> 00:26:46,200
+z chyba z paroksetyną czy tutaj widzimy
+
+604
+00:26:42,679 --> 00:26:49,080
+takie informacje odnośnie lorazepamu tak
+
+605
+00:26:46,200 --> 00:26:52,919
+paroksetyny czy sertrraliny to jest
+
+606
+00:26:49,080 --> 00:26:54,600
+akurat lek z grupy SSRI
+
+607
+00:26:52,919 --> 00:26:57,000
+natomiast
+
+608
+00:26:54,600 --> 00:26:58,720
+to akurat jest chyba zestawienie różnych
+
+609
+00:26:57,000 --> 00:27:02,320
+badań klinicznych i z tego z tej
+
+610
+00:26:58,720 --> 00:27:06,279
+publikacji jest wyjęta ta tabelka, która
+
+611
+00:27:02,320 --> 00:27:10,320
+pokazuje nam właśnie różne badania,
+
+612
+00:27:06,279 --> 00:27:12,840
+gdzie wykorzystywano olejek lawendowy,
+
+613
+00:27:10,320 --> 00:27:16,440
+tutaj była ilość pacjentów, czas 10
+
+614
+00:27:12,840 --> 00:27:18,640
+tygodni, 10 tygodni, 10 tygodni
+
+615
+00:27:16,440 --> 00:27:20,679
+i no widzę, że wszędzie tu jest 10
+
+616
+00:27:18,640 --> 00:27:23,440
+tygodni, ale też były właśnie
+
+617
+00:27:20,679 --> 00:27:25,039
+zestawienia z lekami
+
+618
+00:27:23,440 --> 00:27:27,960
+psychiatrycznymi. Tak, tutaj mamy z
+
+619
+00:27:25,039 --> 00:27:29,720
+paroksetyną, tu mamy zestawienie z
+
+620
+00:27:27,960 --> 00:27:34,240
+lorazepamem.
+
+621
+00:27:29,720 --> 00:27:37,919
+Yyy i tutaj jeszcze może później pojawi
+
+622
+00:27:34,240 --> 00:27:37,919
+się sertralina
+
+623
+00:27:39,159 --> 00:27:43,840
+i wszędzie mamy albo uogólnione
+
+624
+00:27:41,960 --> 00:27:45,519
+zaburzenia lękowe, tutaj mamy
+
+625
+00:27:43,840 --> 00:27:47,840
+współwystępującą
+
+626
+00:27:45,519 --> 00:27:49,679
+depresję z zaburzeniami lękowymi. Tutaj
+
+627
+00:27:47,840 --> 00:27:51,679
+mamy
+
+628
+00:27:49,679 --> 00:27:54,030
+niepokój,
+
+629
+00:27:51,679 --> 00:27:57,359
+zaburzenia snu
+
+630
+00:27:54,030 --> 00:27:57,359
+[Muzyka]
+
+631
+00:27:57,360 --> 00:28:02,880
+i wpływ taki, jeśli chodzi o zaburzenia
+
+632
+00:28:00,919 --> 00:28:06,640
+lękowe
+
+633
+00:28:02,880 --> 00:28:09,320
+przy porównaniu różnych interwencji,
+
+634
+00:28:06,640 --> 00:28:12,320
+tak? Czyli kropeczka fioletowa oznacza
+
+635
+00:28:09,320 --> 00:28:17,840
+olejek lawendowy.
+
+636
+00:28:12,320 --> 00:28:21,200
+Trójkącik niebieski, który mamy tutaj,
+
+637
+00:28:17,840 --> 00:28:23,159
+pokazuje nam efekt działania
+
+638
+00:28:21,200 --> 00:28:25,960
+paroksetyny.
+
+639
+00:28:23,159 --> 00:28:28,600
+Tutaj jeszcze mamy lorazepan, tak? Czyli
+
+640
+00:28:25,960 --> 00:28:31,159
+lek z grupy benzodiazepin. A tutaj
+
+641
+00:28:28,600 --> 00:28:33,519
+jeszcze mamy taki trójkącik, czyli
+
+642
+00:28:31,159 --> 00:28:35,960
+placebo. I co tutaj sobie badamy? Mamy
+
+643
+00:28:33,519 --> 00:28:39,480
+różne badania kliniczne, a tutaj mamy
+
+644
+00:28:35,960 --> 00:28:43,200
+skalę oceny lęku Hamiltona, tak? I
+
+645
+00:28:39,480 --> 00:28:45,880
+widzimy, co się wydarzyło, jakie jest
+
+646
+00:28:43,200 --> 00:28:47,720
+poziom nasilenia lęku, czyli im niżej,
+
+647
+00:28:45,880 --> 00:28:50,240
+tym większa,
+
+648
+00:28:47,720 --> 00:28:52,559
+że tak powiem, oczekiwana korzyść, tak?
+
+649
+00:28:50,240 --> 00:28:54,559
+Czyli zaburzenia lękowe zostały
+
+650
+00:28:52,559 --> 00:28:56,480
+złagodzone. W pierwszym badaniu porówne
+
+651
+00:28:54,559 --> 00:28:58,399
+jest placebo. Widzicie, tutaj jest
+
+652
+00:28:56,480 --> 00:29:01,760
+olejek lawendowy, tu jest placebo. Duża
+
+653
+00:28:58,399 --> 00:29:03,480
+różnica. W drugim badaniu, gdzie mamy
+
+654
+00:29:01,760 --> 00:29:05,559
+olejek lawendowy i placebo, trochę
+
+655
+00:29:03,480 --> 00:29:07,679
+mniejsza różnica, ale też jest efekt
+
+656
+00:29:05,559 --> 00:29:09,440
+istotny statystycznie.
+
+657
+00:29:07,679 --> 00:29:11,120
+Dalej mamy kolejną pracę. Bardzo
+
+658
+00:29:09,440 --> 00:29:14,559
+porównywalne
+
+659
+00:29:11,120 --> 00:29:15,480
+tutaj efekty. Tu jest zbliżony efekt,
+
+660
+00:29:14,559 --> 00:29:19,799
+ale proszę zobaczyć, że tutaj
+
+661
+00:29:15,480 --> 00:29:22,440
+porównywano właśnie olejek lawendowy z
+
+662
+00:29:19,799 --> 00:29:24,080
+farmakoterapią, czyli z lorazepamem,
+
+663
+00:29:22,440 --> 00:29:25,480
+benzodypiną.
+
+664
+00:29:24,080 --> 00:29:28,799
+Tutaj mamy interwencję, gdzie
+
+665
+00:29:25,480 --> 00:29:30,440
+porównywano placebo, paroksetynę i
+
+666
+00:29:28,799 --> 00:29:34,080
+olejek lawendowy. No i widzimy, że
+
+667
+00:29:30,440 --> 00:29:36,760
+olejek lawendowy wygrał w tym pojedynku.
+
+668
+00:29:34,080 --> 00:29:38,480
+I tutaj jeszcze F, gdzie było placebo i
+
+669
+00:29:36,760 --> 00:29:40,240
+olejek lawendowy. W tym akurat badaniu
+
+670
+00:29:38,480 --> 00:29:44,150
+nie prawdopodobnie nie wykazano
+
+671
+00:29:40,240 --> 00:29:47,479
+istotnego statystycznie wyniku.
+
+672
+00:29:44,150 --> 00:29:47,479
+[Muzyka]
+
+673
+00:29:47,840 --> 00:29:51,600
+Tutaj też sprawdzano, co się dzieje,
+
+674
+00:29:49,880 --> 00:29:53,960
+kiedy będzie większa dawka. Czy na
+
+675
+00:29:51,600 --> 00:29:56,360
+przykład większa dawka spowoduje efekt
+
+676
+00:29:53,960 --> 00:29:59,519
+nadmiernej sacji. Zastosowano pojedyncze
+
+677
+00:29:56,360 --> 00:30:02,360
+dawki rzędu 320 mg. No bo oczywiście
+
+678
+00:29:59,519 --> 00:30:04,200
+trzy kropelki to nie jest dużo. Też nie
+
+679
+00:30:02,360 --> 00:30:05,600
+mamy za bardzo badań. Jest niewiele ich
+
+680
+00:30:04,200 --> 00:30:09,320
+właściwie tam widziałam, że były prace,
+
+681
+00:30:05,600 --> 00:30:11,399
+gdzie była dawka podwójna 160 mg. Yyy,
+
+682
+00:30:09,320 --> 00:30:14,279
+no ale dla takiego olejku jak olejek
+
+683
+00:30:11,399 --> 00:30:17,679
+lawendowy, takie 300 mg yyy dziennie, to
+
+684
+00:30:14,279 --> 00:30:22,039
+nie jest dawka przekraczająca yyy nasze
+
+685
+00:30:17,679 --> 00:30:24,279
+jakieś yyy, że tak powiem yyy granice
+
+686
+00:30:22,039 --> 00:30:25,840
+bezpieczeństwa. Tak. Yyy, przy tego
+
+687
+00:30:24,279 --> 00:30:27,640
+rodzaju składnikach aktywnych jak
+
+688
+00:30:25,840 --> 00:30:31,480
+linalol, odstan, lina lilu, nie musimy
+
+689
+00:30:27,640 --> 00:30:34,000
+się obawiać efektów toksycznych, a 32 mg
+
+690
+00:30:31,480 --> 00:30:37,320
+no to będzie około 10 kropli. Yyy to tak
+
+691
+00:30:34,000 --> 00:30:39,840
+tylko mówię woli żeby tak osadzić to w
+
+692
+00:30:37,320 --> 00:30:41,679
+takim praktycznym kontekście te wyniki
+
+693
+00:30:39,840 --> 00:30:44,480
+tych wszystkich badań. No i widzimy, że
+
+694
+00:30:41,679 --> 00:30:46,640
+ta pojedyncza dawka 320 mg też nie
+
+695
+00:30:44,480 --> 00:30:48,679
+powodowała
+
+696
+00:30:46,640 --> 00:30:50,559
+efektów niepożądanych, chociażby takich
+
+697
+00:30:48,679 --> 00:30:54,399
+jak negatywny wpływ na kierowanie
+
+698
+00:30:50,559 --> 00:30:57,080
+pojazdami mechanicznymi.
+
+699
+00:30:54,399 --> 00:31:01,840
+Tutaj jeszcze lek z grupy SSRI w
+
+700
+00:30:57,080 --> 00:31:03,880
+zestawieniu z olejkiem lawendowym.
+
+701
+00:31:01,840 --> 00:31:06,399
+I te trzy linie pokazują właśnie nam
+
+702
+00:31:03,880 --> 00:31:08,519
+trzy rodzaje interwencji. Jest lawenda,
+
+703
+00:31:06,399 --> 00:31:10,440
+jest sertralina, czyli farmaceutyk.
+
+704
+00:31:08,519 --> 00:31:12,559
+tutaj lek SSRI, czyli inhibitor
+
+705
+00:31:10,440 --> 00:31:13,559
+zwrotnego wychwytu serotoniny. I te dwie
+
+706
+00:31:12,559 --> 00:31:15,960
+linie widzimy, że są do siebie
+
+707
+00:31:13,559 --> 00:31:18,960
+najbardziej zbliżone, czyli efekt jest
+
+708
+00:31:15,960 --> 00:31:21,360
+porównywalny. Dawka 50 mg dziennie.
+
+709
+00:31:18,960 --> 00:31:26,120
+Zawsze dawki są też oczywiście ważne, a
+
+710
+00:31:21,360 --> 00:31:27,919
+tutaj mamy placebo, tak? Czyli y w miarę
+
+711
+00:31:26,120 --> 00:31:30,880
+upływu badania, bo też te linie się
+
+712
+00:31:27,919 --> 00:31:34,559
+coraz bardziej rozdzielają, był coraz
+
+713
+00:31:30,880 --> 00:31:36,399
+bardziej też widoczny efekt y stosowania
+
+714
+00:31:34,559 --> 00:31:40,120
+m
+
+715
+00:31:36,399 --> 00:31:42,050
+zarówno olejku lawendowego, jak i
+
+716
+00:31:40,120 --> 00:31:44,080
+sertraliny.
+
+717
+00:31:42,050 --> 00:31:46,120
+[Muzyka]
+
+718
+00:31:44,080 --> 00:31:47,880
+Więc to są konkretne informacje, tak,
+
+719
+00:31:46,120 --> 00:31:53,240
+pokazujące nam, czego możemy się
+
+720
+00:31:47,880 --> 00:31:55,679
+spodziewać yyy u osób, które załóżmy yyy
+
+721
+00:31:53,240 --> 00:31:57,559
+na przykład nie chcą zażywać SSRI z
+
+722
+00:31:55,679 --> 00:31:59,960
+jakiegoś powodu, bo też mogą mieć akurat
+
+723
+00:31:57,559 --> 00:32:03,240
+z tym lekiem złe doświadczenie, tak?
+
+724
+00:31:59,960 --> 00:32:06,279
+Wtedy jest alternatywa,
+
+725
+00:32:03,240 --> 00:32:08,799
+yyy, o której najczęściej psychiatrzy
+
+726
+00:32:06,279 --> 00:32:12,200
+nie wiedzą.
+
+727
+00:32:08,799 --> 00:32:13,480
+I to jest tutaj źródło tej pracy, czyli
+
+728
+00:32:12,200 --> 00:32:15,720
+znowu cały czas jesteśmy w kontekście
+
+729
+00:32:13,480 --> 00:32:18,399
+zaburzeń lękowych, ale ponieważ z
+
+730
+00:32:15,720 --> 00:32:21,000
+zaburzeniami lękowymi współwystępują
+
+731
+00:32:18,399 --> 00:32:24,240
+też zaburzenia nastroju, no to też
+
+732
+00:32:21,000 --> 00:32:27,480
+właśnie jest uzasadnione, żeby w tym
+
+733
+00:32:24,240 --> 00:32:30,760
+kontekście również to sobie zanalizować.
+
+734
+00:32:27,480 --> 00:32:34,159
+I rzeczywiście yyy tutaj y są
+
+735
+00:32:30,760 --> 00:32:36,240
+przesłanki, aby yyy olejek lawendowy był
+
+736
+00:32:34,159 --> 00:32:37,720
+stosowany za współwystępującymi
+
+737
+00:32:36,240 --> 00:32:41,240
+zaburzeniami depresyjnymi i zaburzeniami
+
+738
+00:32:37,720 --> 00:32:44,760
+lękowymi. I mamy na to pracę, że ta
+
+739
+00:32:41,240 --> 00:32:46,320
+dawka 80 mg dziennie przez 10 tygodni
+
+740
+00:32:44,760 --> 00:32:49,679
+jest tutaj równie skuteczna. To jest
+
+741
+00:32:46,320 --> 00:32:49,679
+akurat metaanaliza.
+
+742
+00:32:50,600 --> 00:32:57,039
+Yyy, mamy tutaj ujętych yyy pięć różnych
+
+743
+00:32:55,440 --> 00:32:59,960
+badań klinicznych kontrolowanych
+
+744
+00:32:57,039 --> 00:33:02,480
+placebo. Yyy, i z tego wynikają też
+
+745
+00:32:59,960 --> 00:33:05,279
+takie proste informacje,
+
+746
+00:33:02,480 --> 00:33:07,600
+zbierając te wszystkie prace, które też
+
+747
+00:33:05,279 --> 00:33:10,240
+przed chwileczką cytowałam. także w
+
+748
+00:33:07,600 --> 00:33:11,960
+depresji, w zaburzeniach lękowych o
+
+749
+00:33:10,240 --> 00:33:16,399
+łagodnym oraz umiarkowanym nasileniu
+
+750
+00:33:11,960 --> 00:33:19,240
+możemy rozważyć zastosowanie dawki 80 mg
+
+751
+00:33:16,399 --> 00:33:21,039
+przez okres 68 tygodni. Na podstawie tej
+
+752
+00:33:19,240 --> 00:33:22,880
+literatury zostało to dobrze
+
+753
+00:33:21,039 --> 00:33:26,919
+udokumentowane
+
+754
+00:33:22,880 --> 00:33:31,159
+i oczywiście ten czas no też nie jest
+
+755
+00:33:26,919 --> 00:33:32,840
+bardzo długi, ale już nas to w jakiś
+
+756
+00:33:31,159 --> 00:33:34,960
+sposób naprowadza. Tak. Wiemy, że ta
+
+757
+00:33:32,840 --> 00:33:36,480
+terapia jest dobrze tolerowana,
+
+758
+00:33:34,960 --> 00:33:37,960
+bezpieczna, nie ma działań
+
+759
+00:33:36,480 --> 00:33:40,159
+niepożądanych, nie ma nadmiernych
+
+760
+00:33:37,960 --> 00:33:43,880
+sedacji, jest poprawa jakości życia,
+
+761
+00:33:40,159 --> 00:33:45,720
+poprawa jakości snu w tych grupach
+
+762
+00:33:43,880 --> 00:33:50,159
+pacjentów.
+
+763
+00:33:45,720 --> 00:33:54,080
+[Muzyka]
+
+764
+00:33:50,159 --> 00:33:58,720
+Teraz będziemy troszeczkę nawigować w
+
+765
+00:33:54,080 --> 00:34:00,360
+stronę lęku związanego z procedurami
+
+766
+00:33:58,720 --> 00:34:02,240
+medycznymi.
+
+767
+00:34:00,360 --> 00:34:04,840
+I tutaj od razu pierwsze, co nam się
+
+768
+00:34:02,240 --> 00:34:07,639
+kojarzy dla większości osób, no problemy
+
+769
+00:34:04,840 --> 00:34:12,960
+z zabiegami stomatologicznymi. To jest
+
+770
+00:34:07,639 --> 00:34:14,599
+taka praca z 2016 roku indyjska, gdzie
+
+771
+00:34:12,960 --> 00:34:17,280
+stosowano bardzo prostą procedurę
+
+772
+00:34:14,599 --> 00:34:19,079
+kominki aromaterapeutyczne. Dzisiaj też
+
+773
+00:34:17,280 --> 00:34:21,000
+często się o nich mówi, że one są takie
+
+774
+00:34:19,079 --> 00:34:23,560
+niefajne, bo tam pogrzewają ten olejek.
+
+775
+00:34:21,000 --> 00:34:25,200
+To trochę z przymrzeniem oka. Nie do
+
+776
+00:34:23,560 --> 00:34:28,359
+końca jest to prawda. Jest to inny
+
+777
+00:34:25,200 --> 00:34:29,520
+rodzaj rozpraszania molekuł olejkowych.
+
+778
+00:34:28,359 --> 00:34:32,520
+Tutaj przede wszystkim jest nacisk na
+
+779
+00:34:29,520 --> 00:34:35,399
+molekuły, bo stosując dyfuzory, my
+
+780
+00:34:32,520 --> 00:34:38,119
+tworzymy mgiełkę, dyfuzoryźwiękowe, a
+
+781
+00:34:35,399 --> 00:34:39,760
+tutaj mamy taki efekt, który powoduje,
+
+782
+00:34:38,119 --> 00:34:42,200
+że te molekuły się dosyć równomiernie
+
+783
+00:34:39,760 --> 00:34:44,599
+rozpraszają w powietrzu. Nie mamy tego
+
+784
+00:34:42,200 --> 00:34:49,679
+efektu nawilżenia, bo wody jest niewiele
+
+785
+00:34:44,599 --> 00:34:52,240
+w tym kominku, natomiast ten efekt tutaj
+
+786
+00:34:49,679 --> 00:34:55,399
+też będzie inny. I na przykład dla osób
+
+787
+00:34:52,240 --> 00:34:57,000
+nadwrażliwych na wilgoć kominek jest jak
+
+788
+00:34:55,399 --> 00:34:59,359
+znalazł.
+
+789
+00:34:57,000 --> 00:35:02,560
+grupa 100 pacjentów.
+
+790
+00:34:59,359 --> 00:35:05,760
+No nie jest to dla nas zaskakujące, że
+
+791
+00:35:02,560 --> 00:35:10,680
+olejek lawendowy będzie łagodził lęk
+
+792
+00:35:05,760 --> 00:35:10,680
+przed zabiegiem dentystycznym.
+
+793
+00:35:10,880 --> 00:35:16,760
+Więc też
+
+794
+00:35:14,160 --> 00:35:18,839
+taka informacja bardziej na zasadzie
+
+795
+00:35:16,760 --> 00:35:22,119
+potwierdzenia tego, co my znamy ze
+
+796
+00:35:18,839 --> 00:35:23,560
+swojego własnego doświadczenia. I tutaj
+
+797
+00:35:22,119 --> 00:35:24,960
+jest metaanaliza, bo to było takie
+
+798
+00:35:23,560 --> 00:35:27,280
+pojedinycze badanie pokazujące mniej
+
+799
+00:35:24,960 --> 00:35:29,320
+więcej jak to można zrobić. Robimy
+
+800
+00:35:27,280 --> 00:35:31,000
+aromaterapię nawet w taki sposób bardzo
+
+801
+00:35:29,320 --> 00:35:33,240
+prosty
+
+802
+00:35:31,000 --> 00:35:35,640
+jak użycie kominka aromaterapeutycznego
+
+803
+00:35:33,240 --> 00:35:37,000
+i to działa i to jest ciekawe, że akurat
+
+804
+00:35:35,640 --> 00:35:40,760
+tutaj mamy taką metaanalizę, gdzie
+
+805
+00:35:37,000 --> 00:35:42,760
+zostawiono różne badania i tutaj ten
+
+806
+00:35:40,760 --> 00:35:45,400
+kominek aromaterapeutyczny był często
+
+807
+00:35:42,760 --> 00:35:47,480
+wykorzystywany. Widzimy trzy badania
+
+808
+00:35:45,400 --> 00:35:50,079
+kliniczne, gdzie wykorzystywano kominek
+
+809
+00:35:47,480 --> 00:35:52,280
+do aromaterapii.
+
+810
+00:35:50,079 --> 00:35:54,760
+Do wcześniejszego slajdu oczywiście,
+
+811
+00:35:52,280 --> 00:35:57,079
+proszę bardzo.
+
+812
+00:35:54,760 --> 00:35:58,520
+To jest źródło literaturowe dla tabelki,
+
+813
+00:35:57,079 --> 00:36:01,680
+którą teraz pokazywałam przed
+
+814
+00:35:58,520 --> 00:36:03,720
+chwileczką. Więc mamy wynik tej
+
+815
+00:36:01,680 --> 00:36:07,680
+metaanalizy, że aromaterapia jest
+
+816
+00:36:03,720 --> 00:36:11,000
+efektywna w redukowaniu zaburzeń yy
+
+817
+00:36:07,680 --> 00:36:13,680
+takich jak lęk, niepokój yyy związany z
+
+818
+00:36:11,000 --> 00:36:17,920
+zabiegiem dentystycznym. Tak, mamy to
+
+819
+00:36:13,680 --> 00:36:20,599
+yyy dosyć dobrze już przeanalizowane.
+
+820
+00:36:17,920 --> 00:36:23,680
+Yyy było to określane precyzyjnie za
+
+821
+00:36:20,599 --> 00:36:27,119
+pomocą różnych kwestionariuszy, tak? Yyy
+
+822
+00:36:23,680 --> 00:36:28,440
+na przykład yyy tutaj czy olejki można
+
+823
+00:36:27,119 --> 00:36:30,280
+podgrzewać, czy nie zmienia wtedy ich
+
+824
+00:36:28,440 --> 00:36:32,599
+składu. No od razu tylko przypomnę, że
+
+825
+00:36:30,280 --> 00:36:34,240
+olejki w większości przypadków są
+
+826
+00:36:32,599 --> 00:36:35,800
+produkowane metodem destylacji z parą
+
+827
+00:36:34,240 --> 00:36:37,800
+wodną, więc one już zostały podgrzane
+
+828
+00:36:35,800 --> 00:36:41,680
+dosyć mocno i solidnie. Tak, one musiały
+
+829
+00:36:37,800 --> 00:36:43,960
+się zagotować, bo y aby para wodna
+
+830
+00:36:41,680 --> 00:36:46,160
+przeszła w fazę lotną, tak, aby pojawiła
+
+831
+00:36:43,960 --> 00:36:48,040
+się para wodna, musi woda przejść we
+
+832
+00:36:46,160 --> 00:36:50,040
+wrzenie. Oczywiście też są różne metody
+
+833
+00:36:48,040 --> 00:36:52,280
+destylacji. Jest destylacja z parą
+
+834
+00:36:50,040 --> 00:36:53,760
+wodną, jest hydrodestylacja. Tak czy
+
+835
+00:36:52,280 --> 00:36:56,599
+inaczej, tam jest zawsze bardzo wysoka
+
+836
+00:36:53,760 --> 00:36:58,720
+temperatura i ona już zmienia nam skład
+
+837
+00:36:56,599 --> 00:37:00,640
+chemiczny. Szczególnie, że czasami
+
+838
+00:36:58,720 --> 00:37:02,640
+oczekujemy tego, tej zmiany składu. Na
+
+839
+00:37:00,640 --> 00:37:05,240
+przykład jak powstaje
+
+840
+00:37:02,640 --> 00:37:06,800
+hamazzulen, no to on nie występuje
+
+841
+00:37:05,240 --> 00:37:09,560
+pierwotnie w olejku eterycznym. on jest
+
+842
+00:37:06,800 --> 00:37:11,040
+produktem reakcji zachodzących podczas
+
+843
+00:37:09,560 --> 00:37:15,560
+procesu destylacji. Tak więc taka jedna
+
+844
+00:37:11,040 --> 00:37:19,880
+uwaga. Ale jeśli chodzi o kwestie
+
+845
+00:37:15,560 --> 00:37:22,880
+tych tematów bezpieczeństwa, zasada jest
+
+846
+00:37:19,880 --> 00:37:24,800
+kluczowa taka, że nie palimy olejku
+
+847
+00:37:22,880 --> 00:37:26,119
+eterycznego. Tak, bo spalanie olejku
+
+848
+00:37:24,800 --> 00:37:28,359
+eterycznego rzeczywiście spowoduje
+
+849
+00:37:26,119 --> 00:37:30,560
+istotne zmiany. W momencie kiedy my mamy
+
+850
+00:37:28,359 --> 00:37:33,839
+kominek aromaterapeutyczny, na który
+
+851
+00:37:30,560 --> 00:37:36,880
+nakładamy na taflę wody
+
+852
+00:37:33,839 --> 00:37:38,960
+olejek eteryczny, ta woda się podgrzewa,
+
+853
+00:37:36,880 --> 00:37:41,160
+ale ona nie przechodzi do wrzenia, tak?
+
+854
+00:37:38,960 --> 00:37:43,359
+To jest niższa temperatura
+
+855
+00:37:41,160 --> 00:37:45,520
+i ten olejek po prostu siłą, jakby to
+
+856
+00:37:43,359 --> 00:37:47,760
+powiedzieć znajduje się na samej
+
+857
+00:37:45,520 --> 00:37:49,079
+powierzchni, czyli też jest w tym
+
+858
+00:37:47,760 --> 00:37:50,880
+warstwie, która nie jest tak mocno
+
+859
+00:37:49,079 --> 00:37:53,800
+podgrzewana.
+
+860
+00:37:50,880 --> 00:37:55,400
+I ja też jakby inspiruję się
+
+861
+00:37:53,800 --> 00:37:57,119
+informacjami czy z kursu Roberta
+
+862
+00:37:55,400 --> 00:37:59,160
+Tiseranda, czy też informacjami, które
+
+863
+00:37:57,119 --> 00:38:01,640
+słyszałam od
+
+864
+00:37:59,160 --> 00:38:04,640
+profesora Antoniego Szumnego, bo oni na
+
+865
+00:38:01,640 --> 00:38:07,760
+uczelni też badali te olejki w kominach
+
+866
+00:38:04,640 --> 00:38:11,640
+aromaterapeutycznych rozpylane
+
+867
+00:38:07,760 --> 00:38:15,440
+i informacje płynące z tych źródeł są
+
+868
+00:38:11,640 --> 00:38:17,119
+takie, że przereklamowane jest to
+
+869
+00:38:15,440 --> 00:38:19,440
+negatywne spojrzenie na kominki
+
+870
+00:38:17,119 --> 00:38:20,680
+aromaterapeutyczne. Zawsze to tłumaczę w
+
+871
+00:38:19,440 --> 00:38:22,240
+taki sposób, że to jest inna
+
+872
+00:38:20,680 --> 00:38:25,640
+aromaterapia
+
+873
+00:38:22,240 --> 00:38:28,520
+niż dyfuzowanie olejku etrycznego w
+
+874
+00:38:25,640 --> 00:38:31,720
+dyfuzorach oczywiście ultra dźwiękowych.
+
+875
+00:38:28,520 --> 00:38:33,960
+Więc to dostosowujemy bardziej do
+
+876
+00:38:31,720 --> 00:38:35,680
+własnych indywidualnych potrzeb,
+
+877
+00:38:33,960 --> 00:38:37,200
+upodobań.
+
+878
+00:38:35,680 --> 00:38:38,599
+Ważne jest to, żeby nie spalać tego
+
+879
+00:38:37,200 --> 00:38:41,280
+olejku turecznego. Teraz pytanie o
+
+880
+00:38:38,599 --> 00:38:43,880
+cytrusy. Cytrusy nie zawsze powstają
+
+881
+00:38:41,280 --> 00:38:47,079
+metodą destylacji. Jeżeli mamy
+
+882
+00:38:43,880 --> 00:38:49,720
+bergamotkę wolną od furanumaryn, czyli
+
+883
+00:38:47,079 --> 00:38:51,160
+FCF olejek, to oczywiście ona
+
+884
+00:38:49,720 --> 00:38:53,560
+najczęściej jest produktem destylacji z
+
+885
+00:38:51,160 --> 00:38:56,200
+parą wodną, dlatego że fumaryny są
+
+886
+00:38:53,560 --> 00:38:57,760
+ciężkie i jest ich znacznie mniej. Co
+
+887
+00:38:56,200 --> 00:38:59,440
+nie znaczy, że ich tam nie ma w ogóle
+
+888
+00:38:57,760 --> 00:39:01,640
+tego bergaptenu czy psolarenu. Przede
+
+889
+00:38:59,440 --> 00:39:04,400
+wszystkim bergapten jest w bergamotce.
+
+890
+00:39:01,640 --> 00:39:05,960
+Natomiast jest tego znacznie mniej. to
+
+891
+00:39:04,400 --> 00:39:07,319
+te pipemy bardzo mocno nam wtedy
+
+892
+00:39:05,960 --> 00:39:08,760
+spadają.
+
+893
+00:39:07,319 --> 00:39:11,599
+I oczywiście cytrusy mamy zarówno
+
+894
+00:39:08,760 --> 00:39:14,079
+destylowane, jak i tłoczone. tłoczone
+
+895
+00:39:11,599 --> 00:39:16,720
+olejki cytrusowe będą zawierały
+
+896
+00:39:14,079 --> 00:39:18,960
+dodatkowo jeszcze inne składniki.
+
+897
+00:39:16,720 --> 00:39:21,000
+szczególnie będą też miały przez to
+
+898
+00:39:18,960 --> 00:39:24,160
+bardziej żółtą barwę, bo przychodzą też
+
+899
+00:39:21,000 --> 00:39:25,359
+tam karatnoidy, które y zresztą dużo tam
+
+900
+00:39:24,160 --> 00:39:27,760
+rzeczy przychodzi, więc jeżeli chodzi o
+
+901
+00:39:25,359 --> 00:39:31,760
+cytrusy, to znowu polecam w standardy
+
+902
+00:39:27,760 --> 00:39:34,200
+bio, y, bo tłoczenie wiąże się też z
+
+903
+00:39:31,760 --> 00:39:36,319
+tym, że pestycydy na skórce oczywiście
+
+904
+00:39:34,200 --> 00:39:37,920
+będą przechodziły do takich olejków w
+
+905
+00:39:36,319 --> 00:39:39,440
+eterycznych, więc mniej tych pecydów
+
+906
+00:39:37,920 --> 00:39:41,839
+będzie w tych, które są produkowane
+
+907
+00:39:39,440 --> 00:39:43,160
+metodą destylacji. Ale dlaczego pytanie
+
+908
+00:39:41,839 --> 00:39:45,119
+o cytrusy? No bo one rzeczywiście
+
+909
+00:39:43,160 --> 00:39:46,480
+cechują się taką mniejszą stabilnością.
+
+910
+00:39:45,119 --> 00:39:48,079
+Dlaczego? dlatego że mają skład
+
+911
+00:39:46,480 --> 00:39:51,040
+chemiczny
+
+912
+00:39:48,079 --> 00:39:53,359
+y polegający na tym, że bardzo dużo jest
+
+913
+00:39:51,040 --> 00:39:55,920
+lina limonenu. Limonen jak sobie
+
+914
+00:39:53,359 --> 00:39:58,119
+przyjrzymy jak wygląda wzór, tam widzimy
+
+915
+00:39:55,920 --> 00:40:00,240
+wiązanie podwójne, czyli wiązanie
+
+916
+00:39:58,119 --> 00:40:02,240
+niestabilne,
+
+917
+00:40:00,240 --> 00:40:04,880
+czyli łatwość oksydacji. Tak? Dlatego
+
+918
+00:40:02,240 --> 00:40:08,359
+cytrusy łatwo oksydują, bo tego
+
+919
+00:40:04,880 --> 00:40:10,480
+komponentu yy nienasyconego, tak tego
+
+920
+00:40:08,359 --> 00:40:13,400
+wiązania podwójnego bardzo dużo w tej
+
+921
+00:40:10,480 --> 00:40:15,800
+mieszaninie, na przykład 95% i to
+
+922
+00:40:13,400 --> 00:40:17,839
+powoduje, że ta substancja łatwo
+
+923
+00:40:15,800 --> 00:40:19,720
+oksyduje.
+
+924
+00:40:17,839 --> 00:40:22,200
+Dlatego
+
+925
+00:40:19,720 --> 00:40:24,800
+bardzo jesteśmy tutaj,
+
+926
+00:40:22,200 --> 00:40:26,319
+no znaczy powiem tak, no krócej się ich
+
+927
+00:40:24,800 --> 00:40:28,760
+używa tych olejków, a później zaczynają
+
+928
+00:40:26,319 --> 00:40:32,400
+żywicować, tak klei się nakrętka, możemy
+
+929
+00:40:28,760 --> 00:40:35,960
+z lodówki też oczywiście wykorzystywać
+
+930
+00:40:32,400 --> 00:40:39,280
+tutaj cytrusy. W praktyce po prostu te
+
+931
+00:40:35,960 --> 00:40:42,520
+leki mają krótszy termin przydatności i
+
+932
+00:40:39,280 --> 00:40:45,400
+staramy się je w miarę szybko zużywać,
+
+933
+00:40:42,520 --> 00:40:47,280
+bo dosyć szybko zobaczycie zmiany takie
+
+934
+00:40:45,400 --> 00:40:49,280
+organoleptyczne
+
+935
+00:40:47,280 --> 00:40:51,240
+podczas intensywnego używania cytrusów.
+
+936
+00:40:49,280 --> 00:40:53,640
+Ale czy to ma znaczenie dla kominku? No
+
+937
+00:40:51,240 --> 00:40:59,480
+uważam, że nie ma to dużego znaczenia.
+
+938
+00:40:53,640 --> 00:41:01,200
+Yyy, więc myślę, że y można się kierować
+
+939
+00:40:59,480 --> 00:41:03,280
+tym, że cytrusy są bardziej wrażliwe, bo
+
+940
+00:41:01,200 --> 00:41:08,960
+jest tak dużo limonenu
+
+941
+00:41:03,280 --> 00:41:10,480
+i destylowo i wtedy używać ich dyfuzorem
+
+942
+00:41:08,960 --> 00:41:12,160
+ultradźwiękowym na przykład. Z czy też
+
+943
+00:41:10,480 --> 00:41:14,839
+powiem szczerze, że ja od pewnego
+
+944
+00:41:12,160 --> 00:41:18,520
+momentu bardzo mocno się zaprzyjaźniłam
+
+945
+00:41:14,839 --> 00:41:21,440
+z aromaterapią analogową, czyli używam
+
+946
+00:41:18,520 --> 00:41:23,480
+różnego rodzaju takich bardzo prostych
+
+947
+00:41:21,440 --> 00:41:26,359
+rozwiązań i to jest aromaterapia
+
+948
+00:41:23,480 --> 00:41:29,160
+osobista, tak? Czyli no wszyscy już
+
+949
+00:41:26,359 --> 00:41:30,680
+chyba znają moje drewienka zapachowe,
+
+950
+00:41:29,160 --> 00:41:32,400
+które na co dzień tak naprawdę używam
+
+951
+00:41:30,680 --> 00:41:34,400
+drewienek zapachowych najwięcej, jak
+
+952
+00:41:32,400 --> 00:41:37,079
+pracuję sobie z komputerkiem. Takie
+
+953
+00:41:34,400 --> 00:41:40,079
+drewienko mam bliziutko, prawie że pod
+
+954
+00:41:37,079 --> 00:41:42,400
+nosem i i wykorzystuję drewienka,
+
+955
+00:41:40,079 --> 00:41:46,119
+wykorzystuję szale do aromaterapii. Ja
+
+956
+00:41:42,400 --> 00:41:48,480
+nie potrzebuję czy biżuterię zapachową.
+
+957
+00:41:46,119 --> 00:41:50,640
+Ja nie potrzebuję żadnego podgrzewania,
+
+958
+00:41:48,480 --> 00:41:52,800
+kombinowania, mycia tego dyfuzora
+
+959
+00:41:50,640 --> 00:41:55,119
+ultradźwiękowego, bo to trzeba myć. Woda
+
+960
+00:41:52,800 --> 00:41:58,000
+wiadomo, że może być środowiskiem
+
+961
+00:41:55,119 --> 00:41:59,640
+rozwoju drobnoustrojów.
+
+962
+00:41:58,000 --> 00:42:00,920
+Więc to jest dla mnie najwygodniejsze
+
+963
+00:41:59,640 --> 00:42:02,839
+rozwiązanie. Oczywiście, jeżeli chcemy
+
+964
+00:42:00,920 --> 00:42:03,800
+wprowadzić większą intensywność, bo
+
+965
+00:42:02,839 --> 00:42:05,839
+chcemy na przykład zadziałać
+
+966
+00:42:03,800 --> 00:42:08,280
+aromaterapią na większą ilość osób, ale
+
+967
+00:42:05,839 --> 00:42:10,160
+żeby żeby to było bardziej, no to wtedy
+
+968
+00:42:08,280 --> 00:42:12,800
+rzeczywiście dyfuzowanie, czy czy
+
+969
+00:42:10,160 --> 00:42:15,319
+kominki, czy różnego rodzaju jeszcze
+
+970
+00:42:12,800 --> 00:42:17,560
+nebulizatory,
+
+971
+00:42:15,319 --> 00:42:19,559
+czy jakieś kamienie zapachowe, mogą być
+
+972
+00:42:17,560 --> 00:42:22,119
+na przykład podgrzewane. Więc tych
+
+973
+00:42:19,559 --> 00:42:23,559
+możliwości jest sporo, tej aktywnej
+
+974
+00:42:22,119 --> 00:42:25,680
+aromaterapii, natomiast do swojego
+
+975
+00:42:23,559 --> 00:42:27,760
+codziennego użytku,
+
+976
+00:42:25,680 --> 00:42:29,559
+ale także na przykład do łazienki można
+
+977
+00:42:27,760 --> 00:42:32,000
+to wykorzystywać taką aromaterapię
+
+978
+00:42:29,559 --> 00:42:34,119
+bardzo mało intensywną, bo to jest małe
+
+979
+00:42:32,000 --> 00:42:35,880
+pomieszczenie i tam się to też również
+
+980
+00:42:34,119 --> 00:42:38,040
+sprawdzi.
+
+981
+00:42:35,880 --> 00:42:41,160
+Więc tak to bym skomentowała, ale jeżeli
+
+982
+00:42:38,040 --> 00:42:42,440
+ktoś chce użyć cytrusów w kominku, ja
+
+983
+00:42:41,160 --> 00:42:43,620
+bym tak bardzo tutaj nie była
+
+984
+00:42:42,440 --> 00:42:46,559
+zaniepokojona.
+
+985
+00:42:43,620 --> 00:42:47,839
+[Muzyka]
+
+986
+00:42:46,559 --> 00:42:50,800
+No dobrze, tutaj jest zestawienie
+
+987
+00:42:47,839 --> 00:42:53,440
+wyników z pracy indyjskiej, o której
+
+988
+00:42:50,800 --> 00:42:56,480
+mówiłam przed chwileczką, czyli ten
+
+989
+00:42:53,440 --> 00:42:58,520
+kominek zapachowy, tak, w gabinecie czy
+
+990
+00:42:56,480 --> 00:43:01,280
+przed, to była poczekalnia akurat
+
+991
+00:42:58,520 --> 00:43:04,040
+stomatologiczna i widzimy dużą różnicę
+
+992
+00:43:01,280 --> 00:43:07,920
+pomiędzy grupą interwencyjną a grupą
+
+993
+00:43:04,040 --> 00:43:10,440
+kontrolną, jeśli chodzi o nasilenie
+
+994
+00:43:07,920 --> 00:43:12,000
+lęku. Tak naprawdę ta różnica to jest za
+
+995
+00:43:10,440 --> 00:43:13,640
+każdym razem widoczna, z wyjątkiem
+
+996
+00:43:12,000 --> 00:43:16,520
+jednej pracy. Tutaj mamy niewielką
+
+997
+00:43:13,640 --> 00:43:18,760
+różnicę. Jest różnica, co prawda taka,
+
+998
+00:43:16,520 --> 00:43:20,680
+że na korzyść jednak aromaterapii, ale
+
+999
+00:43:18,760 --> 00:43:25,520
+ona jest jednak nieistotna
+
+1000
+00:43:20,680 --> 00:43:27,040
+statystycznie. Pi mniejsze od 0,05
+
+1001
+00:43:25,520 --> 00:43:29,480
+to jest dla nas isotą statystyczną. I
+
+1002
+00:43:27,040 --> 00:43:32,680
+tutaj wszędzie, w każdym innym przypadku
+
+1003
+00:43:29,480 --> 00:43:34,280
+ta wartość rzeczywiście jest pożądana, a
+
+1004
+00:43:32,680 --> 00:43:37,000
+szczególnie ona bardzo niska weszła
+
+1005
+00:43:34,280 --> 00:43:40,440
+właśnie w tym badaniu, które
+
+1006
+00:43:37,000 --> 00:43:45,000
+przed chwilą było szczegółowo rozpisane
+
+1007
+00:43:40,440 --> 00:43:47,119
+na slajdzie. To była stomatologia
+
+1008
+00:43:45,000 --> 00:43:49,800
+i lawenda jest na wszelkie, wszelkie
+
+1009
+00:43:47,119 --> 00:43:51,480
+sposoby badana. Natomiast zawsze też w
+
+1010
+00:43:49,800 --> 00:43:53,839
+takim na drugim miejscu, jeżeli chodzi o
+
+1011
+00:43:51,480 --> 00:43:55,960
+te zaburzenia lękowe i tam literaturę,
+
+1012
+00:43:53,839 --> 00:43:57,520
+którą znamy, to warto od razu wspomnieć
+
+1013
+00:43:55,960 --> 00:44:00,119
+o cytrusach. Tutaj akurat jest
+
+1014
+00:43:57,520 --> 00:44:03,280
+przykładowo olejek grejpfrutowy w
+
+1015
+00:44:00,119 --> 00:44:05,880
+kontekście kolonoskopii
+
+1016
+00:44:03,280 --> 00:44:08,480
+i jest olejek zwończy Osmantus
+
+1017
+00:44:05,880 --> 00:44:10,160
+Fragrance, natomiast on jest mało znany
+
+1018
+00:44:08,480 --> 00:44:13,280
+i też on był tutaj stosany w mniejszych
+
+1019
+00:44:10,160 --> 00:44:15,839
+ilościach. yyy duża grupa też była
+
+1020
+00:44:13,280 --> 00:44:17,680
+lawenda, ale z tego co pamiętam to yyy
+
+1021
+00:44:15,839 --> 00:44:22,000
+ta lawenda nie wypadła tak yyy
+
+1022
+00:44:17,680 --> 00:44:23,720
+pozytywnie. Yyy tu była dyfuzja yyy
+
+1023
+00:44:22,000 --> 00:44:26,440
+prawdopodobnie właśnie taki dyfuzor
+
+1024
+00:44:23,720 --> 00:44:30,800
+ultradźwiękowy yyy podczas zabiegu
+
+1025
+00:44:26,440 --> 00:44:32,520
+kolonoskopii. I znowu yyy jeżeli ktoś
+
+1026
+00:44:30,800 --> 00:44:34,160
+pracuje w szpitalu to oczywiście taką
+
+1027
+00:44:32,520 --> 00:44:36,119
+informację mógłby wykorzystać już od
+
+1028
+00:44:34,160 --> 00:44:38,599
+razu w praktyce. Tak to jest
+
+1029
+00:44:36,119 --> 00:44:40,680
+nieinwazyjna metoda.
+
+1030
+00:44:38,599 --> 00:44:43,119
+Będzie wszystkim przyjemniej. Oczywiście
+
+1031
+00:44:40,680 --> 00:44:46,200
+zawsze jeżeli chodzi o aromaterapię
+
+1032
+00:44:43,119 --> 00:44:48,200
+pierwszą kluczową kwestią jest reakcja
+
+1033
+00:44:46,200 --> 00:44:50,960
+przyjemnościowa hedonistyczna. Tak więc
+
+1034
+00:44:48,200 --> 00:44:53,160
+jeżeli decyduje się na aromaterapię to
+
+1035
+00:44:50,960 --> 00:44:57,119
+osoba, która jest poddawana temu
+
+1036
+00:44:53,160 --> 00:44:58,839
+zabiegowi jest adresatem musi mieć dobre
+
+1037
+00:44:57,119 --> 00:45:00,720
+doświadczenia z tym zapachem. Bo jeżeli
+
+1038
+00:44:58,839 --> 00:45:03,359
+ktoś nie lubi lawendy i będziemy mu
+
+1039
+00:45:00,720 --> 00:45:06,000
+cisnąć koniecznie, bo cię ona uspokoi,
+
+1040
+00:45:03,359 --> 00:45:08,280
+to może mieć efekt, możemy uzyskać efekt
+
+1041
+00:45:06,000 --> 00:45:10,920
+przeciwny po prostu do zamierzonego.
+
+1042
+00:45:08,280 --> 00:45:13,319
+Więc przyjemność. Zasada numer jeden,
+
+1043
+00:45:10,920 --> 00:45:15,240
+zasada hedonistyczna w aromaterapii nas
+
+1044
+00:45:13,319 --> 00:45:18,040
+zawsze obowiązuje. Dlaczego o tym mówię?
+
+1045
+00:45:15,240 --> 00:45:19,760
+Dlatego, że pamiętamy o tym, o co
+
+1046
+00:45:18,040 --> 00:45:23,440
+opowiadałam na początku, o trwałości
+
+1047
+00:45:19,760 --> 00:45:26,839
+pamięci wechowej, o kontekstualnym
+
+1048
+00:45:23,440 --> 00:45:29,960
+jakby znaczeniu powolonienia, tak? Czyli
+
+1049
+00:45:26,839 --> 00:45:31,640
+yyy zapach, który towarzyszył określonej
+
+1050
+00:45:29,960 --> 00:45:33,240
+sytuacji będzie nam tą sytuację
+
+1051
+00:45:31,640 --> 00:45:35,440
+przypominał. Jeżeli ktoś miał bardzo
+
+1052
+00:45:33,240 --> 00:45:38,079
+negatywne jakieś doświadczenia trudne,
+
+1053
+00:45:35,440 --> 00:45:40,160
+traumatyczne i był przy okazji olejek
+
+1054
+00:45:38,079 --> 00:45:41,480
+lawendowy, no to ta lawenda u niego po
+
+1055
+00:45:40,160 --> 00:45:43,480
+prostu nie będzie działać i te wszystkie
+
+1056
+00:45:41,480 --> 00:45:45,880
+badania można sobie wyrzucić do kosza.
+
+1057
+00:45:43,480 --> 00:45:47,480
+Tak, dla tej osoby to nie zadziała. Więc
+
+1058
+00:45:45,880 --> 00:45:50,000
+o tym zawsze musimy pamiętać w
+
+1059
+00:45:47,480 --> 00:45:52,640
+kontekście aromaterapii i też oczywiście
+
+1060
+00:45:50,000 --> 00:45:54,240
+my to później wykorzystujemy, możemy tą
+
+1061
+00:45:52,640 --> 00:45:57,680
+kotwicę robić, o której mówiłam na
+
+1062
+00:45:54,240 --> 00:45:59,240
+początku, ale też zawsze indywidualna
+
+1063
+00:45:57,680 --> 00:46:01,200
+reakcja, przede wszystkim jeżeli chodzi
+
+1064
+00:45:59,240 --> 00:46:03,440
+o ten aspekt psychologicznej reakcji,
+
+1065
+00:46:01,200 --> 00:46:07,400
+jest dla nas kluczowym
+
+1066
+00:46:03,440 --> 00:46:09,240
+jakby filarem naszej decyzji, co komu
+
+1067
+00:46:07,400 --> 00:46:12,079
+zalecamy.
+
+1068
+00:46:09,240 --> 00:46:14,359
+Tutaj mamy usuwanie zębów mądrości i
+
+1069
+00:46:12,079 --> 00:46:17,559
+znowu cytrusy. mówiłam, cytrusy, lawenda
+
+1070
+00:46:14,359 --> 00:46:21,160
+to są takie bardzo częste case study z
+
+1071
+00:46:17,559 --> 00:46:23,640
+badań klinicznych, gdzie wykazano
+
+1072
+00:46:21,160 --> 00:46:26,520
+skuteczność i tym razem mamy też
+
+1073
+00:46:23,640 --> 00:46:29,680
+mierzone parametry aktywności układu
+
+1074
+00:46:26,520 --> 00:46:30,839
+współczulnego, tak, czyli osi stresu. O
+
+1075
+00:46:29,680 --> 00:46:34,040
+tym mówiłam w kontekście teorii
+
+1076
+00:46:30,839 --> 00:46:36,440
+polifagalnej, w kontekście trójedynego
+
+1077
+00:46:34,040 --> 00:46:40,359
+mózgu, tak to się ze sobą tutaj łączy.
+
+1078
+00:46:36,440 --> 00:46:42,839
+Więc mamy wpływ na ciśnienie krwi, na
+
+1079
+00:46:40,359 --> 00:46:47,920
+częstość oddechu,
+
+1080
+00:46:42,839 --> 00:46:50,400
+na puls. Tak. I generalnie
+
+1081
+00:46:47,920 --> 00:46:53,359
+efekty były takie, zresztą tutaj
+
+1082
+00:46:50,400 --> 00:46:56,319
+analizowano, co się dzieje podczas
+
+1083
+00:46:53,359 --> 00:46:59,079
+poszczególnych faz zabiegu. Tak, na
+
+1084
+00:46:56,319 --> 00:47:00,920
+początku widzimy, że pacjentom
+
+1085
+00:46:59,079 --> 00:47:04,359
+przyspieszało
+
+1086
+00:47:00,920 --> 00:47:06,440
+tutaj ciśnienie krwi.
+
+1087
+00:47:04,359 --> 00:47:09,000
+Tutaj jest fragrance grobu no fragrance.
+
+1088
+00:47:06,440 --> 00:47:11,559
+Tak więc jak patrzymy na te dane, no to
+
+1089
+00:47:09,000 --> 00:47:13,680
+widzimy, że w miarę
+
+1090
+00:47:11,559 --> 00:47:16,720
+kolejnych etapów podnosi się ciśnienie
+
+1091
+00:47:13,680 --> 00:47:20,319
+krwi. Tutaj mamy
+
+1092
+00:47:16,720 --> 00:47:22,760
+puls. Podobnie to to rośnie i częstość
+
+1093
+00:47:20,319 --> 00:47:26,040
+oddechów też się zwiększa. Ale widzimy,
+
+1094
+00:47:22,760 --> 00:47:28,200
+że w grupie, która nie miała, znaczy
+
+1095
+00:47:26,040 --> 00:47:30,920
+która miała aromaterapię, te efekty są
+
+1096
+00:47:28,200 --> 00:47:35,440
+inne, tak? Te wartości się tak mocno nie
+
+1097
+00:47:30,920 --> 00:47:38,960
+podnoszą. Tutaj 95 w piątym etapie, tak,
+
+1098
+00:47:35,440 --> 00:47:41,040
+uderzeń na minutę, a tutaj mamy 104.
+
+1099
+00:47:38,960 --> 00:47:43,280
+I zawsze patrzymy na pi value, tak?
+
+1100
+00:47:41,040 --> 00:47:45,440
+Czyli jeżeli on jest wysoki, to nie mamy
+
+1101
+00:47:43,280 --> 00:47:46,680
+wyniku istotnego statystycznie, ale
+
+1102
+00:47:45,440 --> 00:47:48,119
+tutaj już na pewno jest istotność
+
+1103
+00:47:46,680 --> 00:47:50,400
+statystyczna. Tu jest istotność
+
+1104
+00:47:48,119 --> 00:47:52,800
+statystyczna.
+
+1105
+00:47:50,400 --> 00:47:54,960
+Tu jest istotność statystyczna. Tu, tu,
+
+1106
+00:47:52,800 --> 00:47:57,680
+tu, tu nie będzie, nie. Tutaj mamy za
+
+1107
+00:47:54,960 --> 00:48:00,240
+wysoki, tu mamy za wysoki. Tak, tu też
+
+1108
+00:47:57,680 --> 00:48:05,000
+mamy za wysoki. Czyli generalnie im
+
+1109
+00:48:00,240 --> 00:48:08,160
+dalej wl, im, że tak powiem, był dalszy
+
+1110
+00:48:05,000 --> 00:48:09,640
+postęp zabiegu usuwania zębu mądrości,
+
+1111
+00:48:08,160 --> 00:48:11,400
+wiemy jak to wygląda w praktyce, że na
+
+1112
+00:48:09,640 --> 00:48:13,640
+początku no dobra, jakoś to będzie, ale
+
+1113
+00:48:11,400 --> 00:48:16,559
+później jak się zaczyna akcja, no to
+
+1114
+00:48:13,640 --> 00:48:18,359
+ciśnienie krwi, częstość oddechu, puls
+
+1115
+00:48:16,559 --> 00:48:22,440
+mocno przyspiesza. No i to co tutaj w
+
+1116
+00:48:18,359 --> 00:48:26,400
+tym etapie było widoczne szczególnie
+
+1117
+00:48:22,440 --> 00:48:27,880
+to działanie aromaterapii.
+
+1118
+00:48:26,400 --> 00:48:30,880
+[Muzyka]
+
+1119
+00:48:27,880 --> 00:48:32,640
+Kolonoskopia.
+
+1120
+00:48:30,880 --> 00:48:35,079
+Tutaj
+
+1121
+00:48:32,640 --> 00:48:39,119
+akurat Neroli. Wcześniej był grepfrut,
+
+1122
+00:48:35,079 --> 00:48:42,119
+tutaj mamy olejek Neroli i podobnie też
+
+1123
+00:48:39,119 --> 00:48:42,119
+analizowano
+
+1124
+00:48:42,400 --> 00:48:48,000
+ten
+
+1125
+00:48:44,839 --> 00:48:52,559
+to doświadczenie niepokoju, ale także
+
+1126
+00:48:48,000 --> 00:48:54,280
+analizowano wpływ na ciśnienie krwi. Iaz
+
+1127
+00:48:52,559 --> 00:48:56,440
+co ciekawe tutaj nie wykazano efektu,
+
+1128
+00:48:54,280 --> 00:48:59,440
+jeżeli chodzi o nasilenie
+
+1129
+00:48:56,440 --> 00:48:59,440
+niepokoju.
+
+1130
+00:48:59,599 --> 00:49:06,200
+Ale jednak zauważono, że stosowanie tego
+
+1131
+00:49:04,160 --> 00:49:08,640
+olejku neroli
+
+1132
+00:49:06,200 --> 00:49:13,319
+spowodowało obniżenie skurczowego
+
+1133
+00:49:08,640 --> 00:49:15,920
+ciśnienia krwi w grupie poddawanej
+
+1134
+00:49:13,319 --> 00:49:19,680
+interwencji.
+
+1135
+00:49:15,920 --> 00:49:22,559
+Tutaj szczegółowo to zostało opisane.
+
+1136
+00:49:19,680 --> 00:49:24,520
+Jedna kropla i tutaj jest jakby źródło
+
+1137
+00:49:22,559 --> 00:49:25,920
+literaturowe. To jest publikacja
+
+1138
+00:49:24,520 --> 00:49:27,760
+przetłumaczona z języka chińskiego na
+
+1139
+00:49:25,920 --> 00:49:29,920
+angielski. Oczywiście już nie pamiętam
+
+1140
+00:49:27,760 --> 00:49:33,280
+gdzie ją znalazłam, czy w PubMedzie czy
+
+1141
+00:49:29,920 --> 00:49:35,359
+na Google Scholar. W każdym bądź razie w
+
+1142
+00:49:33,280 --> 00:49:37,520
+tekście jest błąd. Prawdopodobnie wynika
+
+1143
+00:49:35,359 --> 00:49:40,799
+on z tego, że podczas tłumaczenia
+
+1144
+00:49:37,520 --> 00:49:42,160
+mililitry zostały nieprawidłowo y
+
+1145
+00:49:40,799 --> 00:49:44,240
+zamienione, znaczy mikrolitry zostały
+
+1146
+00:49:42,160 --> 00:49:46,400
+nieprawidłowo zamione na mililitry, tak
+
+1147
+00:49:44,240 --> 00:49:48,559
+się podejrzewam. Więc jedna kropla tutaj
+
+1148
+00:49:46,400 --> 00:49:50,240
+była szacowana, że to jest 50
+
+1149
+00:49:48,559 --> 00:49:53,119
+mikrolitrów. Zakładam, że taka była
+
+1150
+00:49:50,240 --> 00:49:55,839
+intencja autorów, chociaż i tak 50
+
+1151
+00:49:53,119 --> 00:49:58,079
+mikrolitrów to nie jest waga jednej
+
+1152
+00:49:55,839 --> 00:49:59,599
+kropli olejku, tylko waga jednej kropli
+
+1153
+00:49:58,079 --> 00:50:01,960
+wody.
+
+1154
+00:49:59,599 --> 00:50:04,720
+Olejki mają inną gęstość niż woda,
+
+1155
+00:50:01,960 --> 00:50:08,880
+mniejszą i dlatego też jedna kropla
+
+1156
+00:50:04,720 --> 00:50:11,960
+będzie mniej ważyła.
+
+1157
+00:50:08,880 --> 00:50:13,640
+W każdym bądź razie 5 minut ekspozycji.
+
+1158
+00:50:11,960 --> 00:50:17,000
+To były takie maseczki. No często się
+
+1159
+00:50:13,640 --> 00:50:19,839
+pojawiają w badaniach. wtedy nam one
+
+1160
+00:50:17,000 --> 00:50:22,000
+izolują pacjenta od środowiska i to jest
+
+1161
+00:50:19,839 --> 00:50:24,400
+taka bardziej precyzyjna
+
+1162
+00:50:22,000 --> 00:50:27,520
+aromaterapia
+
+1163
+00:50:24,400 --> 00:50:29,160
+i nie było istotnej statystycznie
+
+1164
+00:50:27,520 --> 00:50:30,839
+różnicy w poziomie lęku przed i po
+
+1165
+00:50:29,160 --> 00:50:32,440
+zabiegu oraz nasilenia bólu w czasie
+
+1166
+00:50:30,839 --> 00:50:35,000
+trwania zabiegu między grupą na roli a
+
+1167
+00:50:32,440 --> 00:50:37,760
+kontrolną ale odnotowano znaczące
+
+1168
+00:50:35,000 --> 00:50:41,000
+obniżenia ciśnienia skurczowego krwi po
+
+1169
+00:50:37,760 --> 00:50:43,000
+inhalacji. tutaj ucięło fragment. Nie
+
+1170
+00:50:41,000 --> 00:50:45,160
+wiem dlaczego
+
+1171
+00:50:43,000 --> 00:50:46,920
+nie jest widoczna cała prezentacja, ale
+
+1172
+00:50:45,160 --> 00:50:48,900
+to
+
+1173
+00:50:46,920 --> 00:50:50,359
+jakiś błąd programu.
+
+1174
+00:50:48,900 --> 00:50:52,319
+[Muzyka]
+
+1175
+00:50:50,359 --> 00:50:55,480
+Oczywiście na
+
+1176
+00:50:52,319 --> 00:50:57,520
+slajdzie w PDFie do pobrania będzie
+
+1177
+00:50:55,480 --> 00:50:59,799
+całość tego
+
+1178
+00:50:57,520 --> 00:51:02,359
+slajdu widoczne.
+
+1179
+00:50:59,799 --> 00:51:04,520
+I tutaj widzimy tak szczegółowo jak to
+
+1180
+00:51:02,359 --> 00:51:08,480
+wyglądało w praktyce. badanie nie było
+
+1181
+00:51:04,520 --> 00:51:10,240
+duże. Widzimy zaznaczone na żółto
+
+1182
+00:51:08,480 --> 00:51:12,200
+szczególnie te wartości, które się
+
+1183
+00:51:10,240 --> 00:51:14,280
+istotnie zmniejszyły
+
+1184
+00:51:12,200 --> 00:51:18,040
+i najbardziej zmniejszyło się właśnie
+
+1185
+00:51:14,280 --> 00:51:20,119
+ciśnienie skurczowe. Tak, tutaj średnia
+
+1186
+00:51:18,040 --> 00:51:21,920
+dla grupy kontrolnej, a tutaj średnia
+
+1187
+00:51:20,119 --> 00:51:25,280
+dla grupy neroli. No widzimy dosyć dużą
+
+1188
+00:51:21,920 --> 00:51:28,720
+różnicę, tak? Tutaj mamy 119,
+
+1189
+00:51:25,280 --> 00:51:31,079
+a tutaj mamy 141.
+
+1190
+00:51:28,720 --> 00:51:35,960
+Tak, to jest ciśnienie krwi yyy z
+
+1191
+00:51:31,079 --> 00:51:39,040
+literką B, czyli yyy to było
+
+1192
+00:51:35,960 --> 00:51:42,440
+prawdopodobnie tak po aromaterapii, więc
+
+1193
+00:51:39,040 --> 00:51:45,520
+różnica jest duża, wynik jest istotny
+
+1194
+00:51:42,440 --> 00:51:46,920
+yyy statystycznie
+
+1195
+00:51:45,520 --> 00:51:50,280
+to tutaj też mamy wynik istoty
+
+1196
+00:51:46,920 --> 00:51:53,440
+statystycznie, tylko że jest mniejsza
+
+1197
+00:51:50,280 --> 00:51:55,920
+ta różnica i widzimy tutaj 138 skurczowe
+
+1198
+00:51:53,440 --> 00:51:58,400
+ciśnienie, ale tym razem na początek, a
+
+1199
+00:51:55,920 --> 00:52:00,400
+później troszeczkę w grupie neroli.
+
+1200
+00:51:58,400 --> 00:52:02,799
+niższe 121
+
+1201
+00:52:00,400 --> 00:52:04,839
+i mamy jeszcze diastolic blood pressure,
+
+1202
+00:52:02,799 --> 00:52:07,000
+tak? Czyli ciśnienie rozkurczowe też
+
+1203
+00:52:04,839 --> 00:52:09,240
+jest różnica pomiędzy jedną a drugą
+
+1204
+00:52:07,000 --> 00:52:15,160
+grupą. To oczywiście w grupie z neroli
+
+1205
+00:52:09,240 --> 00:52:15,160
+jest ten warta ten parametr niższy.
+
+1206
+00:52:16,880 --> 00:52:20,480
+[Muzyka]
+
+1207
+00:52:18,440 --> 00:52:20,480
+Yeah.
+

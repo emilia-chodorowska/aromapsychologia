@@ -1,0 +1,3204 @@
+1
+00:00:00,000 --> 00:00:19,000
+Na początek troszeczkę sobie powiemy na temat przyczyn chorób neurodegeneracyjnych,
+
+2
+00:00:19,000 --> 00:00:27,500
+jakie są tutaj patomechanizmy, które prowadzą do rozwoju różnego rodzaju degeneracyjnych,
+
+3
+00:00:27,500 --> 00:00:32,500
+czyli znanych ze zmianami organicznymi chorób mózgu.
+
+4
+00:00:32,500 --> 00:00:36,500
+Najczęściej tutaj mamy do czynienia z agregacją makrocząsteczek
+
+5
+00:00:36,500 --> 00:00:40,500
+i oczywiście w chorobie Alzheimer'a wszyscy doskonale znają beta, amyloid,
+
+6
+00:00:40,500 --> 00:00:45,500
+ale takie nieprawidłowe białka też powstają w innych jednostkach chorobowych,
+
+7
+00:00:45,500 --> 00:00:48,500
+czyli na przykład w chorobie Parkinsona czy Huntingtona również.
+
+8
+00:00:48,500 --> 00:00:52,500
+W Parkinsonie na przykład mamy alfa-synukleinę, czyli nieprawidłowe białko,
+
+9
+00:00:52,500 --> 00:00:59,500
+które kumuluje się w ośrodkowym układzie nerwowym i prowadzi do zaburzenia jego funkcji,
+
+10
+00:00:59,500 --> 00:01:07,500
+zaburzenia między innymi przewodnictwa nerwałowego, które w konsekwencji daje określone objawy.
+
+11
+00:01:07,500 --> 00:01:12,500
+No i w chorobie Alzheimer'a jest to problem z tworzeniem trwałych śladów pamięciowych.
+
+12
+00:01:12,500 --> 00:01:19,500
+Pamiętamy o tym, że hipokamp jest tą strukturą mózgu, która jest odpowiedzialna za tą rolę
+
+13
+00:01:19,500 --> 00:01:25,500
+i się nie za chwileczkę okaże dosyć szybko, że to ma swoje uzasadnienie.
+
+14
+00:01:25,500 --> 00:01:33,500
+Jeśli chodzi o kontekst też aromaterapii, bo pierwszym objawem choroby Alzheimer'a,
+
+15
+00:01:33,500 --> 00:01:39,500
+najczęściej wyprzedzającym o lata długie zamanisłanie się tej choroby
+
+16
+00:01:39,500 --> 00:01:43,500
+jest właśnie upoczynanie zmysłu powonienia.
+
+17
+00:01:43,500 --> 00:01:47,500
+To będziemy sobie jeszcze bardziej szczegółowo omawiać.
+
+18
+00:01:47,500 --> 00:01:55,500
+Różne patologiczne białka, ale oczywiście też procesy demielinizacyjne.
+
+19
+00:01:55,500 --> 00:02:03,500
+Oczywiście znanym kontekstem tutaj jest zaburzenie tworzenia osłonek milinowych
+
+20
+00:02:03,500 --> 00:02:09,500
+w stwardnieniu rozsianym, ale to nie jest jedyna jednostka neurodegeneracyjna chorobowa,
+
+21
+00:02:09,500 --> 00:02:13,500
+której towarzyszą zmiany demielinizacyjne.
+
+22
+00:02:13,500 --> 00:02:17,500
+Stan zapalny oczywiście też jest dosyć częstym problemem
+
+23
+00:02:17,500 --> 00:02:22,500
+w różnego rodzaju jednostkach chorób neurodegeneracyjnych
+
+24
+00:02:22,500 --> 00:02:24,500
+i dysfunkcja mitochondrium.
+
+25
+00:02:24,500 --> 00:02:31,500
+Tutaj też coraz więcej danych pojawia się też w kontekście choroby Alzheimer'a,
+
+26
+00:02:31,500 --> 00:02:34,500
+w kontekście zaburzenia produkcji energii w mózgu,
+
+27
+00:02:34,500 --> 00:02:39,500
+bo oczywiście mitochondrycy są nasze takie elektrownie fabryki energetyczne,
+
+28
+00:02:39,500 --> 00:02:45,500
+które odpowiedzialne są za to, że komórka jest odpowiednio bogata,
+
+29
+00:02:45,500 --> 00:02:49,500
+że tak powiem może korzystać z produkowanej przez siebie energii,
+
+30
+00:02:49,500 --> 00:02:53,500
+a kiedy energii brakuje to oczywiście pojawiają się różne też objawy,
+
+31
+00:02:53,500 --> 00:02:58,500
+które mogą manifestować się jako konkretne jednostki chorobowe.
+
+32
+00:02:58,500 --> 00:03:02,500
+Troszeczkę informacji epidemiologicznych.
+
+33
+00:03:02,500 --> 00:03:07,500
+Choroba Alzheimer'a i inne rodzaje demencji to jest bardzo ważny problem,
+
+34
+00:03:07,500 --> 00:03:14,500
+jeśli chodzi o częstość występowania na tle innych chorób neurodegeneracyjnych.
+
+35
+00:03:14,500 --> 00:03:23,500
+Widzimy, że w 2019 roku to było około 360 tysięcy osób,
+
+36
+00:03:23,500 --> 00:03:27,500
+357-800 dokładnie.
+
+37
+00:03:27,500 --> 00:03:31,500
+No i mamy jeszcze inne choroby neurodegeneracyjne,
+
+38
+00:03:31,500 --> 00:03:38,500
+które również są w tej głównej w tym krajobrazie epidemiologicznym najważniejszej.
+
+39
+00:03:38,500 --> 00:03:43,500
+To jest choroba Parkinsona, ale już widzimy znacznie mniej jest tych przypadków.
+
+40
+00:03:43,500 --> 00:03:49,500
+98, czyli prawie 100 tysięcy i stwardnie rosłane połowa tej wartości,
+
+41
+00:03:49,500 --> 00:03:51,500
+czyli tutaj 45 tysięcy.
+
+42
+00:03:51,500 --> 00:03:55,500
+To są dane z 2019 roku, one dziś są zbliżone,
+
+43
+00:03:55,500 --> 00:04:01,500
+chociaż cały czas się mówi o tym, że ilość chorób chorych na Alzheimer'a rośnie,
+
+44
+00:04:01,500 --> 00:04:05,500
+że jest to choroba, która ma swoją dynamikę przyrostu w populacji
+
+45
+00:04:05,500 --> 00:04:08,500
+z uwagi na też starzenie się naszego społeczeństwa.
+
+46
+00:04:08,500 --> 00:04:11,500
+Co ważne na początek to to, żeby powiedzieć sobie,
+
+47
+00:04:11,500 --> 00:04:13,500
+że choroba Alzheimer'a jest nieuralczalna
+
+48
+00:04:13,500 --> 00:04:15,500
+i dostępne formy leczenia na tą chwilę
+
+49
+00:04:15,500 --> 00:04:18,500
+prowadzą raczej do spowolnienia postępów choroby
+
+50
+00:04:18,500 --> 00:04:20,500
+i złagodzenia jej przebiegu,
+
+51
+00:04:20,500 --> 00:04:25,500
+czyli tutaj uzyskania efektu takiego w pełni terapeutycznego.
+
+52
+00:04:25,500 --> 00:04:29,500
+Najczęściej tutaj stosowana jest farmakoterapia
+
+53
+00:04:29,500 --> 00:04:31,500
+nastawana na podtrzymywanie funkcji poznawczych
+
+54
+00:04:31,500 --> 00:04:34,500
+oraz inne metody takie jak oddziaływania psychospołeczne,
+
+55
+00:04:34,500 --> 00:04:36,500
+terapia zaburzeń zachowania, emocji, sfery poznawczej
+
+56
+00:04:36,500 --> 00:04:40,500
+przez wsparcie takie jak muzykoterapia, fizjoterapia,
+
+57
+00:04:40,500 --> 00:04:43,500
+rehabilitacja, neurosesoryczne ćwiczenia i zabawy rekreacyjne.
+
+58
+00:04:43,500 --> 00:04:47,500
+Tutaj mamy jeszcze opieka, która polega na tym,
+
+59
+00:04:47,500 --> 00:04:49,500
+że wprowadza się w otoczenie chorego zmiany,
+
+60
+00:04:49,500 --> 00:04:52,500
+które mają usprawnić, poprawić jego funkcjonowanie,
+
+61
+00:04:52,500 --> 00:04:54,500
+na przykład etykietowanie przedmiotów,
+
+62
+00:04:54,500 --> 00:04:57,500
+rozdrabnianie pokarmów, bo mogą być problemy z rzuciem,
+
+63
+00:04:57,500 --> 00:05:02,500
+a w końcowej fazie choroby także łagodzenie występujących dolegliwości.
+
+64
+00:05:02,500 --> 00:05:05,500
+Więc tutaj działanie jest takie wspierające
+
+65
+00:05:05,500 --> 00:05:09,500
+i takim wsparciem może być też aromaterapia.
+
+66
+00:05:09,500 --> 00:05:12,500
+Dlaczego zmysł spowolnienia jest ważny w kontekście choroby Alzheimer'a?
+
+67
+00:05:13,500 --> 00:05:19,500
+Kora węchowa jest ściśle związana z chorobą Alzheimer'a,
+
+68
+00:05:19,500 --> 00:05:23,500
+a początki tej jednostki chorobowej wiążą się z zaburzeniami
+
+69
+00:05:23,500 --> 00:05:25,500
+funkcjonowania zmysłu węchu.
+
+70
+00:05:25,500 --> 00:05:26,500
+I to sobie warto zapamiętać,
+
+71
+00:05:26,500 --> 00:05:29,500
+ja myślę, że to też jest dosyć powszechnie znana informacja,
+
+72
+00:05:29,500 --> 00:05:31,500
+natomiast jeśli ktoś o tym nie wiedział,
+
+73
+00:05:31,500 --> 00:05:37,500
+to jest dobra okazja, żeby uświadomić sobie tą zależność.
+
+74
+00:05:37,500 --> 00:05:41,500
+Części Układu Olimpicznego takie jak hipokamp i ciało mignałowate
+
+75
+00:05:41,500 --> 00:05:45,500
+są silnie związane z zaburzeniami poznawczymi.
+
+76
+00:05:45,500 --> 00:05:48,500
+Teraz badania histopatologiczne wykazały,
+
+77
+00:05:48,500 --> 00:05:52,500
+że kłębki takie neurofibrylalne, patologiczne struktury
+
+78
+00:05:52,500 --> 00:05:58,500
+pojawiają się w hipokampie z reguły wcześniej niż w innych obszarach mózgowych.
+
+79
+00:05:58,500 --> 00:06:03,500
+I też tutaj ten proces jest najbardziej dynamiczny,
+
+80
+00:06:04,500 --> 00:06:09,500
+najszybciej narasta w przebiegu choroby ta patologia.
+
+81
+00:06:09,500 --> 00:06:15,500
+Co więcej hipokamp po prostu w chorobie Alzheimer'a zanika.
+
+82
+00:06:15,500 --> 00:06:20,500
+Zanik hipokampa jest ważnym elementem w diagnostyce choroby Alzheimer'a.
+
+83
+00:06:20,500 --> 00:06:23,500
+Wczesne i masywne uszkodzenie struktur hipokampowych
+
+84
+00:06:23,500 --> 00:06:28,500
+skłoniło niektórych badaczy do określenia choroba Alzheimer'a
+
+85
+00:06:28,500 --> 00:06:34,500
+to otępienie hipokampowe i zmiany w innych strukturach
+
+86
+00:06:34,500 --> 00:06:37,500
+takich jak między mózgowie, kora czołowa
+
+87
+00:06:37,500 --> 00:06:40,500
+mogą też być przyczyną zaburzeń pamięci,
+
+88
+00:06:40,500 --> 00:06:43,500
+ale ubytki neuronów w tych okolicach
+
+89
+00:06:43,500 --> 00:06:46,500
+są w chorobie Alzheimer'a przeważnie znacznie mniej nasilone
+
+90
+00:06:46,500 --> 00:06:50,500
+i występują też wyraźnie później.
+
+91
+00:06:50,500 --> 00:06:56,500
+Więc zmysł węchu i hipokamp, który ma związek z mysłem węchu,
+
+92
+00:06:56,500 --> 00:07:01,500
+bo pamiętamy, że budżetowanie węchowe może indukować neurogenezę,
+
+93
+00:07:01,500 --> 00:07:04,500
+powstawanie nowych neuronów w hipokampie,
+
+94
+00:07:04,500 --> 00:07:08,500
+mają istotne powiązania, są istotne, jakby to powiedzieć,
+
+95
+00:07:08,500 --> 00:07:11,500
+są godne uwagi w kontekście choroby Alzheimer'a.
+
+96
+00:07:11,500 --> 00:07:14,500
+I ten rysunek znamy wielokrotnie, już go prezentowałam,
+
+97
+00:07:14,500 --> 00:07:19,500
+więc przypominamy sobie to, że częścią układu olympicznego,
+
+98
+00:07:19,500 --> 00:07:24,500
+który zawiera ośrodki przetwarzania wrażeń węchowych jest hipokamp
+
+99
+00:07:24,500 --> 00:07:29,500
+i że też ten efekt prusta, o którym mówiliśmy w kontekście
+
+100
+00:07:29,500 --> 00:07:32,500
+utrwalania śladów pamięciowych,
+
+101
+00:07:32,500 --> 00:07:34,500
+może jakoś tak dosłownie tego nie tłumaczyłam,
+
+102
+00:07:34,500 --> 00:07:37,500
+ale to utrwalanie śladów pamięciowych za pomocą zapachu
+
+103
+00:07:37,500 --> 00:07:43,500
+ma też taką historię, określa się to jako efekt prusta,
+
+104
+00:07:43,500 --> 00:07:50,500
+dlatego że trwałość śladów węchowych jest szczególnie,
+
+105
+00:07:51,500 --> 00:07:55,500
+nazwijmy to taka, w pewnym sensie wyjątkowa,
+
+106
+00:07:55,500 --> 00:07:59,500
+czyli bohater w poszukiwaniu stosownego czasu,
+
+107
+00:07:59,500 --> 00:08:02,500
+kiedy wkłada do ust ciastko magdalenkę,
+
+108
+00:08:02,500 --> 00:08:04,500
+który odpowiednio smakuje, ale też pachnie.
+
+109
+00:08:04,500 --> 00:08:10,500
+Pamiętamy o tym też, że bodźce smakowe są istotne w istotny sposób
+
+110
+00:08:10,500 --> 00:08:15,500
+też przy udziale zmysłu węchu, że tak powiem,
+
+111
+00:08:16,500 --> 00:08:20,500
+dużą częścią percepcji wrażeń smakowych jest po prostu węch
+
+112
+00:08:20,500 --> 00:08:24,500
+i też nieprzypadkowo, kiedy my mamy infekcje dróg oddechowych
+
+113
+00:08:24,500 --> 00:08:27,500
+czy w COVID-ie, jednocześnie dochodzi do upośrednienia
+
+114
+00:08:27,500 --> 00:08:32,500
+zmysłu smaku i powonienia, czyli te zmysły co współpracują.
+
+115
+00:08:32,500 --> 00:08:36,500
+Więc kiedy ten bohater zjada to ciastko i te bodźce węchowo-smakowe
+
+116
+00:08:36,500 --> 00:08:42,500
+na niego działają, to go przenosi w przeszłość
+
+117
+00:08:42,500 --> 00:08:46,500
+i przypomina mu się historia z jego życia.
+
+118
+00:08:46,500 --> 00:08:50,500
+To jest taki wehikuł, troszeczkę podróż w czasie.
+
+119
+00:08:50,500 --> 00:08:56,500
+W tym sensie, że pamięć węchowa po prostu to są takie bardzo trwałe ślady,
+
+120
+00:08:56,500 --> 00:09:00,500
+czyli one się wyróżniają na tle innych śladów pamięciowych,
+
+121
+00:09:00,500 --> 00:09:04,500
+że jeżeli coś zapamiętamy w kontekście zapachu,
+
+122
+00:09:04,500 --> 00:09:06,500
+to będzie to trwały ślad pamięciowy.
+
+123
+00:09:06,500 --> 00:09:11,500
+To też z tego powodu to się nazywa określamianem efektu prusta.
+
+124
+00:09:11,500 --> 00:09:16,500
+Więc ta historia troszeczkę przywołana z małym opłacieniem,
+
+125
+00:09:16,500 --> 00:09:20,500
+bo to miało być opowiedziane przy utrwalaniu śladów pamięciowych,
+
+126
+00:09:20,500 --> 00:09:23,500
+ale mam nadzieję, że to wszystko zostało jasno tutaj
+
+127
+00:09:23,500 --> 00:09:26,500
+i klarownie w miarę przedstawione.
+
+128
+00:09:26,500 --> 00:09:30,500
+Tak czy inaczej Hipokamp jest fabryką pamięci,
+
+129
+00:09:30,500 --> 00:09:36,500
+jest też miejscem, gdzie powstają te ślady pamięciowe
+
+130
+00:09:36,500 --> 00:09:40,500
+związane z pocisowaniem węchowym.
+
+131
+00:09:40,500 --> 00:09:43,500
+Tutaj takie przypomnienie ośrodków mózgowych,
+
+132
+00:09:43,500 --> 00:09:46,500
+do których docierają impulsy z nabłonka węchowego
+
+133
+00:09:46,500 --> 00:09:50,500
+i tutaj widzimy też właśnie naszą formację Hipokampa,
+
+134
+00:09:50,500 --> 00:09:52,500
+widzimy struktury Układu Olimpicznego.
+
+135
+00:09:52,500 --> 00:09:54,500
+Wszystko jest w głębi płata skroniowego,
+
+136
+00:09:54,500 --> 00:09:59,500
+czyli po jednej i po drugiej stronie mamy te nasze stare, ewolucyjnie struktury,
+
+137
+00:09:59,500 --> 00:10:03,500
+które odpowiedzialne są za przetwarzanie wrażeń węchowych,
+
+138
+00:10:03,500 --> 00:10:06,500
+ale też za pamięć, za procesy poznawcze,
+
+139
+00:10:06,500 --> 00:10:09,500
+za utrwalanie przede wszystkim śladów pamięciowych.
+
+140
+00:10:09,500 --> 00:10:13,500
+Choroby neurodegeneracyjne, nie tylko choroba Alzheimer'a,
+
+141
+00:10:13,500 --> 00:10:17,500
+mają związek z zaburzeniem powłonienia.
+
+142
+00:10:17,500 --> 00:10:19,500
+Tutaj jest takie przypomnienie też innych czynników,
+
+143
+00:10:19,500 --> 00:10:21,500
+które prowadzą do zaburzenia powłonienia.
+
+144
+00:10:21,500 --> 00:10:24,500
+To są oczywiście infekcje górnych dróg oddechowych,
+
+145
+00:10:24,500 --> 00:10:26,500
+to mogą być także urazy głowy, zaburzenia genetyczne,
+
+146
+00:10:26,500 --> 00:10:28,500
+zaburzenia metaboliczne,
+
+147
+00:10:28,500 --> 00:10:30,500
+czy nawet choroby nowotworowe.
+
+148
+00:10:30,500 --> 00:10:35,500
+Natomiast my teraz skupimy się na chorobach neurodegeneracyjnych.
+
+149
+00:10:35,500 --> 00:10:40,500
+Widzicie, że tutaj po prostu wyświetla mi się niestety prezentacja,
+
+150
+00:10:40,500 --> 00:10:48,500
+która nie została zaktualizowana,
+
+151
+00:10:48,500 --> 00:10:51,500
+bo dzisiaj wprowadziłam sporo aktualizacji,
+
+152
+00:10:51,500 --> 00:10:54,500
+ale niestety nie załadował mi się ten plik,
+
+153
+00:10:54,500 --> 00:10:57,500
+troszeczkę szkoda, bo ta tabelka była ładnie przetłumaczona.
+
+154
+00:10:57,500 --> 00:11:06,500
+I tak nie widzę, dlaczego ja po prostu nie mogę tego pliku udostępnić.
+
+155
+00:11:14,500 --> 00:11:17,500
+Takie techniczne przygody zawsze się jakieś pojawią,
+
+156
+00:11:17,500 --> 00:11:19,500
+bo tutaj próbuję wejść w plik.
+
+157
+00:11:19,500 --> 00:11:26,500
+No ale trudno, także będzie zaktualizowana bardziej prezentacja
+
+158
+00:11:26,500 --> 00:11:28,500
+po prostu w formie do pobrania,
+
+159
+00:11:28,500 --> 00:11:32,500
+natomiast w tej chwili mamy wersję wcześniejszą.
+
+160
+00:11:32,500 --> 00:11:35,500
+Więc widzimy, że w różnych chorobach neurodegeneracyjnych,
+
+161
+00:11:35,500 --> 00:11:37,500
+także w chorobie Parkinsona,
+
+162
+00:11:37,500 --> 00:11:39,500
+w stwardleniu zanikowym bocznym, w chorobie Huntingtona,
+
+163
+00:11:39,500 --> 00:11:46,500
+też mamy problem z powłonieniem w mniejszym lub większym stopniu
+
+164
+00:11:46,500 --> 00:11:50,500
+i generalnie tutaj są pewne pokrowieństwa,
+
+165
+00:11:50,500 --> 00:11:53,500
+czyli różne jednostki chorób neurodegeneracyjnych
+
+166
+00:11:53,500 --> 00:11:56,500
+są związane z utratą powłonienia
+
+167
+00:11:56,500 --> 00:11:59,500
+i także jest to proces, który się pojawia
+
+168
+00:11:59,500 --> 00:12:02,500
+podczas takiego normalnego stażenia się,
+
+169
+00:12:02,500 --> 00:12:04,500
+czyli zdrowego stażenia się,
+
+170
+00:12:04,500 --> 00:12:06,500
+czyli bez jednostki konkretnej chorobowej,
+
+171
+00:12:06,500 --> 00:12:11,500
+czyli mamy 10% u osób powyżej 65 roku życia,
+
+172
+00:12:11,500 --> 00:12:16,500
+ma problem z osłabieniem powłonienia,
+
+173
+00:12:16,500 --> 00:12:26,500
+tutaj szczególnie u mężczyzn to się może bardziej wyraźnie zamanifestować.
+
+174
+00:12:30,500 --> 00:12:35,500
+Więc dlaczego warto w kontekście choroby Alzheimer'a pracować z węchem?
+
+175
+00:12:35,500 --> 00:12:37,500
+Pewne informacje już tak zostały naświetlone,
+
+176
+00:12:37,500 --> 00:12:39,500
+ale sobie to jeszcze uporządkujemy.
+
+177
+00:12:40,500 --> 00:12:48,500
+Zaburzenia węchu wyprzedzają symptomy poznawcze i afektywne w chorobie Alzheimer'a
+
+178
+00:12:48,500 --> 00:12:52,500
+i usprawnianie funkcji węchowych u osób z chorobą Alzheimer'a
+
+179
+00:12:52,500 --> 00:12:56,500
+może stanowić też z tego powodu potencjalny cel terapeutyczny,
+
+180
+00:12:56,500 --> 00:13:00,500
+ponieważ sprzyja to chociażby poprawie krążenia mózgowego
+
+181
+00:13:00,500 --> 00:13:03,500
+w obszarach zaangażowanych zarówno w przetwarzanie zapachów,
+
+182
+00:13:03,500 --> 00:13:05,500
+jak i w funkcje poznawcze.
+
+183
+00:13:05,500 --> 00:13:08,500
+Tutaj to jest zakręt obręczy czy też hipokamp.
+
+184
+00:13:08,500 --> 00:13:12,500
+I to poprawia też sam połączeń neuronalnych w regionach
+
+185
+00:13:12,500 --> 00:13:16,500
+związanych z węchem oraz funkcjonowanie poznawcze.
+
+186
+00:13:16,500 --> 00:13:20,500
+I tutaj dodatkowo jeszcze taka sama stymulacja nerwu trójdzielnego działa
+
+187
+00:13:20,500 --> 00:13:22,500
+korzystnie na sprawność węchową
+
+188
+00:13:22,500 --> 00:13:25,500
+i może tak dodatkowo łagodzić dysfunkcje węchowe
+
+189
+00:13:25,500 --> 00:13:27,500
+związane z wiekiem i chorobą Alzheimer'a.
+
+190
+00:13:27,500 --> 00:13:31,500
+Czyli tu mamy te różne aspekty zmysu węchu,
+
+191
+00:13:31,500 --> 00:13:32,500
+funkcjonowania zmysu węchu.
+
+192
+00:13:32,500 --> 00:13:36,500
+Pamiętamy, że mamy coś takiego jak stymulacje przede wszystkim neuronów
+
+193
+00:13:36,500 --> 00:13:40,500
+w nabłonku węchowym, gdzie mamy zakończenia nerwu pierwszego,
+
+194
+00:13:40,500 --> 00:13:43,500
+czeszkowego nerwu węchowego,
+
+195
+00:13:43,500 --> 00:13:49,500
+ale w percepcji wrażeń węchowych rolem odgrywa także nerw trójdzielny.
+
+196
+00:13:49,500 --> 00:13:55,500
+Oczywiście nie każdy rodzaj, nazwijmy to substancji zapachowej,
+
+197
+00:13:55,500 --> 00:13:58,500
+nie każdy odorant stymuluje jeden i drugi nerw.
+
+198
+00:13:58,500 --> 00:14:01,500
+Jeżeli mamy do czynienia z aktywacją zarówno pierwszego,
+
+199
+00:14:01,500 --> 00:14:05,500
+jak i piątego nerwu czeszkowego, czyli węchowego oraz trójdzielnego,
+
+200
+00:14:05,500 --> 00:14:08,500
+to wówczas mówimy o tak zwanych zapachach bimodalnych.
+
+201
+00:14:08,500 --> 00:14:11,500
+I też warto je wykorzystywać zarówno w treningu węchowym,
+
+202
+00:14:11,500 --> 00:14:14,500
+jak i też właśnie u pacjentów z chorobą Alzheimer'a,
+
+203
+00:14:14,500 --> 00:14:19,500
+żeby tak dodatkowo jeszcze bodźcować w sposób bardziej kompleksowy
+
+204
+00:14:19,500 --> 00:14:26,500
+tutaj zmysł węchu, ale też z uwagi na to działanie,
+
+205
+00:14:26,500 --> 00:14:33,500
+na nerw trójdzielny także ten drugi nerw, ten kolejny nerw czeszkowy,
+
+206
+00:14:33,500 --> 00:14:35,500
+czyli tym razem piąty.
+
+207
+00:14:35,500 --> 00:14:38,500
+No i już od dawna interesowano się tematem,
+
+208
+00:14:38,500 --> 00:14:43,500
+jak to jest z kontekstem choroby Alzheimer'a i funkcjami węchowymi.
+
+209
+00:14:43,500 --> 00:14:46,500
+I były takie prace, ta praca nie jest taka stara,
+
+210
+00:14:46,500 --> 00:14:50,500
+ale tak widzimy, że zarówno badania przedkliniczne,
+
+211
+00:14:50,500 --> 00:14:52,500
+jak i kliniczne są cały czas prowadzone.
+
+212
+00:14:52,500 --> 00:14:56,500
+Tutaj właśnie zauważono, że wąchanie przez zwierzęta laboratoryjne
+
+213
+00:14:56,500 --> 00:15:02,500
+olejku cytrynowego wpływa na poprawę funkcji kognitywnych
+
+214
+00:15:02,500 --> 00:15:06,500
+poprzez zwiększenie gęstości synaptycznej w hipokampie,
+
+215
+00:15:06,500 --> 00:15:09,500
+ale także przez hamowanie acetylocholinoesterazy.
+
+216
+00:15:09,500 --> 00:15:14,500
+Jak sobie przypomnimy, te badania, które dzisiaj na początku cytowałam,
+
+217
+00:15:14,500 --> 00:15:16,500
+jeśli chodzi o funkcje kognitywne,
+
+218
+00:15:16,500 --> 00:15:20,500
+inhibitorów acetylocholinoesterazy, tam pojawiła się też cytryna.
+
+219
+00:15:20,500 --> 00:15:23,500
+Ona była niżej znacznie niż te olejki, które zawierały eukaliptol,
+
+220
+00:15:23,500 --> 00:15:26,500
+ale też była ona widoczna.
+
+221
+00:15:26,500 --> 00:15:28,500
+Zresztą wiadomo, że wyniki czasami są niespójne
+
+222
+00:15:28,500 --> 00:15:33,500
+i może w innych badaniach ktoś by wykazał, że ta cytryna wcale taka zła nie jest,
+
+223
+00:15:33,500 --> 00:15:35,500
+jeśli chodzi o hamowanie acetylocholinoesterazy.
+
+224
+00:15:35,500 --> 00:15:39,500
+Tak czy inaczej, tutaj chodzi o to, że jest jakieś podłoże molekularne,
+
+225
+00:15:39,500 --> 00:15:45,500
+które powoduje to, że dana interwencja działa terapeutycznie.
+
+226
+00:15:45,500 --> 00:15:55,500
+Tutaj oprócz tego, że zauważono hamowanie acetylocholinoesterazy,
+
+227
+00:15:55,500 --> 00:15:58,500
+że chyba poziom tego enzymu był zmniejszony,
+
+228
+00:15:58,500 --> 00:16:04,500
+ale także zauważono u tych zwierzątek, że podniósł się poziom BDNF,
+
+229
+00:16:04,500 --> 00:16:10,500
+czyli neurotroficznego czynnika pochodzenia mózgowego.
+
+230
+00:16:12,500 --> 00:16:15,500
+Oczywiście nas interesują dużo bardziej badania kliniczne
+
+231
+00:16:15,500 --> 00:16:25,500
+i to jest taka praca, która jest trochę archeologią,
+
+232
+00:16:25,500 --> 00:16:27,500
+bo cały czas pojawiają się nowe publikacje,
+
+233
+00:16:27,500 --> 00:16:31,500
+ale o tej chyba każdy autor praktykujący aromaterapię,
+
+234
+00:16:31,500 --> 00:16:35,500
+który edukuje na ten temat, odnosi się do tego badania.
+
+235
+00:16:35,500 --> 00:16:42,500
+28 dni aromaterapii z olejkiem cytrynowym, rozmarynowym, lawendowym i pomarańczowym.
+
+236
+00:16:42,500 --> 00:16:47,500
+W godzinach 9-11 rano i 19-30-21.
+
+237
+00:16:47,500 --> 00:16:52,500
+Czyli mamy takie dwie pory, kiedy stosowano aromaterapię,
+
+238
+00:16:52,500 --> 00:16:57,500
+olejki były umieszczane w takich dyfuzorach specjalnych,
+
+239
+00:16:57,500 --> 00:17:02,500
+w pokojach, w których przebywali pacjenci.
+
+240
+00:17:02,500 --> 00:17:08,500
+To były prawdopodobnie osoby z jakiegoś DPS-u,
+
+241
+00:17:08,500 --> 00:17:12,500
+chociaż za chwilkę jeszcze dokładniej się temu przyjrzymy.
+
+242
+00:17:12,500 --> 00:17:16,500
+I tutaj mamy to, co się tutaj działo dokładnie,
+
+243
+00:17:16,500 --> 00:17:21,500
+czyli łączny czas terapii około miesiąc, 28 dni rano,
+
+244
+00:17:21,500 --> 00:17:25,500
+jedna kropelka olejku cytrynowego i rozmarynu,
+
+245
+00:17:25,500 --> 00:17:29,500
+a wieczorem jedna kropelka pomarańczu i dwie krople rozmarynu.
+
+246
+00:17:29,500 --> 00:17:36,500
+Czyli w sumie trzy krople olejku eterycznego do interwencji rano i wieczorem.
+
+247
+00:17:36,500 --> 00:17:42,500
+I tutaj takie proporcje 1-2 cytryna rozmarni, 1-2 pomarańcza lawendę.
+
+248
+00:17:42,500 --> 00:17:45,500
+To były dokładnie dawki podane,
+
+249
+00:17:45,500 --> 00:17:50,500
+bo w tym badaniu pokazano to dawki w objętości, w mililitrach,
+
+250
+00:17:50,500 --> 00:17:54,500
+więc ja sobie to dokładnie przeliczyłam, biorąc pod uwagę też gęstość olejków.
+
+251
+00:17:54,500 --> 00:17:59,500
+No i wychodzi tutaj około taka dawka praktyczna,
+
+252
+00:17:59,500 --> 00:18:04,500
+jedna, dwie krople danego olejku eterycznego.
+
+253
+00:18:04,500 --> 00:18:10,500
+Więc bardzo prosta interwencja, tutaj wykazano poprawę funkcji kognitywnych.
+
+254
+00:18:10,500 --> 00:18:14,500
+To była grupa taka niejednorodna, były osoby z demencją,
+
+255
+00:18:14,500 --> 00:18:17,500
+w tej grupie przede wszystkim 28 osób starszych z demencją,
+
+256
+00:18:17,500 --> 00:18:23,500
+ale 17 spośród nich miało chorobę Alzheimera.
+
+257
+00:18:23,500 --> 00:18:30,500
+I poprawa funkcji kognitywnych była szczególnie widoczna właśnie w tej grupie z chorobą Alzheimera.
+
+258
+00:18:30,500 --> 00:18:36,500
+To jest też bardzo ciekawe, że zarówno w jednym jak i drugim przypadku były korzystne efekty,
+
+259
+00:18:36,500 --> 00:18:45,500
+ale szczególnie widoczne one były u osób już z rozwinięta chorobą Alzheimera.
+
+260
+00:18:45,500 --> 00:18:51,500
+Od tego czasu minęło już trochę lat, tutaj jest podobna praca,
+
+261
+00:18:51,500 --> 00:18:57,500
+ale już dużo nowsza, ona jest bodajże z 2022 roku.
+
+262
+00:18:57,500 --> 00:19:06,500
+I tutaj mamy jedną godzinę inhalacji, czyli tam były tak naprawdę 1,5 plus 2, czyli takie 3,5 godzinki.
+
+263
+00:19:06,500 --> 00:19:09,500
+Tutaj mamy jedną godzinę inhalacji, trzy olejki eteryczne,
+
+264
+00:19:09,500 --> 00:19:15,500
+sześć kropli takiej mieszanki, gdzie proporcja była 1 do 1 do 1,
+
+265
+00:19:15,500 --> 00:19:22,500
+na 200 ml wody i tym razem trochę dłużej, czyli 12 tygodni.
+
+266
+00:19:23,500 --> 00:19:31,500
+I tutaj dokładnie jeszcze to zostało opisane, tak, 54 pacjentów z chorobą, tym razem Alzheimera.
+
+267
+00:19:31,500 --> 00:19:39,500
+Obie grupy otrzymywały taką standardową opiekę, ale grupa z olejkami, dodatkowo jeszcze właśnie tą aromaterapię.
+
+268
+00:19:39,500 --> 00:19:46,500
+I codziennie to praktykałano przez 12 tygodni, jedna godzinka wieczorem o godzinie 21.
+
+269
+00:19:46,500 --> 00:19:54,500
+Tutaj osoby uczestniczące w tym badaniu przebywały w pomieszczeniach o powierzchni 10-15 metrów kwadratowych
+
+270
+00:19:54,500 --> 00:20:02,500
+i to po trzy osoby w takim pomieszczeniu i tak jak mówiliśmy sześć kropli olejku eterycznego w dyfuzorze,
+
+271
+00:20:02,500 --> 00:20:06,500
+prawdopodobnie ultradźwiękowym, po dwie krople każdego rodzaju.
+
+272
+00:20:06,500 --> 00:20:18,500
+Więc tutaj mamy wyniki, jeśli chodzi o efekty tego rodzaju aromaterapii.
+
+273
+00:20:18,500 --> 00:20:25,500
+Pojawiła się poprawa jakości snu, zmniejszyły się objawy takie psychiczne i behabioralne, poprawiła się im jakość życia.
+
+274
+00:20:25,500 --> 00:20:33,500
+I też zauważono w badaniach laboratoryjnych poprawy takich parametrów biochemicznych,
+
+275
+00:20:33,500 --> 00:20:40,500
+czyli na przykład, to jest bardzo ciekawe, bo to jest takie działanie bardzo łagodne, nieintensywne,
+
+276
+00:20:40,500 --> 00:20:47,500
+a mamy zmniejszenie poziomu aldehydu malonowego, MDA, to jest taki wskaźnik peroksydacji lipidów,
+
+277
+00:20:47,500 --> 00:20:51,500
+mamy wzrost aktywności dysmusdazy podnatlankowy, czyli enzymu SOT,
+
+278
+00:20:51,500 --> 00:21:01,500
+oraz istotnie zmniejszyły się poziomy markerów senu zapalnego, takie jak interleukina 6 czy TN w alfa.
+
+279
+00:21:01,500 --> 00:21:07,500
+No i wnioski są takie, że aromaterapia może korzystnie wpływać na pacjentów z herumasheimera,
+
+280
+00:21:07,500 --> 00:21:14,500
+będzie poprawiała sen, ogólnie takie objawy behabioralne, jakość życia,
+
+281
+00:21:14,500 --> 00:21:21,500
+prawdopodobnie też m.in. w mechanizmie łagodzenia, zmniejszania stresu oksydacyjnego,
+
+282
+00:21:21,500 --> 00:21:27,500
+ale także działania przeciw zapalnego, więc to jest taka ciekawa praca, troszeczkę nowsza,
+
+283
+00:21:27,500 --> 00:21:35,500
+jeśli chodzi o te wcześniejsze badania, które dotyczyły porannej i wieczornej inhalacji.
+
+284
+00:21:35,500 --> 00:21:46,500
+No i znowu pytanie, jaki tutaj jest efekt, jeśli chodzi o podłoże takie biologiczne,
+
+285
+00:21:46,500 --> 00:21:53,500
+czyli dlaczego ta interwencja działa, tutaj akurat troszeczkę w odniesieniu do tego wcześniejszego badania
+
+286
+00:21:53,500 --> 00:22:00,500
+były takie przedkliniczne próby wyjaśnienia mechanizmów wpływu tych inhalacji lawendą,
+
+287
+00:22:00,500 --> 00:22:06,500
+pomarańczą, rozmarynem czy też cytryną, ale u myszy wiadomo, że to działa troszeczkę inaczej,
+
+288
+00:22:06,500 --> 00:22:12,500
+no bo one mają inny tryb życia, są to zwierzęta nocne, tak czy inaczej one wąchały sobie te olejki
+
+289
+00:22:12,500 --> 00:22:17,500
+i zauważono, że zmniejsza się poziom betaamaloidu w mózgu tych zwierząt,
+
+290
+00:22:17,500 --> 00:22:26,500
+dlatego nieprawidłowo sforylowanego białka tau i wszystko było dużo bardziej,
+
+291
+00:22:26,500 --> 00:22:33,500
+było obdzielone przede wszystkim właśnie w grupie z aromaterapią,
+
+292
+00:22:33,500 --> 00:22:39,500
+także jest tak, że to ma podłoże takie molekularne i to jest bardzo ciekawe,
+
+293
+00:22:39,500 --> 00:22:43,500
+że to nie jest tylko takie łagodne działanie poprzez zmysł węchu,
+
+294
+00:22:43,500 --> 00:22:46,500
+które poprawia komfort, które powoduje, że czujemy się lepiej,
+
+295
+00:22:46,500 --> 00:22:52,500
+ale za tym stoją też najprawdopodobniej określone takie efekty biochemiczne
+
+296
+00:22:52,500 --> 00:22:57,500
+na poziomie ośrodkowego układu nerwowego.
+
+297
+00:22:57,500 --> 00:23:01,500
+Tutaj dwa miesiące myszki sobie wąchały te olejki eteryczne,
+
+298
+00:23:01,500 --> 00:23:06,500
+zaobserwano to zmniejszenie poziomu nieprawidłowego białka tau czy betaamaloidu
+
+299
+00:23:06,500 --> 00:23:11,500
+w grupie z aromaterapią, nie było takiej istotnej zmiany jeżeli chodzi o poziom BDNF,
+
+300
+00:23:11,500 --> 00:23:17,500
+no i zaobserwano korzystne wpływy inhalacji na funkcje kognitywne zwierząt laboratoryjnych.
+
+301
+00:23:23,500 --> 00:23:27,500
+No i pytanie co dalej, czy jeszcze są jakieś olejki eteryczne,
+
+302
+00:23:27,500 --> 00:23:34,500
+bo ogólnie bym powiedziała tak, że tutaj zawsze warto dbać o ten aspekt hedonistyczny,
+
+303
+00:23:34,500 --> 00:23:37,500
+czyli jeżeli Państwo dobieracie aromaterapię,
+
+304
+00:23:37,500 --> 00:23:42,500
+to na pewno warto dbać o to, żeby to było przyjemne doświadczenie,
+
+305
+00:23:42,500 --> 00:23:47,500
+że oczywiście można celować przede wszystkim w te olejki,
+
+306
+00:23:47,500 --> 00:23:50,500
+które tutaj się pojawiają, bo one są troszkę takie bardziej pewniaki,
+
+307
+00:23:50,500 --> 00:23:54,500
+ale czy jeszcze coś innego tutaj się pojawiło.
+
+308
+00:23:54,500 --> 00:23:59,500
+I tak z biegiem lat pojawiają się nowe badania i cóż, czy jesteśmy zaskoczeni,
+
+309
+00:23:59,500 --> 00:24:06,500
+tym razem olejki ilan kilan, który był badany u osób z demencją.
+
+310
+00:24:06,500 --> 00:24:11,500
+Tutaj dyfuzowało dwa razy dziennie po 20 minut przez okres jednego miesiąca,
+
+311
+00:24:11,500 --> 00:24:18,500
+czyli widzimy, że trochę krócej trwa to, no to jest taki troszeczkę mocniejszy olejek eteryczny,
+
+312
+00:24:18,500 --> 00:24:22,500
+malutka grupa, prosta interwencja,
+
+313
+00:24:22,500 --> 00:24:26,500
+no ale się okazuje, że tutaj także były widoczne korzyści,
+
+314
+00:24:26,500 --> 00:24:31,500
+więc tak jakby nie chodzi tak wyraźnie o to, jaki to dokładnie olejek,
+
+315
+00:24:31,500 --> 00:24:34,500
+chociaż wiemy, że tutaj mamy takie dowody kliniczne,
+
+316
+00:24:34,500 --> 00:24:38,500
+natomiast aromaterapia, tak czy inaczej, takie budzywanie węchowe,
+
+317
+00:24:38,500 --> 00:24:48,500
+jest fajną, mniej inwazyjną, wspierającą metodą, jeżeli chodzi o grupy osób z chorobą demencją,
+
+318
+00:24:48,500 --> 00:24:51,500
+na przykład podana przez chorobę Alzheimer, ale nie tylko.
+
+319
+00:24:51,500 --> 00:24:56,500
+I tutaj mamy wyniki tego badania, wpływ na markery neurodegeneracji,
+
+320
+00:24:56,500 --> 00:25:03,500
+na wpływ na stan zapalny mózgu, czy wpływ na poziomy chorłonów stresu, stres oksydacyjny.
+
+321
+00:25:03,500 --> 00:25:09,500
+Z tym stanem zapalnym mózgu to jest troszeczkę tak, że to niekoniecznie oznacza stan zapalny mózgu,
+
+322
+00:25:09,500 --> 00:25:11,500
+bo to może być też stan zapalny taki ogólnoustrójowy,
+
+323
+00:25:11,500 --> 00:25:20,500
+bo wiadomo, że te aspekty, te czynniki są badane, jeśli chodzi o poziom w surowicy krwi,
+
+324
+00:25:20,500 --> 00:25:24,500
+więc to też nie jest takie jednoznaczne, że to definiuje nam stan zapalny mózgu,
+
+325
+00:25:24,500 --> 00:25:28,500
+ale to jest to marker stanu zapalnego w organizmie, czy inaczej,
+
+326
+00:25:28,500 --> 00:25:33,500
+Poziom homocysteiny rzeczywiście może być traktowany jako taki marker neurodegeneracji,
+
+327
+00:25:33,500 --> 00:25:37,500
+mamy jeszcze poziom BDNF, ale także poziom beta amyloidy.
+
+328
+00:25:37,500 --> 00:25:44,500
+Tutaj te zaznaczone na żółto mark wskaźniki, to są te, które mają istotność statystyczną,
+
+329
+00:25:44,500 --> 00:25:50,500
+jeżeli chodzi o różnicę przed wąchaniem olejkula ilangowego i po.
+
+330
+00:25:51,500 --> 00:26:01,500
+Poziom homocysteiny zmniejszył, tutaj zmniejszył się poziom beta amyloidu,
+
+331
+00:26:01,500 --> 00:26:06,500
+poziom interleukiny 6, 2, to wszystko uległo zmniejszeniu
+
+332
+00:26:06,500 --> 00:26:14,500
+w porównaniu do wcześniejszego stanu wyjściowego i po aromaterapii.
+
+333
+00:26:14,500 --> 00:26:21,500
+Poziom hormonów stresu też się zmienił, tutaj poziom hormonu adrenokortykotropowego,
+
+334
+00:26:21,500 --> 00:26:27,500
+ACTH, czyli tego, który produkuje przysadka i który wpływa na dnercza,
+
+335
+00:26:27,500 --> 00:26:34,500
+i poziom stresu oksydacyjnego, markery takie jak aldehydmalonowe, MDA czy TBARS.
+
+336
+00:26:34,500 --> 00:26:41,500
+Tutaj też mamy istotny statystycznie wynik,
+
+337
+00:26:41,500 --> 00:26:50,500
+chociaż nie jest on tak dobry jak w innych przypadkach, ale też mamy to p-value mniej niż 0,05.
+
+338
+00:26:50,500 --> 00:26:56,500
+Więc to były te parametry osoczowe, ale mamy jeszcze parametry takie behawioralne
+
+339
+00:26:56,500 --> 00:27:02,500
+oraz psychologiczne, które były analizowane w tym kontekście.
+
+340
+00:27:02,500 --> 00:27:07,500
+No i proszę zobaczyć wskaźnik CMAJ, wskaźnik CSDD,
+
+341
+00:27:07,500 --> 00:27:14,500
+ten pierwszy dotyczy takiego pobudzenia agitacji, nasilenia u osób z chorobami
+
+342
+00:27:14,500 --> 00:27:18,500
+takimi jak demencja, a ten drugi dotyczy depresji w kontekście demencji.
+
+343
+00:27:18,500 --> 00:27:27,500
+Tutaj jeszcze NPI, czyli to w jaki sposób ci pacjenci stanowią obciążenie,
+
+344
+00:27:27,500 --> 00:27:33,500
+jeśli dobrze pamiętam, dla personelu i tak dalej,
+
+345
+00:27:33,500 --> 00:27:38,500
+czyli nasilenie tutaj objawów, między innymi kary i też obciążenie opiekuna.
+
+346
+00:27:38,500 --> 00:27:45,500
+Tutaj widzimy te wyniki i generalnie jest sytuacja przed i po, co się dzieje.
+
+347
+00:27:45,500 --> 00:27:57,500
+Widzimy, że tutaj jest korzystna zmiana w przypadku interwencji z aromaterapią.
+
+348
+00:27:58,500 --> 00:28:07,500
+Tak więc tutaj mamy takie zestawienie różnych olejków eterycznych.
+
+349
+00:28:07,500 --> 00:28:10,500
+Ja dzisiaj dopisałam tutaj jeszcze olejki lęgowe,
+
+350
+00:28:10,500 --> 00:28:14,500
+ale ponieważ prezentacja mi się nie wgrała, ta zaktualizowana,
+
+351
+00:28:14,500 --> 00:28:17,500
+no to będzie to dopiero na materiałach dodatkowych,
+
+352
+00:28:17,500 --> 00:28:23,500
+więc jest kilka olejków, które mają takie pojedyncze badania kliniczne.
+
+353
+00:28:23,500 --> 00:28:29,500
+Za chwileczkę będziemy to kontynuować, jeśli chodzi o rozwijanie tego tematu.
+
+354
+00:28:29,500 --> 00:28:33,500
+Tak do tej pory sobie powiedzieliśmy o lawendzie, o rozmarynie, o pomarańczy,
+
+355
+00:28:33,500 --> 00:28:37,500
+o cytrynie, o olejku ilangowym, ale okazuje się jeszcze,
+
+356
+00:28:37,500 --> 00:28:42,500
+że pewne doniesienia mamy lisa lekarska, czyli taki znany środek,
+
+357
+00:28:42,500 --> 00:28:44,500
+taki uspokajający przede wszystkim w kontekście surowca,
+
+358
+00:28:44,500 --> 00:28:46,500
+ale także oczywiście olejku eterycznego.
+
+359
+00:28:46,500 --> 00:28:51,500
+No i też mamy różne gatunki szałwi, na przykład szałwi lekarskiej
+
+360
+00:28:51,500 --> 00:28:54,500
+czy szałwi lawendolistnej.
+
+361
+00:28:54,500 --> 00:28:57,500
+Te dwa gatunki się różnią od siebie mocno z kładem
+
+362
+00:28:57,500 --> 00:29:01,500
+i to też sobie za chwileczkę dokładniej wyjaśnimy.
+
+363
+00:29:01,500 --> 00:29:06,500
+Tutaj jest takie zestawienie różnych olejków eterycznych
+
+364
+00:29:06,500 --> 00:29:12,500
+w książce Jane Buckle, Klinikal Aromaterapii
+
+365
+00:29:12,500 --> 00:29:18,500
+i ona pokazuje też jeszcze inne koncepcje, inne typy olejków,
+
+366
+00:29:18,500 --> 00:29:22,500
+które mogą być tutaj użyte i widzimy, że pojawił nam się nasz olejek ilangowy,
+
+367
+00:29:22,500 --> 00:29:26,500
+mimo że książka została wydana w 2015 roku,
+
+368
+00:29:26,500 --> 00:29:28,500
+a tamto badanie, które przed chwileczką sobie omawialiśmy,
+
+369
+00:29:28,500 --> 00:29:32,500
+no jednak było dużo starsze, znaczy dużo nowsze, przepraszam,
+
+370
+00:29:32,500 --> 00:29:34,500
+bo ona jest z ostatnich lat.
+
+371
+00:29:34,500 --> 00:29:37,500
+Także ona już dawno pisała o olejku ilangowym,
+
+372
+00:29:37,500 --> 00:29:40,500
+tutaj proponowała ten klasyczny zestaw też tych olejków,
+
+373
+00:29:40,500 --> 00:29:43,500
+które były wcześniej omawiane, ale mamy tutaj oczywiście mięnte,
+
+374
+00:29:43,500 --> 00:29:48,500
+mamy paczule, mamy mandarynkę z cytrusów, eukaliptus gałkowy,
+
+375
+00:29:48,500 --> 00:29:52,500
+drzewo sandałowe, tutaj też się pojawią imbury lekarskie czy też geraniom.
+
+376
+00:29:52,500 --> 00:29:59,500
+W moim odczuciu bodźcowanie węchowe może mieć znaczenie ogólnie,
+
+377
+00:29:59,500 --> 00:30:04,500
+jeśli chodzi o dobór olejków, nie musimy tak bardzo się tutaj koncentrować
+
+378
+00:30:04,500 --> 00:30:07,500
+na konkretnych typach, oczywiście lepiej jest wybrać to,
+
+379
+00:30:07,500 --> 00:30:11,500
+co w jakiś sposób zostało sprawdzone, bo wtedy mamy większą gwarancję,
+
+380
+00:30:11,500 --> 00:30:15,500
+że te korzystne efekty się pojawią.
+
+381
+00:30:15,500 --> 00:30:21,500
+Więc mamy trochę badań, które już nieco zaprezentowałam,
+
+382
+00:30:21,500 --> 00:30:24,500
+będę do tego tematu jeszcze za chwileczkę nawiązywać dalej,
+
+383
+00:30:24,500 --> 00:30:31,500
+ale okazuje się, że pojawiły się znowu nam takie przeglądy systematyczne,
+
+384
+00:30:31,500 --> 00:30:36,500
+tutaj jest analiza Cochrane z 2020 roku i możemy tam wyczytać,
+
+385
+00:30:36,500 --> 00:30:39,500
+że na dzień dzisiejszy brakuje takich przekonujących dowodów na to,
+
+386
+00:30:39,500 --> 00:30:42,500
+że aromaterabia może dawać korzyści u pacjentów z demencją
+
+387
+00:30:42,500 --> 00:30:45,500
+i potrzebne są większe dobrze zaprawy na badania kliniczne.
+
+388
+00:30:45,500 --> 00:30:48,500
+To jest to samo, co widzieliśmy przed chwileczką,
+
+389
+00:30:48,500 --> 00:30:51,500
+jeżeli chodzi o dzisiejsze spotkanie na początku,
+
+390
+00:30:51,500 --> 00:30:55,500
+pierwszy wykład, kiedy mówiliśmy o bólach głowy,
+
+391
+00:30:55,500 --> 00:30:59,500
+tutaj również taka metaanaliza, przegląd systematyczny
+
+392
+00:30:59,500 --> 00:31:04,500
+wykazała, że na dzień dzisiejszy wnioski, które płyną z badań,
+
+393
+00:31:04,500 --> 00:31:08,500
+są niewystarczająco udekumentowane, jeśli chodzi o skuteczność kliniczną
+
+394
+00:31:08,500 --> 00:31:16,500
+aromaterapii, więc troszeczkę jest tak, że musimy jeszcze poczekać,
+
+395
+00:31:16,500 --> 00:31:19,500
+aż te dobrze zaprojektowane badania kliniczne są zrobione,
+
+396
+00:31:19,500 --> 00:31:23,500
+natomiast na dzień dzisiejszy mamy dowody niższej jakości,
+
+397
+00:31:23,500 --> 00:31:27,500
+co nie znaczy, że nie mamy żadnych dowodów,
+
+398
+00:31:27,500 --> 00:31:31,500
+bo biorąc pod uwagę te mechanizmy działania, wstępne dane,
+
+399
+00:31:31,500 --> 00:31:35,500
+którymi dysponujemy, jak najbardziej możemy wyciągać z nich wnioski,
+
+400
+00:31:35,500 --> 00:31:38,500
+i że warto stosować aromaterapię chociażby z tego powodu,
+
+401
+00:31:38,500 --> 00:31:41,500
+że jest ona metodą nieinwazyjną,
+
+402
+00:31:41,500 --> 00:31:46,500
+że jest ona metodą, która nie ma działań niepożądanych,
+
+403
+00:31:46,500 --> 00:31:49,500
+a może po prostu poprawić jakość życia, chociażby z tego powodu,
+
+404
+00:31:49,500 --> 00:31:54,500
+że łagodzi stres i przy okazji może wspierać funkcje kognitywne,
+
+405
+00:31:54,500 --> 00:32:01,500
+co zostało też zilustrowane przed chwileczką na różnymi przykładami.
+
+406
+00:32:01,500 --> 00:32:10,500
+Tutaj analizowano 13 badań, 700 osób około, jeśli chodzi o uczestniki, uczestników,
+
+407
+00:32:10,500 --> 00:32:16,500
+no i tutaj widzimy, że w tej ostatniej kolumnie pojawia się często pojęcie very low,
+
+408
+00:32:16,500 --> 00:32:24,500
+czyli niska jakość jeżeli chodzi o taką siłę dowodów naukowych.
+
+409
+00:32:24,500 --> 00:32:30,500
+No i teraz pokażę jeszcze kilka innych prac,
+
+410
+00:32:30,500 --> 00:32:32,500
+mi się to po prostu wszystko troszeczkę przesunęło,
+
+411
+00:32:32,500 --> 00:32:35,500
+bo to było ładnie uporządkowane w nowej wersji,
+
+412
+00:32:35,500 --> 00:32:39,500
+ale widzicie Państwo, że figle techniczne zawsze się niestety zdarzają,
+
+413
+00:32:39,500 --> 00:32:45,500
+więc tak jak jest to tutaj po kolei też powoli po prostu przedstawię
+
+414
+00:32:45,500 --> 00:32:47,500
+według tej starej wersji.
+
+415
+00:32:47,500 --> 00:32:51,500
+Więc oprócz tych badań, które przed chwileczką sobie omówiliśmy,
+
+416
+00:32:51,500 --> 00:32:56,500
+jeszcze warto zwrócić uwagę na pracę nad melisą lekarską.
+
+417
+00:32:56,500 --> 00:32:58,500
+Tym razem była to aplikacja na skórę,
+
+418
+00:32:58,500 --> 00:33:03,500
+bo do tej pory mówiliśmy cały czas o tym, że te olejki były stosowane inhalacyjnie.
+
+419
+00:33:03,500 --> 00:33:08,500
+Najczęściej w pomieszczeniach, w których przebywali uczestnicy badania,
+
+420
+00:33:08,500 --> 00:33:11,500
+często to były osoby z demencją, z chorobą Alzheimer'a,
+
+421
+00:33:11,500 --> 00:33:15,500
+tutaj mamy aplikację na skórę.
+
+422
+00:33:15,500 --> 00:33:18,500
+To były osoby z awansowaną demencją,
+
+423
+00:33:18,500 --> 00:33:24,500
+o których występowały pobudzenie, agresja słowna lub psychiczna
+
+424
+00:33:24,500 --> 00:33:27,500
+i podzielono uczestników tutaj na dwie grupy.
+
+425
+00:33:27,500 --> 00:33:32,500
+W jednej grupie stosowano aromaterapię, a druga była grupą kontrolną.
+
+426
+00:33:32,500 --> 00:33:38,500
+I co jest tutaj ciekawe, użyto tutaj olejku eterycznego w stężeniu 10%
+
+427
+00:33:38,500 --> 00:33:44,500
+w formie takiego lotionu i to była ilość 1 ml,
+
+428
+00:33:44,500 --> 00:33:51,500
+czyli z tego i 10%, czyli 100 mg tak naprawdę stanowił olej eteryczny.
+
+429
+00:33:51,500 --> 00:33:57,500
+I taki preparat był nakładany dwa razy dziennie na okolice twarzy.
+
+430
+00:33:57,500 --> 00:34:02,500
+I tutaj od razu taka moja uwaga, zresztą to jest tutaj zaznaczone,
+
+431
+00:34:02,500 --> 00:34:05,500
+że olejek malisowy zawiera cytral.
+
+432
+00:34:05,500 --> 00:34:11,500
+Cytral jest to aldehyd, o którym sobie, jeśli ktoś bywa na moich wykładach
+
+433
+00:34:11,500 --> 00:34:16,500
+z aromaterapii, to często przypominamy w kontekście infekcji wirusowych
+
+434
+00:34:17,500 --> 00:34:21,500
+i cytral bardzo fajnie działa przy opryszce wargowej,
+
+435
+00:34:21,500 --> 00:34:26,500
+dlatego często się rozwiązania takie proponuje jak olejek malisowy,
+
+436
+00:34:26,500 --> 00:34:31,500
+chociaż w praktyce szukamy alternatyw dla olejku malisowego,
+
+437
+00:34:31,500 --> 00:34:34,500
+czyli takiego na przykład innego olejku, który zawiera cytral,
+
+438
+00:34:34,500 --> 00:34:38,500
+czyli chociaż bolica kubeba czy trawa cytrynowa.
+
+439
+00:34:38,500 --> 00:34:43,500
+Więc to jest bardzo fajny olejek na infekcje wirusowe.
+
+440
+00:34:43,500 --> 00:34:46,500
+W ogóle jest to dobry składnik przeciwdrobnoustrojowy,
+
+441
+00:34:46,500 --> 00:34:50,500
+bo aldehydy są stosunkowo silne, co prawda ten aldehyd nie jest tak silny
+
+442
+00:34:50,500 --> 00:34:53,500
+jak aldehyd cynamonowy z olejku cynamonowego,
+
+443
+00:34:53,500 --> 00:34:55,500
+ale on też silnie działa przeciwdrobnoustrojowo.
+
+444
+00:34:55,500 --> 00:34:59,500
+I teraz jest taka druga słona medalu tego działania przeciwdrobnoustrojowego.
+
+445
+00:34:59,500 --> 00:35:03,500
+Jak coś mocno działa przeciwdrobnoustrojowo,
+
+446
+00:35:03,500 --> 00:35:07,500
+to zwykle też będzie podrażniało mocno naszą skórę,
+
+447
+00:35:07,500 --> 00:35:10,500
+bo nasze komórki czy komórki bakteryjne czy grzybowe
+
+448
+00:35:10,500 --> 00:35:13,500
+mają pewne podobieństwa jednak.
+
+449
+00:35:13,500 --> 00:35:17,500
+No i rzeczywiście jest to składnik mocno podrażniający.
+
+450
+00:35:17,500 --> 00:35:20,500
+I teraz dlaczego tutaj o tym mówię w tym akurat kontekście?
+
+451
+00:35:20,500 --> 00:35:25,500
+Dlatego, że jeżeli nakładano 10-procentowy lotion na skórę,
+
+452
+00:35:25,500 --> 00:35:28,500
+no to jest ryzyko podrażnienia.
+
+453
+00:35:28,500 --> 00:35:31,500
+Oczywiście była to aplikacja lokalna, 1 ml, co nie jest dużo.
+
+454
+00:35:31,500 --> 00:35:35,500
+Ja się przyznaję, że zdarza mi się nakładać na początku,
+
+455
+00:35:35,500 --> 00:35:38,500
+jak mi się rozwija jakaś potencjalna opryszka,
+
+456
+00:35:38,500 --> 00:35:41,500
+żeby w ogóle zatrzymać tam opryszkę na starcie.
+
+457
+00:35:41,500 --> 00:35:47,500
+No to ja potrafię nałożyć sobie kropelkę olejku z lisa kubeba nierozcięczoną
+
+458
+00:35:47,500 --> 00:35:51,500
+i się do tego przyznaję, ryzykując podrażnienie skóry.
+
+459
+00:35:51,500 --> 00:35:56,500
+Więc oczywiście mówimy o tym bezpieczeństwie,
+
+460
+00:35:56,500 --> 00:36:00,500
+więc pamiętamy, że jest ryzyko podrażnienia,
+
+461
+00:36:00,500 --> 00:36:05,500
+bo jest to stosunkowo wysokie stężenie jak na bogaty w cytrale olejek eterycznych.
+
+462
+00:36:05,500 --> 00:36:07,500
+I tyle mojego komentarza.
+
+463
+00:36:07,500 --> 00:36:14,500
+Tutaj akurat w tym badaniu nie odnotowano działań niepożądanych.
+
+464
+00:36:14,500 --> 00:36:18,500
+Przez 4 tygodnie stosowano taką dwa razy dziennie aplikację,
+
+465
+00:36:18,500 --> 00:36:21,500
+czyli mamy dobową dawkę olejku melisowego 200 mg.
+
+466
+00:36:21,500 --> 00:36:23,500
+Oczywiście też skóra twarzy,
+
+467
+00:36:23,500 --> 00:36:28,500
+wiadomo, że skóra twarzy to nie jest skóra w innych częściach ciała,
+
+468
+00:36:28,500 --> 00:36:30,500
+jest to skóra szczególnie wrażliwa,
+
+469
+00:36:30,500 --> 00:36:37,500
+taka, która powinna być chroniona jeśli chodzi o stężenie składników aktywnych
+
+470
+00:36:37,500 --> 00:36:40,500
+z olejku eterycznego tym bardziej.
+
+471
+00:36:40,500 --> 00:36:43,500
+To jest takie ryzykowne.
+
+472
+00:36:43,500 --> 00:36:47,500
+Ja bym powiedziała, że projekty badań klinicznych
+
+473
+00:36:47,500 --> 00:36:49,500
+zawsze są najlepszym wyborem,
+
+474
+00:36:49,500 --> 00:36:52,500
+jeżeli chodzi o dobre praktyki,
+
+475
+00:36:52,500 --> 00:36:56,500
+więc jesteśmy zawsze czujni, jeżeli analizujemy różne doniesienia.
+
+476
+00:36:56,500 --> 00:37:00,500
+I tutaj ta czujność na pewno powinna być wyostrzona,
+
+477
+00:37:00,500 --> 00:37:04,500
+jeśli chodzi o to, co tutaj piszą autorzy w tym akurat przypadku.
+
+478
+00:37:04,500 --> 00:37:09,500
+Więc tutaj na twarzy na pewno bym nie aplikowała citralu 10%
+
+479
+00:37:09,500 --> 00:37:11,500
+takiej regularnej ekspozycji,
+
+480
+00:37:11,500 --> 00:37:17,500
+bo co innego to raz sobie na zmianę na wardzę nałożyć olejek stężony,
+
+481
+00:37:17,500 --> 00:37:21,500
+a co innego niestety, kiedy się to po prostu regularnie powtarza,
+
+482
+00:37:21,500 --> 00:37:25,500
+jest niestety ryzyko, że dojdzie do podrażnienia.
+
+483
+00:37:25,500 --> 00:37:30,500
+No i tutaj mamy wyniki tego badania.
+
+484
+00:37:30,500 --> 00:37:34,500
+Okazuje się, że one były korzystne, jeśli chodzi o grupę z interwencją.
+
+485
+00:37:34,500 --> 00:37:40,500
+Mamy wskaźnik CMAJ, czyli ten, który pokazuje nam skalę nasilenia pobudzenia.
+
+486
+00:37:40,500 --> 00:37:47,500
+Dalej mamy generalnie lepsze wyniki w grupie aktywnej w stosunku do grupy placebo,
+
+487
+00:37:47,500 --> 00:37:51,500
+odmontowano ogólną poprawę pobudzenia,
+
+488
+00:37:51,500 --> 00:37:55,500
+jeśli chodzi o pacjentów z olejkiem melisowym,
+
+489
+00:37:55,500 --> 00:38:00,500
+czyli średnia redukcja tego w wyniku w skali CMAJ o 35% tutaj
+
+490
+00:38:00,500 --> 00:38:04,500
+i 11% u pacjentów otrzymujących placebo.
+
+491
+00:38:04,500 --> 00:38:08,500
+Na sąpia także poprawa jakości życia wyrażająca się,
+
+492
+00:38:08,500 --> 00:38:11,500
+zwiększeniem czasu spędzanego,
+
+493
+00:38:11,500 --> 00:38:15,500
+ilości czasu spędzanego w towarzystwie innych ludzi w grupie,
+
+494
+00:38:15,500 --> 00:38:17,500
+gdzie stosowano aromaterapii.
+
+495
+00:38:17,500 --> 00:38:20,500
+Tutaj też ważne jest to, że była placebo, interwencja
+
+496
+00:38:20,500 --> 00:38:26,500
+i tam prawdopodobnie też coś nakładano,
+
+497
+00:38:26,500 --> 00:38:34,500
+bo to też jest ważne, żeby tutaj odnotować kwestie możliwości oddziaływania samego kontaktu personelu,
+
+498
+00:38:34,500 --> 00:38:39,500
+czyli sama aplikacja na skórę twarzy czegoś,
+
+499
+00:38:39,500 --> 00:38:47,500
+co pokazuje jakiś rodzaj opieki, wsparcia, dotyku.
+
+500
+00:38:47,500 --> 00:38:49,500
+Dotyk jest ważny.
+
+501
+00:38:49,500 --> 00:38:53,500
+To też może wpłynąć na wyniki badania,
+
+502
+00:38:53,500 --> 00:38:55,500
+więc tutaj nie pamiętam dokładnie,
+
+503
+00:38:55,500 --> 00:38:59,500
+ale prawdopodobnie też w grupie kontrolnej stosowano jakiś wariant placebo,
+
+504
+00:38:59,500 --> 00:39:01,500
+bo byli pacjenci utrzymujący placebo,
+
+505
+00:39:01,500 --> 00:39:04,500
+więc na pewno też była taka opieka,
+
+506
+00:39:04,500 --> 00:39:10,500
+była dotyk, regularny kontakt z innymi osobami,
+
+507
+00:39:10,500 --> 00:39:15,500
+co też może mieć znaczenie dla wyników tego badania.
+
+508
+00:39:15,500 --> 00:39:18,500
+Więc tutaj były te wyniki widoczne,
+
+509
+00:39:18,500 --> 00:39:23,500
+ale jak już analizowano to dalej i porównywano np. farmaceutyk,
+
+510
+00:39:23,500 --> 00:39:28,500
+takie same tutaj rozwiązania jak właśnie ten olejek melisowy,
+
+511
+00:39:28,500 --> 00:39:30,500
+znowu w formie takiego preparatu,
+
+512
+00:39:31,500 --> 00:39:35,500
+100 mg olejku dwa razy dziennie na dłonie i ramiona.
+
+513
+00:39:35,500 --> 00:39:38,500
+I tutaj też jest ważne to, że tam były okolice twarzy,
+
+514
+00:39:38,500 --> 00:39:41,500
+tutaj dłonie i ramiona i to już jest dużo lepszy wybór.
+
+515
+00:39:41,500 --> 00:39:44,500
+Masaż trwający jedną, dwie minutki.
+
+516
+00:39:44,500 --> 00:39:50,500
+Natomiast była też grupa, która otrzymywała właśnie lek Donnepezil,
+
+517
+00:39:50,500 --> 00:39:54,500
+czyli taki czesny lek standardowo stosowany w demencji.
+
+518
+00:39:54,500 --> 00:39:58,500
+No i co jest ciekawe tutaj akurat nie było istotnych różnic
+
+519
+00:39:58,500 --> 00:40:02,500
+między aromaterapią i farmaceutykiem Donnepezilem,
+
+520
+00:40:02,500 --> 00:40:04,500
+ale także grupą placebo.
+
+521
+00:40:04,500 --> 00:40:12,500
+Więc o ile gdyby to nie zróżnicowało nam ramienia z aromaterapią
+
+522
+00:40:12,500 --> 00:40:15,500
+i z farmakoterapią, to by było dla nas ciekawe.
+
+523
+00:40:15,500 --> 00:40:18,500
+Ale ponieważ efekt nie był różny od grupy placebo,
+
+524
+00:40:18,500 --> 00:40:24,500
+to też to badanie troszeczkę nam rozwiewa te nadzieje związane
+
+525
+00:40:25,500 --> 00:40:29,500
+z akurat tym wyborem, jeśli chodzi o działanie w demencji.
+
+526
+00:40:29,500 --> 00:40:33,500
+Takie przypomnienie składu olejku z melisy lekarskiej.
+
+527
+00:40:33,500 --> 00:40:37,500
+Tutaj mamy przede wszystkim cytral, cytral A oraz cytral B,
+
+528
+00:40:37,500 --> 00:40:40,500
+czyli odpowiednio mamy neral i granial.
+
+529
+00:40:40,500 --> 00:40:44,500
+Cytral A to granial, a neral to cytral B.
+
+530
+00:40:44,500 --> 00:40:46,500
+Metal karyofilen, cytroneral.
+
+531
+00:40:46,500 --> 00:40:50,500
+Generalnie olejek melisowy jest bardzo często fałszowany,
+
+532
+00:40:50,500 --> 00:40:54,500
+co wynika z tego, że olejku olejcznego jest niewiele w tym surowcu
+
+533
+00:40:54,500 --> 00:40:58,500
+i często tutaj mamy inne domieszki.
+
+534
+00:40:58,500 --> 00:41:02,500
+Także w praktyce nie opłaca się nam kupować drugiego olejku melisowego
+
+535
+00:41:02,500 --> 00:41:04,500
+lub kupować tak naprawdę zafałszowanego,
+
+536
+00:41:04,500 --> 00:41:10,500
+bo nas nie informuje tutaj producent, że coś jest nie tak z tym olejkiem.
+
+537
+00:41:10,500 --> 00:41:16,500
+Najczęściej możemy kupić sobie olejek melisowy za 10-20 zł i jest prawie że pewne,
+
+538
+00:41:16,500 --> 00:41:20,500
+że tam nie ma czystego olejku melisowego.
+
+539
+00:41:20,500 --> 00:41:24,500
+Natomiast są inne olejki, które mają też ten cytral,
+
+540
+00:41:24,500 --> 00:41:28,500
+a poza tym to też jest tak, że ten cytral daje nam charakterystyczny zapach
+
+541
+00:41:28,500 --> 00:41:32,500
+i wcale nie jest takim niezbędnym składnikiem aktywnym
+
+542
+00:41:32,500 --> 00:41:37,500
+w kontekście naszych praktyk aromatherapeutycznych akurat w tej grupie,
+
+543
+00:41:37,500 --> 00:41:40,500
+więc troszeczkę odnosimy się teraz do tego,
+
+544
+00:41:40,500 --> 00:41:46,500
+że ktoś po prostu to już sprawdzał i stosował.
+
+545
+00:41:46,500 --> 00:41:49,500
+Więc mamy za sobą kolejny typ interwencji,
+
+546
+00:41:49,500 --> 00:41:52,500
+gdzie stosowano aplikację na skórę,
+
+547
+00:41:52,500 --> 00:41:55,500
+ale tutaj jeszcze pojawiła się nam pewna ciekawostka.
+
+548
+00:41:55,500 --> 00:42:02,500
+Mianowicie zastosowano olejek z szałwi lawendolistnej w chorobie Alzheimera
+
+549
+00:42:02,500 --> 00:42:06,500
+i tym razem to były kapsułki z olejkiem etarycznym.
+
+550
+00:42:06,500 --> 00:42:09,500
+Tutaj było 50 mikrolitrów olejku,
+
+551
+00:42:09,500 --> 00:42:14,500
+czyli też znowu dawka taka stosunkowo niewielka,
+
+552
+00:42:14,500 --> 00:42:18,500
+ale też ją zwiększano generalnie.
+
+553
+00:42:18,500 --> 00:42:23,500
+To były kapsułki w oleju słonecznikowym, rozcieńczenie tego olejku
+
+554
+00:42:23,500 --> 00:42:26,500
+i po prostu te kapsułki zwiększano,
+
+555
+00:42:26,500 --> 00:42:29,500
+czyli na przykład w pierwszym tygodniu była jedna kapsułka o ósmej rano,
+
+556
+00:42:29,500 --> 00:42:33,500
+w drugim tygodniu jedna kapsułka o ósmej i jedna o dziewiętnastej
+
+557
+00:42:33,500 --> 00:42:39,500
+i później w kolejnych tygodniach była jeszcze dodatkowa kapsułka o godzinie 12.30,
+
+558
+00:42:39,500 --> 00:42:45,500
+czyli były osoby, które zażywały w pewnym momencie 150 mikrolitrów
+
+559
+00:42:45,500 --> 00:42:49,500
+tego olejku z szałwi lawendolistnej.
+
+560
+00:42:49,500 --> 00:42:54,500
+No i mamy już na początek informację, że oleja etaryczna
+
+561
+00:42:54,500 --> 00:42:59,500
+z szałwi hiszpańskiej lawendolistnej hamuje aktywność acetylocholinrazy.
+
+562
+00:42:59,500 --> 00:43:02,500
+Dlaczego? Dlaczego tak się dzieje?
+
+563
+00:43:02,500 --> 00:43:06,500
+No jak się zaraz przejrzymy, no to okaże się,
+
+564
+00:43:06,500 --> 00:43:11,500
+że tam jest dosyć sporo 1,8-cyneolu jako takiego składnika podstawowego
+
+565
+00:43:11,500 --> 00:43:17,500
+tego oleju etarycznego i temu właśnie możemy przypisać efekt działania
+
+566
+00:43:17,500 --> 00:43:20,500
+tutaj w chorobie Alzheimera.
+
+567
+00:43:20,500 --> 00:43:24,500
+I to jest taka praca bardzo mała, bo tutaj mamy 11 pacjentów,
+
+568
+00:43:24,500 --> 00:43:28,500
+czyli grupa taka bardzo symboliczna,
+
+569
+00:43:28,500 --> 00:43:33,500
+natomiast te wcześniejsze badania sugerują, że może być tak,
+
+570
+00:43:33,500 --> 00:43:37,500
+że jeśli będziemy zażywali doustnie cyneol, zresztą czy olejka eukaliptusowa,
+
+571
+00:43:37,500 --> 00:43:42,500
+a cyneol jest w aptece, to jest preparat Soledum, który ja zawsze mam w domu pod ręką,
+
+572
+00:43:42,500 --> 00:43:46,500
+bo to jest świetny preparat, jeśli chodzi o infekcje dróg oddechowych,
+
+573
+00:43:46,500 --> 00:43:51,500
+także dla mnie już tak powiem must have, bo bardzo wygodny w użyciu,
+
+574
+00:43:51,500 --> 00:43:55,500
+dobrze działa, się sprawdza też w profilaktyce.
+
+575
+00:43:55,500 --> 00:43:59,500
+Natomiast mało się o tym mówi, myślę, że to jest kwestia najbliższych lat,
+
+576
+00:43:59,500 --> 00:44:02,500
+kiedy ktoś opublikuje konkretne badania kliniczne,
+
+577
+00:44:02,500 --> 00:44:05,500
+jeśli chodzi o funkcje kognitywne i 1,8-cyneol,
+
+578
+00:44:05,500 --> 00:44:10,500
+natomiast na tą chwilę ja znam tą pracę jako taką, nazwijmy to troszeczkę pilotażową.
+
+579
+00:44:10,500 --> 00:44:14,500
+Tutaj zaobserwano istotna statystycznie istotną różnicę pomiędzy początkiem badania,
+
+580
+00:44:14,500 --> 00:44:16,500
+a czasem jego końca, czyli 6 tygodni później,
+
+581
+00:44:16,500 --> 00:44:19,500
+stwierdzono redukcję objawów neuropsychatrycznych, poprawę pamięci
+
+582
+00:44:19,500 --> 00:44:23,500
+oraz uważności u badanych osób.
+
+583
+00:44:23,500 --> 00:44:27,500
+Jeśli chodzi o ceneol, bo to akurat był olejek z szałwi lawendolisny,
+
+584
+00:44:27,500 --> 00:44:31,500
+ale sam ceneol występuje w dawkach 200 mg, macie państwo preparat w aptece.
+
+585
+00:44:31,500 --> 00:44:37,500
+Akurat na polskim rynku to znam tylko jeden, na tą chwilę ma on status leku OTC
+
+586
+00:44:37,500 --> 00:44:41,500
+i to jest soledum, to nie jest reklama, ja po prostu sama to stosuję,
+
+587
+00:44:41,500 --> 00:44:48,500
+więc dlatego pozwoliłam się podzielić nazwą też handlową tego preparatu.
+
+588
+00:44:48,500 --> 00:44:54,500
+Więc to jest ciekawostka taka, czyli krótko mówiąc za mało danych takich konkretnych,
+
+589
+00:44:54,500 --> 00:44:56,500
+żeby powiedzieć, że to naprawdę na pewno działa,
+
+590
+00:44:56,500 --> 00:45:00,500
+ale mamy te wstępne informacje, które wcześniej już przedstawiłam,
+
+591
+00:45:00,500 --> 00:45:05,500
+które sugerują, że jak najbardziej taki efekt jest prawdopodobny
+
+592
+00:45:05,500 --> 00:45:13,500
+i teraz jeszcze sobie spojrzymy na skład fitochemiczny olejków szałwiowych
+
+593
+00:45:13,500 --> 00:45:18,500
+i widzimy jak duża jest różnica pomiędzy gatunkiem szałwi,
+
+594
+00:45:18,500 --> 00:45:23,500
+który był stosowany do ust niefym badaniu, a szałwią lekarską.
+
+595
+00:45:23,500 --> 00:45:31,500
+Szałwia lekarska jako zioło, z którego przygotowywano wyciągi alkoholowe,
+
+596
+00:45:31,500 --> 00:45:37,500
+rzeczywiście ma badania kliniczne w kontekście choroby Alzheimera,
+
+597
+00:45:37,500 --> 00:45:40,500
+ale to jest cały surowiec wykorzystywany,
+
+598
+00:45:40,500 --> 00:45:44,500
+czyli mamy też kwasy fenolowe, innego rodzaju polifenole,
+
+599
+00:45:44,500 --> 00:45:46,500
+które występują w tym surowcu.
+
+600
+00:45:46,500 --> 00:45:49,500
+Natomiast jeżeli chodzi o skład olej kotrycznego, to proszę zobaczyć,
+
+601
+00:45:49,500 --> 00:45:53,500
+mamy tutaj do 50% alfatujonu, który jest generalnie neurotoksyczny
+
+602
+00:45:53,500 --> 00:46:00,500
+i dlatego szałwia lekarska jako taka, jako olejek do ust nie jest najlepszym wyborem,
+
+603
+00:46:00,500 --> 00:46:05,500
+bo jeszcze można sobie indukować nawet napady padaczkowe,
+
+604
+00:46:05,500 --> 00:46:08,500
+gdyby ktoś był podatny, bo pamiętamy o tym, że jest to możliwe,
+
+605
+00:46:08,500 --> 00:46:12,500
+bo jest to składnik o potencjale neurotoksycznym.
+
+606
+00:46:12,500 --> 00:46:15,500
+Ale jak się przyglądamy, jaki jest skład szałwii lekarskiej,
+
+607
+00:46:15,500 --> 00:46:21,500
+to proszę zobaczyć, mamy tutaj do 40% 1,8-ceneolu,
+
+608
+00:46:21,500 --> 00:46:24,500
+czyli to główny składnik tego olej kotrycznego,
+
+609
+00:46:24,500 --> 00:46:29,500
+który może być odpowiedzialny za ten prokognitywny efekt,
+
+610
+00:46:29,500 --> 00:46:37,500
+akurat w tym wypadku w grupie osób z chorobą Alzheimera.
+
+611
+00:46:37,500 --> 00:46:41,500
+To było to badanie, które przed chwileczką sobie analizowaliśmy.
+
+612
+00:46:46,500 --> 00:46:50,500
+No i mamy tutaj jeszcze taki przegląd systematyczny,
+
+613
+00:46:50,500 --> 00:46:55,500
+jeżeli chodzi o wpływ szałwii w kontekście oddziaływania na pamięć,
+
+614
+00:46:55,500 --> 00:47:00,500
+na osłabienie funkcji kognitywnych oraz w kontekście też choroby Alzheimera.
+
+615
+00:47:00,500 --> 00:47:06,500
+Więc generalnie szałwia rzeczywiście różne jej gatunki mają tutaj potencjał,
+
+616
+00:47:06,500 --> 00:47:11,500
+chociaż ja bym tutaj bardziej się w taki sposób do tego odnosiła,
+
+617
+00:47:11,500 --> 00:47:14,500
+że to też będzie zależało.
+
+618
+00:47:14,500 --> 00:47:19,500
+Czyli szałwia lekarska znana mi jest jako zioło,
+
+619
+00:47:19,500 --> 00:47:25,500
+którego ekstrakty wodnoalkoholowe były wykorzystywane w kontekście choroby Alzheimera
+
+620
+00:47:25,500 --> 00:47:28,500
+i tam odnotowano korzyści.
+
+621
+00:47:28,500 --> 00:47:34,500
+Natomiast byłabym ostrożna ze stosowaniem jej w formie inhalacyjnej.
+
+622
+00:47:34,500 --> 00:47:39,500
+Znaczy inhalacyjnej może nie, to też za chwileczkę nawet zilustruję,
+
+623
+00:47:39,500 --> 00:47:43,500
+ale w formie doustnej, bo jest ryzyka po prostu tego,
+
+624
+00:47:43,500 --> 00:47:49,500
+że skumuluje się dawka tujonów i pojawi się istotne działanie niepożądane.
+
+625
+00:47:52,500 --> 00:47:58,500
+I tak powoli zmierzając już do końca,
+
+626
+00:47:58,500 --> 00:48:06,500
+zacznijmy sobie uwagę jeszcze na inne choroby neurodegeneracyjne.
+
+627
+00:48:06,500 --> 00:48:13,500
+Powiedzieliśmy już o tym, że tutaj też mamy do czynienia na przykład
+
+628
+00:48:13,500 --> 00:48:18,500
+w chorobie Parkinsona z upośledzeniem powodzenia,
+
+629
+00:48:18,500 --> 00:48:24,500
+jako takim objawem, który związany jest z tą jednostką chorobową,
+
+630
+00:48:24,500 --> 00:48:30,500
+najczęściej wyprzedzającą rozwój choroby pełnoobjawowej.
+
+631
+00:48:30,500 --> 00:48:35,500
+I tutaj mamy interwencję trwającą 12 tygodni.
+
+632
+00:48:35,500 --> 00:48:39,500
+Dwa razy dziennie stosowano trening olfaktoryczny,
+
+633
+00:48:39,500 --> 00:48:42,500
+znany nam już ze wcześniejszych wykładów.
+
+634
+00:48:42,500 --> 00:48:47,500
+Klasyczny trening olfaktoryczny, czyli mamy zapachy,
+
+635
+00:48:47,500 --> 00:48:50,500
+gdzie tak naprawdę używano pojedynczych składników aktywnych
+
+636
+00:48:50,500 --> 00:48:53,500
+reprezentujących dany olejek eteryczny,
+
+637
+00:48:53,500 --> 00:48:59,500
+czyli był eukaliptol, był cytronellal, był eugenol z goździków
+
+638
+00:48:59,500 --> 00:49:06,500
+i jeszcze alkohol fenyloetylowy jako reprezentacja zapachu róży.
+
+639
+00:49:06,500 --> 00:49:10,500
+No i po tych 12 tygodniach, czyli mamy nie dość,
+
+640
+00:49:10,500 --> 00:49:15,500
+że klasyczny zestaw bodźcowania węchowego,
+
+641
+00:49:15,500 --> 00:49:18,500
+jeżeli chodzi o trening olfaktoryczny taki klasyczny,
+
+642
+00:49:18,500 --> 00:49:24,500
+to jeszcze dodatkowo, chociaż tutaj zawsze jest ten kontekst,
+
+643
+00:49:24,500 --> 00:49:27,500
+czy w olejku cytrynowym rzeczywiście jest cytronellal.
+
+644
+00:49:27,500 --> 00:49:30,500
+Ja tu zawsze wiem, że tu jest taki mały kwiatek,
+
+645
+00:49:30,500 --> 00:49:34,500
+jeśli chodzi o taki mały merytoryczny błąd w tych pracach
+
+646
+00:49:34,500 --> 00:49:38,500
+dotyczących treningu olfaktorycznego, jeżeli chodzi o tę wersję jego klasyczną.
+
+647
+00:49:38,500 --> 00:49:42,500
+Ale pomijając, to chodzi o cztery różne grupy zapachowe,
+
+648
+00:49:42,500 --> 00:49:46,500
+też o stymulację nerwu trójdzielnego,
+
+649
+00:49:46,500 --> 00:49:50,500
+czyli tutaj przykładowo mamy nasz eukaliptus.
+
+650
+00:49:50,500 --> 00:49:52,500
+I co się wydarzyło?
+
+651
+00:49:52,500 --> 00:49:58,500
+Po tych 12 tygodniach odnotowano istotną poprawę funkcji węchowych
+
+652
+00:49:58,500 --> 00:50:02,500
+pacjentów z chorobą Parkinsona
+
+653
+00:50:02,500 --> 00:50:09,500
+i to było zdiagnozowane odpowiednimi testami.
+
+654
+00:50:09,500 --> 00:50:15,500
+I te osoby, które nie praktykowały treningu węchowego,
+
+655
+00:50:15,500 --> 00:50:20,500
+bo była też grupa kontrolna, nie miały takiego poprawy,
+
+656
+00:50:20,500 --> 00:50:27,500
+jeśli chodzi o funkcje węchowe.
+
+657
+00:50:27,500 --> 00:50:30,500
+I to jest informacja.
+
+658
+00:50:30,500 --> 00:50:37,500
+Oczywiście wiemy, że w tym krajobrazie objawów choroby Parkinsona
+
+659
+00:50:37,500 --> 00:50:44,500
+jest deficyt powonienia, więc tutaj akurat z tego płyną takie wnioski,
+
+660
+00:50:44,500 --> 00:50:48,500
+że ten trening węchowy może poprawić wrażliwość węchową
+
+661
+00:50:48,500 --> 00:50:51,500
+u pacjentów z chorobą Parkinsona.
+
+662
+00:50:51,500 --> 00:50:53,500
+Więc troszeczkę jest tak, że to nie są takie wnioski,
+
+663
+00:50:53,500 --> 00:50:57,500
+które były wyciągane, jeżeli chodzi o pacjentów z chorobą Alzheimer'a,
+
+664
+00:50:57,500 --> 00:50:59,500
+bo tam po prostu interesowano się tym,
+
+665
+00:50:59,500 --> 00:51:03,500
+jak to wpływa na funkcje kognitywne w chorobie Parkinsona.
+
+666
+00:51:03,500 --> 00:51:07,500
+Mamy troszeczkę inny obraz, ale funkcje węchowe możemy wzmocnić
+
+667
+00:51:07,500 --> 00:51:09,500
+po prostu stosując trening węchowy.
+
+668
+00:51:09,500 --> 00:51:13,500
+I to też jest jakaś konkretna dla nas informacja.
+
+669
+00:51:13,500 --> 00:51:18,500
+Oczywiście jakość życia ma związek z funkcjami węchowymi
+
+670
+00:51:18,500 --> 00:51:20,500
+i to też jest niebagatelne.
+
+671
+00:51:20,500 --> 00:51:24,500
+Szlachetne zdrowie, nikt się nie dowie, jak o smakujesz, aż się zepsujesz,
+
+672
+00:51:24,500 --> 00:51:26,500
+to myślę, że każdy rozumie, co mam na myśli,
+
+673
+00:51:26,500 --> 00:51:29,500
+kiedy doświadczę utraty powonienia.
+
+674
+00:51:29,500 --> 00:51:34,500
+Akurat nie miałam tego doświadczenia, ale z rozmów osób,
+
+675
+00:51:34,500 --> 00:51:37,500
+bo też sporo osób się ze mną konsultowało
+
+676
+00:51:37,500 --> 00:51:44,500
+w czasach, kiedy dużo mieliśmy dookoła siebie COVID-u.
+
+677
+00:51:44,500 --> 00:51:50,500
+Więc jednak ten ubytek powonienia po prostu bardzo istotnie wpływa
+
+678
+00:51:50,500 --> 00:51:53,500
+na inne aspekty naszego życia, a na pewno na jakość naszego życia.
+
+679
+00:51:53,500 --> 00:51:59,500
+Więc to też jest zawsze wartość dodana.
+
+680
+00:52:00,500 --> 00:52:08,500
+Teraz jeszcze nieco na temat choroby, jaką jest stwardnienie rozsiane,
+
+681
+00:52:08,500 --> 00:52:13,500
+czyli kolejna jednostka chorobowa, choroba neurodegeneracyjna,
+
+682
+00:52:13,500 --> 00:52:19,500
+która też stosunkowo często występuje w naszym społeczeństwie.
+
+683
+00:52:19,500 --> 00:52:25,500
+Tutaj mamy 60 kobiet ze stwardnieniem rozsianym
+
+684
+00:52:25,500 --> 00:52:36,500
+i tutaj badano wpływ aromaterapii z użyciem olejku lawendowego,
+
+685
+00:52:36,500 --> 00:52:43,500
+analizowano między innymi pamięć roboczą u kobiet z jednostką chorobową.
+
+686
+00:52:43,500 --> 00:52:46,500
+I orientowano poprawę tej pamięci roboczej,
+
+687
+00:52:46,500 --> 00:52:51,500
+jeśli chodzi o porównanie grup przed i po interwencji,
+
+688
+00:52:51,500 --> 00:52:56,500
+tutaj grupę z aromaterapią w porównaniu do grupy placebo.
+
+689
+00:52:56,500 --> 00:53:01,500
+Więc to też jest taka ciekawostka.
+
+690
+00:53:01,500 --> 00:53:05,500
+Pacjenci byli poddawani aromaterapii dwa razy dziennie,
+
+691
+00:53:05,500 --> 00:53:07,500
+to były właściwie pacjentki,
+
+692
+00:53:07,500 --> 00:53:13,500
+przez okres dwóch tygodni podawano dwie kropelki olejku eterecznego
+
+693
+00:53:13,500 --> 00:53:17,500
+na wacik za pomocą kroplomierza.
+
+694
+00:53:17,500 --> 00:53:22,500
+Wacik był następnie umieszczony w odległości 500 cm od nosa,
+
+695
+00:53:22,500 --> 00:53:25,500
+inhalowano się przez 10 minut.
+
+696
+00:53:25,500 --> 00:53:29,500
+I w grupie placebo była stosowana woda destylowana.
+
+697
+00:53:29,500 --> 00:53:34,500
+Więc widzimy, że to jest takie bardzo proste rozwiązanie terapeutyczne
+
+698
+00:53:34,500 --> 00:53:40,500
+i znowu też jeszcze bardzo krótkie, po dwóch tygodniach już,
+
+699
+00:53:40,500 --> 00:53:44,500
+stosowania inhalacji olejku lawendowego,
+
+700
+00:53:44,500 --> 00:53:48,500
+czyli nie trzeba było dużo czasu, żeby zobaczyć te efekty.
+
+701
+00:53:48,500 --> 00:53:56,500
+Odnotowano istotną statystycznie poprawę pamięci roboczej
+
+702
+00:53:56,500 --> 00:54:00,500
+w grupie kobiet z diagnozą stwardnienia rozsiannego
+
+703
+00:54:00,500 --> 00:54:03,500
+i nie było też istotnej statystycznej różnicy przed
+
+704
+00:54:03,500 --> 00:54:05,500
+oraz po interwencji w grupie placebo.
+
+705
+00:54:05,500 --> 00:54:09,500
+Czyli tutaj gdzie była aromaterapia zauważono różnicę,
+
+706
+00:54:09,500 --> 00:54:10,500
+a w grupie placebo,
+
+707
+00:54:10,500 --> 00:54:12,500
+też możemy sobie się przyjrzeć tym wynikom.
+
+708
+00:54:12,500 --> 00:54:15,500
+Tutaj mamy przed i po.
+
+709
+00:54:15,500 --> 00:54:18,500
+I proszę zobaczyć, też jest to nasze p-value,
+
+710
+00:54:18,500 --> 00:54:22,500
+czyli wskaźnik istotności statystycznej.
+
+711
+00:54:22,500 --> 00:54:27,500
+Widzimy tutaj mamy interwencję i poprawę,
+
+712
+00:54:27,500 --> 00:54:31,500
+a tutaj ta interwencja dała jakiś rezultat,
+
+713
+00:54:31,500 --> 00:54:34,500
+ale widzimy, że jednak był on słabszy niż w tym wypadku.
+
+714
+00:54:34,500 --> 00:54:38,500
+To nie są duże zmiany, natomiast chodzi o to,
+
+715
+00:54:38,500 --> 00:54:42,500
+że one zostały już uchwycone w ciągu tak krótkiego okresu
+
+716
+00:54:42,500 --> 00:54:47,500
+stosowania aromaterapii, więc to też jest ciekawe,
+
+717
+00:54:47,500 --> 00:54:52,500
+bo zwykle ten czas powinien być troszeczkę dłuższy
+
+718
+00:54:52,500 --> 00:54:56,500
+i też jak sobie omawiamy te różne przykłady,
+
+719
+00:54:56,500 --> 00:54:57,500
+to myślę, że to zauważyliście.
+
+720
+00:54:57,500 --> 00:55:03,500
+Także bardzo rzadko taki krótki czas jest w praktyce stosowany.
+
+721
+00:55:03,500 --> 00:55:06,500
+Zwykle to jest miesiąc albo nawet trzy miesiące.
+
+722
+00:55:06,500 --> 00:55:09,500
+Tak, pamiętamy te badania dzisiaj omawiane,
+
+723
+00:55:09,500 --> 00:55:13,500
+że w pół roku eksponowano osoby starsze
+
+724
+00:55:13,500 --> 00:55:18,500
+powyżej 60 roku życia na aromaterapię
+
+725
+00:55:18,500 --> 00:55:21,500
+i oczywiście tam były ciekawe bardzo rezultaty.
+
+726
+00:55:21,500 --> 00:55:26,500
+Tak, mówię tutaj o tym badaniu, gdzie nastąpiła poprawa mikrostruktury
+
+727
+00:55:26,500 --> 00:55:31,500
+pęczka haczykowatego, czy poprawa istotna poprawa,
+
+728
+00:55:31,500 --> 00:55:39,500
+jeśli chodzi o 226% poprawa pamięci do słów,
+
+729
+00:55:39,500 --> 00:55:45,500
+powtarzanie słów z pamięci, to się bardzo ładnie tam znormalizowało.
+
+730
+00:55:45,500 --> 00:55:49,500
+No i jeszcze dwa słowa na temat dostępnych preparatów,
+
+731
+00:55:49,500 --> 00:55:56,500
+więc na dzień dzisiejszy w Polsce problem jest z olejkami eterycznymi do ust,
+
+732
+00:55:56,500 --> 00:56:01,500
+jest dostępna mięta w formie suplementów diety
+
+733
+00:56:01,500 --> 00:56:07,500
+i pamiętamy o tym, że ona właśnie ma ten potencjał,
+
+734
+00:56:07,500 --> 00:56:11,500
+żeby poprawiać funkcje kognitywne, to też sobie ilustrowaliśmy na przykładzie,
+
+735
+00:56:11,500 --> 00:56:18,500
+jak to działa w praktyce, dawka 100 mikrolitrów,
+
+736
+00:56:18,500 --> 00:56:20,500
+czyli to będą około trzy kropelki.
+
+737
+00:56:20,500 --> 00:56:25,500
+Troszeczkę jest tak, że to pewnie będzie się zmieniało w najbliższych latach,
+
+738
+00:56:25,500 --> 00:56:30,500
+w tą chwilę jeszcze nie widziałam, żeby był dostępny olejek lawendowy w kapsułkach,
+
+739
+00:56:30,500 --> 00:56:37,500
+pamiętamy, jak często ona się pojawiała w różnych naszych tutaj problemach omawianych,
+
+740
+00:56:37,500 --> 00:56:40,500
+w różnych zastosowaniach lawenda do ust nie się pojawiała,
+
+741
+00:56:40,500 --> 00:56:44,500
+szczególnie w kontekście depresji, a najbardziej to w kontekście zaburzeń lękowych.
+
+742
+00:56:44,500 --> 00:56:51,500
+Mamy preparaty niewystępujące na polskim rynku i to jest na przykład Laza,
+
+743
+00:56:51,500 --> 00:56:56,500
+czy Cann-Aid, czy E.C. Lexan, to jest preparat akurat niemiecki,
+
+744
+00:56:56,500 --> 00:57:00,500
+więc my jesteśmy w takim miejscu, że wydaje mi się,
+
+745
+00:57:00,500 --> 00:57:03,500
+że dzisiaj już na tyle te informacje zostały spopularyzowane,
+
+746
+00:57:03,500 --> 00:57:08,500
+że jest szansa, że w najbliższych latach pojawią się preparaty na rynku
+
+747
+00:57:08,500 --> 00:57:12,500
+i niekoniecznie będą to nawet supplementy diety, może jest tak,
+
+748
+00:57:12,500 --> 00:57:17,500
+że mogą się pojawić nawet leki OTC, więc to też by było bardzo fajne,
+
+749
+00:57:17,500 --> 00:57:21,500
+żeby tak się stało. Na tą chwilę jesteśmy w momencie,
+
+750
+00:57:21,500 --> 00:57:27,500
+kiedy tutaj musimy po prostu poszukać dobrego jakościowo olejki eterycznego
+
+751
+00:57:27,500 --> 00:57:29,500
+albo sprawić sobie taki parad za granicę, chociaż ja osobiście uważam,
+
+752
+00:57:29,500 --> 00:57:36,500
+że można jak najbardziej dobry jakościowy olej eteryczny tutaj znaleźć na rynku
+
+753
+00:57:36,500 --> 00:57:41,500
+od zaufanego producenta, jeśli chodzi o lawendę, czy też inne olejki eteryczne,
+
+754
+00:57:41,500 --> 00:57:48,500
+a ceneol jak najbardziej jest już w aptekach, można go kupić w formie gotowej,
+
+755
+00:57:48,500 --> 00:57:53,500
+w formie leku OTC. Także powolutku zbliżamy się do końca,
+
+756
+00:57:53,500 --> 00:57:59,500
+jeśli chodzi o nasze dzisiejsze spotkanie.
+
+757
+00:58:02,500 --> 00:58:07,500
+Wyjątkowo udało mi się tak sprawnie przejść przez cały materiał,
+
+758
+00:58:07,500 --> 00:58:09,500
+jeśli by były jeszcze jakieś pytania, o już wiem.
+
+759
+00:58:09,500 --> 00:58:13,500
+Miałam się odnieść do pytania z poprzedniego naszego spotkania
+
+760
+00:58:13,500 --> 00:58:18,500
+dotyczącego bólu głowy, bo pojawiła się tam taka wątpliwość,
+
+761
+00:58:18,500 --> 00:58:22,500
+czy w ogóle jeśli chodzi o terapię bólu głowy,
+
+762
+00:58:22,500 --> 00:58:25,500
+czy nie wiem czy osoba, która zadała to pytanie jest dzisiaj obecna,
+
+763
+00:58:25,500 --> 00:58:32,500
+ale najwyżej sobie to odsłucha, tego odsłucha, czy mamy badania neuroobrazowe
+
+764
+00:58:32,500 --> 00:58:36,500
+pokazujące zmiany na skutek interwencji na przykład aromaterapii
+
+765
+00:58:36,500 --> 00:58:40,500
+w kontekście bólów głowy. Więc tutaj jest tak, że bóle głowy,
+
+766
+00:58:40,500 --> 00:58:47,500
+które są samoistne, tak zwane pierwotne bóle głowy,
+
+767
+00:58:47,500 --> 00:58:53,500
+to są bóle głowy, które jeśli chodzi o przyczyny,
+
+768
+00:58:53,500 --> 00:58:57,500
+nie mają konkretnych korelacji, jeżeli chodzi o badania neuroobrazowe.
+
+769
+00:58:57,500 --> 00:59:00,500
+Te badania neuroobrazowe mogą mieć znaczenie,
+
+770
+00:59:00,500 --> 00:59:02,500
+jeżeli chodzi o te bóle głowy, tak zwane wtórne,
+
+771
+00:59:02,500 --> 00:59:06,500
+czyli te, które są wynikiem innych problemów na poziomie ośrodkowego,
+
+772
+00:59:06,500 --> 00:59:09,500
+okononarowego, najbardziej spektakularnym problemem
+
+773
+00:59:09,500 --> 00:59:12,500
+chociażby są zmiany rozrostowe, czyli choroba nowotworowa,
+
+774
+00:59:12,500 --> 00:59:18,500
+ale także innego rodzaju dysfunkcje, które prowadzą do pojawienia się bólów.
+
+775
+00:59:18,500 --> 00:59:22,500
+Także jeżeli chodzi o samoistne, to w badaniach neuroobrazowych nie ma,
+
+776
+00:59:22,500 --> 00:59:28,500
+przynajmniej w badaniach się tego nie robi, żeby szukać jakiejś tam analogii,
+
+777
+00:59:28,500 --> 00:59:33,500
+bo one mają inne podłoże niż typowo takie organiczne.
+
+778
+00:59:33,500 --> 00:59:38,500
+Także jeśli macie jeszcze jakieś pytania, to jest okazja,
+
+779
+00:59:38,500 --> 00:59:41,500
+żeby w tym momencie je zadać.
+
+780
+00:59:49,500 --> 00:59:57,500
+A jeśli nie, no to będziemy powolutku kończyć nasze dzisiejsze spotkanie,
+
+781
+00:59:57,500 --> 01:00:01,500
+materiały pojawią się mam nadzieję, że już jutro na platformie
+
+782
+01:00:01,500 --> 01:00:04,500
+będzie można sobie odsłuchać jeszcze raz.
+
+783
+01:00:08,500 --> 01:00:16,500
+Także to by było wszystko, jeśli chodzi o nasze szkolenie z Aroma Psychologii,
+
+784
+01:00:16,500 --> 01:00:23,500
+które zostało w takiej pigułce przedstawione na tych naszych trzech spotkaniach
+
+785
+01:00:23,500 --> 01:00:31,500
+i generalnie to jest troszeczkę tak, że na tą chwilę takie najważniejsze informacje
+
+786
+01:00:31,500 --> 01:00:36,500
+tutaj starałam się zawrzeć, chociaż też nie wszystko tak bardzo szczegółowo,
+
+787
+01:00:36,500 --> 01:00:39,500
+jak bym tego chciała, bo akurat jeśli chodzi o bezsenność,
+
+788
+01:00:39,500 --> 01:00:46,500
+to troszeczkę materiałów gdzieś tam przygotowałam i znowu nie zauważyłam,
+
+789
+01:00:46,500 --> 01:00:49,500
+że to było dedykowane na ten wykład,
+
+790
+01:00:49,500 --> 01:00:53,500
+ale jest to sporo jednak tych informacji,
+
+791
+01:00:53,500 --> 01:00:56,500
+także mam nadzieję, że jesteście usatysfakcjonowani.
+
+792
+01:00:56,500 --> 01:01:01,500
+Jeśli będą jeszcze jakieś pytania, to możecie je zadawać na platformie,
+
+793
+01:01:01,500 --> 01:01:05,500
+także dziś powolutku będziemy kończyć, widzę, że ktoś jeszcze pisze wiadomość,
+
+794
+01:01:05,500 --> 01:01:12,500
+więc poczekam aż pojawi się jeszcze może jakieś pytanie,
+
+795
+01:01:12,500 --> 01:01:18,500
+a jeśli nie, to powolutku będziemy kończyć nasze dzisiejsze spotkanie.
+
+796
+01:01:19,500 --> 01:01:35,500
+Ojeje, teraz widzę, że nie widziałam pytań.
+
+797
+01:01:35,500 --> 01:01:41,500
+O, przepraszam, bo teraz po prostu dopiero widzę, że się pojawiały pytania,
+
+798
+01:01:41,500 --> 01:01:44,500
+a ja ich po prostu nie widziałam, więc teraz postaram się do nich odnieść.
+
+799
+01:01:45,500 --> 01:01:50,500
+Tutaj trzy krople olejku pobierane w oleju w kapsułce, jak przyjmowane.
+
+800
+01:01:50,500 --> 01:01:54,500
+Jeśli chodzi o trzy krople olejku, rozumiem, że chodzi o miętę,
+
+801
+01:01:54,500 --> 01:02:00,500
+tak, można to przyjąć w kapsułce, ja może teraz wyłączę nagrywania.
+

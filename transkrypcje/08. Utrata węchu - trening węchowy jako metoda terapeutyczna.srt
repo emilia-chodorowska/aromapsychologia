@@ -1,0 +1,1740 @@
+1
+00:00:00,000 --> 00:00:12,200
+Mówiliśmy o tym troszeczkę już wcześniej, ale teraz sobie jeszcze to bardziej rozpracujemy.
+
+2
+00:00:12,200 --> 00:00:20,200
+Dzisiaj to zjawisko pojawienia się utraty węchu w kontekście COVID
+
+3
+00:00:20,200 --> 00:00:27,200
+było takim fenomenem, którym się mocno zainteresowała nauka
+
+4
+00:00:27,200 --> 00:00:35,200
+i też ten wirus miał specyficzne właściwości, czyli to nie było takie typowe zjawisko,
+
+5
+00:00:35,200 --> 00:00:40,700
+bo wiemy, że ta utrata powodzenia zachodzi często bardziej jako osłabienie może,
+
+6
+00:00:40,700 --> 00:00:45,200
+niż utrata przy infekcjach górnych drugoddechowych.
+
+7
+00:00:45,200 --> 00:00:53,200
+Natomiast tutaj pojawiła się pewna nowość, czyli mamy komórki podporowe,
+
+8
+00:00:53,200 --> 00:00:57,200
+które wcześniej już widzieliśmy, za chwileczkę pokażę znowu rysoneczki,
+
+9
+00:00:57,200 --> 00:01:00,200
+żeby to było jasne, jak to wygląda.
+
+10
+00:01:00,200 --> 00:01:05,200
+Komórki podporowe, komórki podstawne i komórki gruczołu bałmana
+
+11
+00:01:05,200 --> 00:01:09,200
+posiadają takie receptory, które umożliwiają infekcję SARS-CoV-2,
+
+12
+00:01:09,200 --> 00:01:13,200
+natomiast neurony węchowe tych specyficznych receptorów nie posiadają,
+
+13
+00:01:13,200 --> 00:01:19,200
+dlatego jest prawdopodobne, że SARS-CoV-2 infekuje głównie komórki podporowe i komórki gruczołu,
+
+14
+00:01:19,200 --> 00:01:22,200
+które znajdują się w wierzchołkowej części nabłonka.
+
+15
+00:01:22,200 --> 00:01:28,200
+Z kolei uszkodzenie komórek podporowych pośrednio prowadzi do zakłócenia
+
+16
+00:01:28,200 --> 00:01:32,200
+prawidłowego sygnalizowania zapachowego przez neurony węchowe.
+
+17
+00:01:32,200 --> 00:01:38,200
+Więc cały czas tutaj były takie hipotezy i najwięcej było takich prac wskazujących na to,
+
+18
+00:01:38,200 --> 00:01:43,200
+że główną rolę w utracie powodzenia spełniały komórki podporowe.
+
+19
+00:01:43,200 --> 00:01:45,200
+Jeszcze trochę tylko przypomnę, co są te komóreczki.
+
+20
+00:01:45,200 --> 00:01:49,200
+Tu mamy gruczoł wołmana, tutaj mamy neurony receptorowe,
+
+21
+00:01:49,200 --> 00:01:53,200
+tak zakończone właśnie rzęskami, a tutaj mamy te komóreczki,
+
+22
+00:01:53,200 --> 00:01:56,200
+które się nimi opiekują, supporting cells,
+
+23
+00:01:56,200 --> 00:02:00,200
+i to właśnie te zawierają na przykład receptory AC-2,
+
+24
+00:02:00,200 --> 00:02:05,200
+o których tak głośno było w kontekście COVID-19.
+
+25
+00:02:05,200 --> 00:02:11,200
+I tutaj neurony węchowe są podatne na salne zapalne,
+
+26
+00:02:11,200 --> 00:02:15,200
+co powoduje chwilową utratę węchu, aż do ustąpienia infekcji wirusowej
+
+27
+00:02:15,200 --> 00:02:17,200
+i uzupełnienia ich przez nowe neurony.
+
+28
+00:02:17,200 --> 00:02:20,200
+Pamiętamy, że neurony się regenerują.
+
+29
+00:02:20,200 --> 00:02:25,200
+Poziomek komórki podstawne, które są niezbędne do regeneracji nabłonka
+
+30
+00:02:25,200 --> 00:02:29,200
+po głębokich usłudzeniach, pokazują także ekspresję białek receptorowych.
+
+31
+00:02:29,200 --> 00:02:38,200
+Dlatego jest ryzyko, że te dłuższe czasy trwania anosmii
+
+32
+00:02:38,200 --> 00:02:44,200
+były związane z tym, że wirus dotarł na przykład do komórek podstawnych,
+
+33
+00:02:44,200 --> 00:02:47,200
+nie tylko do tych komórek podporowych.
+
+34
+00:02:50,200 --> 00:02:54,200
+To zdjęcie, ten slajd już był, więc to jest znowu przypomnienie,
+
+35
+00:02:54,200 --> 00:02:57,200
+jak zbudowany jest nasz nabłonek węchowy,
+
+36
+00:02:57,200 --> 00:03:05,200
+jak funkcjonuje tutaj ten nabłonek w kontekście właśnie działania
+
+37
+00:03:05,200 --> 00:03:08,200
+tych komórek też podporowych.
+
+38
+00:03:08,200 --> 00:03:17,200
+Prace ukazywały się już od samego początku, od roku 2020-2021,
+
+39
+00:03:17,200 --> 00:03:23,200
+kiedy analizowano wpływ wirusa na powonienie.
+
+40
+00:03:23,200 --> 00:03:29,200
+To był podstawowy objaw neurologiczny COVID-19, czyli najczęstszy.
+
+41
+00:03:29,200 --> 00:03:33,200
+Nie zawsze występował, ale najczęściej się pojawiał.
+
+42
+00:03:34,200 --> 00:03:37,200
+I teraz różne warianty SARS-CoV-2 powodowały
+
+43
+00:03:37,200 --> 00:03:42,200
+różną częstość występowania utraty węchu.
+
+44
+00:03:42,200 --> 00:03:50,200
+Widzimy tutaj ten pierwszy niski poziom, 10%, później mamy alfa, delta, 30-50%,
+
+45
+00:03:50,200 --> 00:03:57,200
+to jest częstość występowania anosmii i jeszcze mamy omikron, około 13%.
+
+46
+00:03:57,200 --> 00:04:05,200
+Możliwe były różne mechanizmy, one się różniły od siebie,
+
+47
+00:04:05,200 --> 00:04:10,200
+te przypadki wynikające z cech indywidualnego wirusa,
+
+48
+00:04:10,200 --> 00:04:15,200
+ale te komórki podporowe tutaj za każdym razem były uszkadzane.
+
+49
+00:04:15,200 --> 00:04:19,200
+I to jest taka nowsza praca już z 2023 roku,
+
+50
+00:04:19,200 --> 00:04:23,200
+znowu wskazująca na istotną rolę dysfunkcji węchu
+
+51
+00:04:23,200 --> 00:04:30,200
+spowodowaną przez wpływ uszkadzający na te komórki podporowe.
+
+52
+00:04:30,200 --> 00:04:35,200
+Czyli mamy tutaj już poszczególne osi czasu,
+
+53
+00:04:35,200 --> 00:04:39,200
+to zaznaczone jest na początek obecność wirusa,
+
+54
+00:04:39,200 --> 00:04:43,200
+uszkodzenie komórki podporowej,
+
+55
+00:04:43,200 --> 00:04:50,200
+następnie zaczyna się nam dzielić komórka macierzysta,
+
+56
+00:04:50,200 --> 00:04:54,200
+powstają nowe neurony i to trwa tutaj do 10 dni.
+
+57
+00:04:54,200 --> 00:04:59,200
+Ale pytanie, co jeśli ubywek węchu trwa znacznie dłużej?
+
+58
+00:04:59,200 --> 00:05:03,200
+No bo okazuje się, że oczywiście jest to możliwe
+
+59
+00:05:03,200 --> 00:05:07,200
+i temat ten też był analizowany, tutaj za chwileczkę będzie slajd,
+
+60
+00:05:07,200 --> 00:05:17,200
+u pacjentki z anosmią po infekcji COVID-19 zauważono atrofię opuszki węchowej,
+
+61
+00:05:17,200 --> 00:05:22,200
+czyli mamy poziom już wyższego piętra układu węchowego,
+
+62
+00:05:22,200 --> 00:05:26,200
+nie tylko na poziomie nabłonka węchowego zmiany zaszły,
+
+63
+00:05:26,200 --> 00:05:31,200
+ale także pojawiły się zmiany nawet takie degeneracyjne na poziomie opuszki węchowej.
+
+64
+00:05:31,200 --> 00:05:36,200
+Pytanie co dalej, czy możliwe są zmiany degeneracyjne na poziomie już układu limbicznego,
+
+65
+00:05:36,200 --> 00:05:42,200
+nawet hipokampa, bo ja się spotkałam z takimi przypadkami, bardziej to są case study,
+
+66
+00:05:42,200 --> 00:05:46,200
+że u kogoś pojawiły się objawy choroby Alzheimer'a po COVIDzie,
+
+67
+00:05:46,200 --> 00:05:51,200
+czyli wcześniej ich nie było, a tu nagle taka jakaś dziwna symptomatologia
+
+68
+00:05:51,200 --> 00:05:56,200
+i to też oczywiście jest możliwe z perspektywy naszej wiedzy takiej neurobiologicznej,
+
+69
+00:05:56,200 --> 00:06:00,200
+którą też dzisiaj tutaj już sobie zaprezentowaliśmy,
+
+70
+00:06:00,200 --> 00:06:08,200
+że w sumie jest to możliwe, skoro doszło do transmisji wirusa w układzie węchowym,
+
+71
+00:06:08,200 --> 00:06:10,200
+przez te szlaki, które my dzisiaj sobie poznaliśmy,
+
+72
+00:06:10,200 --> 00:06:14,200
+to jest to możliwe, że wirus dotarł także do hipokampa,
+
+73
+00:06:14,200 --> 00:06:17,200
+tą drogą, nawet drogą z nosa do mózgu.
+
+74
+00:06:20,200 --> 00:06:25,200
+Generalnie zaburzenia, powonienia dotyczą około połowy pacjentów,
+
+75
+00:06:25,200 --> 00:06:30,200
+tak się z danych literaturowych przedstawia sytuacja.
+
+76
+00:06:30,200 --> 00:06:36,200
+Według metaanalizy, która objęła tutaj 27 i pół tysiąca pacjentów,
+
+77
+00:06:36,200 --> 00:06:40,200
+to była analiza 83 badań klinicznych,
+
+78
+00:06:40,200 --> 00:06:48,200
+zaburzenia w węchu dotyczą około 48% chorych w przebiegu SARS-CoV-2,
+
+79
+00:06:48,200 --> 00:06:54,200
+anosmia rozwija się u 1 trzeciej, 35%, hiposmia,
+
+80
+00:06:54,200 --> 00:07:00,200
+czyli takie osłabienie powonienia u 36% i dyzosmia mu 2,5%.
+
+81
+00:07:00,200 --> 00:07:07,200
+Często występowanie tych zaburzeń charakteryzuje się dominacją kobiet
+
+82
+00:07:07,200 --> 00:07:12,200
+i teraz zwykle te objawy utrzymują się około 8-9 dni,
+
+83
+00:07:12,200 --> 00:07:14,200
+potem stopniowo węch wraca do normy,
+
+84
+00:07:14,200 --> 00:07:20,200
+natomiast jednak są przypadki, kiedy dochodzi do znacznego wydłużenia tego czasu,
+
+85
+00:07:20,200 --> 00:07:23,200
+czyli są osoby, które tracą powonienia na miesiące,
+
+86
+00:07:23,200 --> 00:07:27,200
+a nawet znacznie dłużej.
+
+87
+00:07:27,200 --> 00:07:31,200
+Porównywano też, jak to jest z utratą powonienia,
+
+88
+00:07:31,200 --> 00:07:35,200
+bo oczywiście infekcja wirusowa, taka jak grypa czy inne wirusy,
+
+89
+00:07:35,200 --> 00:07:41,200
+które my znamy już od, mamy duże doświadczenie z nimi,
+
+90
+00:07:41,200 --> 00:07:47,200
+to zwykle to jest osłabienie powonienia na skutek obrzęku,
+
+91
+00:07:47,200 --> 00:07:49,200
+ale też jest taka możliwa sytuacja,
+
+92
+00:07:49,200 --> 00:07:54,200
+że jednak grypa spowoduje bardziej zaawansowane zmiany
+
+93
+00:07:54,200 --> 00:07:58,200
+i powoduje anosmie długoterminową.
+
+94
+00:07:58,200 --> 00:08:00,200
+I procent tych przypadków jest bardzo mały,
+
+95
+00:08:00,200 --> 00:08:03,200
+to jest marginalny procent, około mniej niż 1%,
+
+96
+00:08:03,200 --> 00:08:07,200
+natomiast przy COVID-zie nawet do 70%
+
+97
+00:08:07,200 --> 00:08:11,200
+mówiliśmy, że takie szacunki są na poziomie 50%,
+
+98
+00:08:11,200 --> 00:08:15,200
+ale nawet do 70% tutaj pacjentów,
+
+99
+00:08:15,200 --> 00:08:20,200
+wg. niektórych doniesień mogło tracić powonienie.
+
+100
+00:08:20,200 --> 00:08:26,200
+I jakie są tutaj inne cechy?
+
+101
+00:08:26,200 --> 00:08:28,200
+No utrata jednoczesna smaku oczywiście,
+
+102
+00:08:28,200 --> 00:08:31,200
+początek tutaj przy COVID-zie szybki, wczesny,
+
+103
+00:08:31,200 --> 00:08:35,200
+przy grypach inne wirusy też szybki, ale nie tak dynamiczny.
+
+104
+00:08:35,200 --> 00:08:38,200
+Pofrót funkcji węchowych w większości przypadków szybki,
+
+105
+00:08:38,200 --> 00:08:43,200
+natomiast jeśli chodzi o tę utratę powonienia przy grypie innych wirusach,
+
+106
+00:08:43,200 --> 00:08:45,200
+jak powiedziałem, to nie są te przypadki,
+
+107
+00:08:45,200 --> 00:08:48,200
+kiedy dochodziło do osłabienia, tylko do utraty.
+
+108
+00:08:48,200 --> 00:08:51,200
+Tutaj jest bardzo powolny, nawet trwający lata
+
+109
+00:08:51,200 --> 00:08:56,200
+i węch wraca u 66%.
+
+110
+00:08:56,200 --> 00:08:58,200
+Płatć oraz zależności wiekowe
+
+111
+00:08:58,200 --> 00:09:01,200
+u młodszych pacjentów z łagodniejszym przebiegiem choroby.
+
+112
+00:09:01,200 --> 00:09:08,200
+Tutaj grypa inne wirusy, częściej to dotyczyło też kobiet 45-65 lat.
+
+113
+00:09:08,200 --> 00:09:15,200
+I tutaj zalecany generalnie jest na dzień dzisiejszy trening węchowy.
+
+114
+00:09:15,200 --> 00:09:18,200
+Często też pojawiają się leki sterydowe.
+
+115
+00:09:18,200 --> 00:09:21,200
+Leki sterydowe to jest domena dla lekarza
+
+116
+00:09:21,200 --> 00:09:24,200
+i ja się na ten temat nie wypowiadam,
+
+117
+00:09:24,200 --> 00:09:27,200
+natomiast ja wiem, że na pewno warto wprowadzić
+
+118
+00:09:27,200 --> 00:09:31,200
+trening olfaktoryczny jako celowaną terapię
+
+119
+00:09:31,200 --> 00:09:36,200
+przyspieszającą powrót funkcji węchowych.
+
+120
+00:09:36,200 --> 00:09:40,200
+Tutaj podsumowanie informacji, które już wielokrotnie powtarzałam.
+
+121
+00:09:40,200 --> 00:09:43,200
+Zaburzenia zamysłów węchu i smaku przy zakażeniu koronawirusem
+
+122
+00:09:43,200 --> 00:09:47,200
+mają odmienny przebieg niż w przypadku grypy czy przedsięwienia.
+
+123
+00:09:47,200 --> 00:09:50,200
+Wiele infekcji wirusowych powoduje niedrożność nosa,
+
+124
+00:09:50,200 --> 00:09:53,200
+przekrwienie i wyciek, utrudniając w ten sposób
+
+125
+00:09:53,200 --> 00:09:56,200
+dostęp molekuł zapachowych do napłonka czuciowego
+
+126
+00:09:56,200 --> 00:09:59,200
+oraz wiązanie substancji zapachowych z receptorami.
+
+127
+00:09:59,200 --> 00:10:03,200
+U dużej części pacjentów z anosmią w przebiegu COVID
+
+128
+00:10:03,200 --> 00:10:06,200
+jednak nie występuje wcale przekrwienie, błony śluzowej,
+
+129
+00:10:06,200 --> 00:10:08,200
+niedrożność lub wyciek z nosa.
+
+130
+00:10:08,200 --> 00:10:11,200
+Pacjenci ci nie wykazują znaczącego obrzęku nosa
+
+131
+00:10:11,200 --> 00:10:15,200
+na zdjęciach radiologicznych, natomiast tam, tak jak widzieliśmy wcześniej,
+
+132
+00:10:15,200 --> 00:10:20,200
+może dochodzić do uszkodzenia komórek podporowych,
+
+133
+00:10:20,200 --> 00:10:26,200
+które opiekują się neuronami i tym samym do destrukcji też neuronów później.
+
+134
+00:10:26,200 --> 00:10:29,200
+No i trening węchowy.
+
+135
+00:10:29,200 --> 00:10:33,200
+Trening węchowy jako metoda terapeutyczna.
+
+136
+00:10:33,200 --> 00:10:39,200
+Już o tym wspominałam, ale jeszcze raz tą definicję tutaj przywołam.
+
+137
+00:10:39,200 --> 00:10:45,200
+Trening węchowy to jest powtarzalna i ustrukturyzowana ekspozycja
+
+138
+00:10:45,200 --> 00:10:51,200
+na zapach różnych substancji przez długi okres czasu.
+
+139
+00:10:51,200 --> 00:10:55,200
+Pamiętamy to badanie, gdzie mieliśmy pacjentów z padaczką,
+
+140
+00:10:55,200 --> 00:10:57,200
+które dzisiaj zostało przywołane,
+
+141
+00:10:57,200 --> 00:11:06,200
+gdzie interwencja trwała przez, jeśli dobrze pamiętam, 3 miesiące.
+
+142
+00:11:06,200 --> 00:11:10,200
+3 miesiące to jest taki czas, który trzeba sobie założyć minimum
+
+143
+00:11:10,200 --> 00:11:13,200
+dla treningu węchowego.
+
+144
+00:11:13,200 --> 00:11:18,200
+Więc to jest ten długi okres czasu i mamy różne substancje.
+
+145
+00:11:18,200 --> 00:11:22,200
+Tam akurat w tym ujęciu, przy tej padaczce była tylko lawenda lekarska
+
+146
+00:11:22,200 --> 00:11:26,200
+i to nazwano treningiem węchowym, natomiast w praktyce nie jest to klasyczny
+
+147
+00:11:26,200 --> 00:11:29,200
+taki trening węchowy zgodnie z definicją.
+
+148
+00:11:29,200 --> 00:11:37,200
+Co jest tutaj ważne? Należy wybierać zapachy z kategorii różnych odorantów.
+
+149
+00:11:37,200 --> 00:11:42,200
+To jest jedna z cech, jeśli chodzi o dobór zapachów,
+
+150
+00:11:42,200 --> 00:11:44,200
+bo możecie Państwo później się sugerować,
+
+151
+00:11:44,200 --> 00:11:46,200
+no dobrze, ale ja muszę mieć olejek różany,
+
+152
+00:11:46,200 --> 00:11:48,200
+bo to było w klasycznym treningu węchowym.
+
+153
+00:11:48,200 --> 00:11:51,200
+Nie, nie jest potrzebne olejek różany, chociaż rzeczywiście widzę,
+
+154
+00:11:51,200 --> 00:11:55,200
+że tam są takie zestawy do aromaterapii, do treningu węchowego,
+
+155
+00:11:55,200 --> 00:11:57,200
+gdzie ta róża się pojawia.
+
+156
+00:11:57,200 --> 00:12:00,200
+Teraz chodzi o to, że mają być różne kategorie odorantów,
+
+157
+00:12:00,200 --> 00:12:03,200
+różne grupy zapachowe, na przykład nuty światowe, owocowe,
+
+158
+00:12:03,200 --> 00:12:07,200
+aromatyczne, korzenne czy żywicze i w większości protokołów,
+
+159
+00:12:07,200 --> 00:12:10,200
+i uważam, że to się też najbardziej sprawdza w życiu,
+
+160
+00:12:10,200 --> 00:12:13,200
+pacjenci wąchają odoranty co najmniej dwa razy na dzień.
+
+161
+00:12:13,200 --> 00:12:17,200
+Te dwa razy na dzień, rano i wieczorem, to jest taka dobra formuła, dobra praktyka.
+
+162
+00:12:17,200 --> 00:12:21,200
+Czas trwania kuracji może wynosić od 10 do 56 tygodni,
+
+163
+00:12:21,200 --> 00:12:25,200
+czyli 3 miesiące do ponad rok i wąchanie jednego zapachu,
+
+164
+00:12:25,200 --> 00:12:28,200
+różne czasy, najczęściej około 20 sekund.
+
+165
+00:12:28,200 --> 00:12:33,200
+Pomiędzy odmiennymi zapachami robimy sobie przerwę i wąchamy kolejny.
+
+166
+00:12:33,200 --> 00:12:37,200
+Trening węchowy może być stosowany tylko w infekcjach,
+
+167
+00:12:37,200 --> 00:12:43,200
+ale u wszystkich pacjentów z utratą węchu, niezależnie od etiologii.
+
+168
+00:12:43,200 --> 00:12:48,200
+No i kolejna ważna cecha treningu zapachowego,
+
+169
+00:12:48,200 --> 00:12:52,200
+najlepiej jest używać zapachów, które znamy i pamiętamy.
+
+170
+00:12:52,200 --> 00:12:55,200
+I ta pamięć szczególnie jest dla nas ważna,
+
+171
+00:12:55,200 --> 00:13:00,200
+ta znajomość tego zapachu w kontekście praktyki, kiedy jeszcze nic nie czujemy.
+
+172
+00:13:00,200 --> 00:13:06,200
+Wtedy mamy taką formułę, że np. wącham sobie,
+
+173
+00:13:06,200 --> 00:13:09,200
+pomarańcza się dobrze sprawdza, bo wszyscy ją znają,
+
+174
+00:13:09,200 --> 00:13:15,200
+najczęściej ją lubią, więc u dzieci też często się wykorzystuje np. grafiki,
+
+175
+00:13:15,200 --> 00:13:18,200
+czyli pomarańcza na obrazku,
+
+176
+00:13:18,200 --> 00:13:22,200
+ale my kiedy nic nie czujemy, też mamy np. buteleczkę czy słoiczek
+
+177
+00:13:22,200 --> 00:13:26,200
+oznaczony kolorem pomarańczowym i wiemy, że to jest pomarańcza
+
+178
+00:13:26,200 --> 00:13:30,200
+i wtedy, albo możemy sobie nawet zdjęcie zrobić z pomarańczych obrazek,
+
+179
+00:13:30,200 --> 00:13:36,200
+pamięć węchowa u nas pracuje, bo na poziomie nabłonka węchowego
+
+180
+00:13:36,200 --> 00:13:39,200
+może się jeszcze nic nie dziać, jeszcze jest za wcześnie,
+
+181
+00:13:39,200 --> 00:13:41,200
+żeby doszły jakieś istotne zmiany,
+
+182
+00:13:41,200 --> 00:13:48,200
+ale już uruchamiamy wyższe piętra układu węchowego.
+
+183
+00:13:48,200 --> 00:13:53,200
+Czy powinno się dobierać olejki tak, aby nie kumulować danych
+
+184
+00:13:53,200 --> 00:13:57,200
+takich samych substancji zawartych w olejku i takich samych właściwości?
+
+185
+00:13:57,200 --> 00:14:01,200
+To znaczy kumulacja jest innym tematem,
+
+186
+00:14:01,200 --> 00:14:05,200
+bo pojawienie się molekuł tych samych jest bardzo prawdopodobne,
+
+187
+00:14:05,200 --> 00:14:09,200
+czyli np. pinenów, czyli na lolu,
+
+188
+00:14:09,200 --> 00:14:12,200
+natomiast rzeczywiście jeżeli weźmiemy sobie miętę,
+
+189
+00:14:12,200 --> 00:14:17,200
+eukaliptusa, cytrus jakiś i goździk, to są to inne grupy zapachowe po prostu,
+
+190
+00:14:17,200 --> 00:14:22,200
+chociaż zawsze warto, żeby w zestawie do treningu olfaktorycznego
+
+191
+00:14:22,200 --> 00:14:25,200
+był olejek na nerw trójdzielny,
+
+192
+00:14:25,200 --> 00:14:28,200
+czyli nie tylko nerw węchowy, ale nerw trójdzielny,
+
+193
+00:14:28,200 --> 00:14:31,200
+zapachy bimodalne też czasami tak ukoślamy,
+
+194
+00:14:31,200 --> 00:14:35,200
+będziemy o tym jeszcze mówić później na kolejnym naszym spotkaniu,
+
+195
+00:14:35,200 --> 00:14:41,200
+czyli istotnym elementem też procesowania informacji węchowych
+
+196
+00:14:41,200 --> 00:14:43,200
+jest działanie na nerw trójdzielny,
+
+197
+00:14:43,200 --> 00:14:47,200
+więc dobrze, żeby w treningu węchowym był też taki olej,
+
+198
+00:14:47,200 --> 00:14:51,200
+który stymuluje nerw trójdzielny, czyli mięta albo eukaliptus.
+
+199
+00:14:51,200 --> 00:14:58,200
+Więc generalnie różne grupy zapachowe i dominujące składniki powinny być inne,
+
+200
+00:14:58,200 --> 00:15:03,200
+natomiast mogą się pewne substancje nakładać,
+
+201
+00:15:03,200 --> 00:15:07,200
+bo tak jak mówiliśmy, to są setki substancji w tych olejkach czasami,
+
+202
+00:15:07,200 --> 00:15:12,200
+więc nie wykluczymy takiej możliwości, że zresztą się tam nałoży.
+
+203
+00:15:12,200 --> 00:15:17,200
+A właściwości, różne grupy zapachowe, to jest najważniejsze, grupy zapachowe,
+
+204
+00:15:17,200 --> 00:15:21,200
+bo właściwości, jeżeli sobie porównamy, załóżmy eukaliptusa z goździkiem,
+
+205
+00:15:21,200 --> 00:15:24,200
+oczywiście są zupełnie inne właściwości,
+
+206
+00:15:24,200 --> 00:15:27,200
+natomiast każdy z tych olejków ma właściwości przeciwdrobnoustrojowe,
+
+207
+00:15:27,200 --> 00:15:29,200
+więc musimy też mieć jakiś zdrowy rozsądek,
+
+208
+00:15:29,200 --> 00:15:32,200
+wszystkie olejki tak naprawdę mają właściwości przeciwdrobnoustrojowe,
+
+209
+00:15:32,200 --> 00:15:35,200
+więc jeżeli byśmy brali pod uwagę takie właściwości,
+
+210
+00:15:35,200 --> 00:15:38,200
+to oczywiście nam to się nie sprawdzi,
+
+211
+00:15:38,200 --> 00:15:41,200
+a z drugiej strony jeżeli byśmy widzieli wpływ na układ nerwowy,
+
+212
+00:15:41,200 --> 00:15:45,200
+to taka mięta też podnosi trochę nastrój, poprawia funkcje kognitywne,
+
+213
+00:15:45,200 --> 00:15:49,200
+cytrusy podnoszą nastrój, więc mamy jakieś podobne właściwości,
+
+214
+00:15:49,200 --> 00:15:53,200
+ale też inne mechanizmy działania, więc różne grupy zapachowe,
+
+215
+00:15:53,200 --> 00:15:57,200
+to jest chyba najbardziej istotny wariant, jeżeli chodzi o dobór,
+
+216
+00:15:58,200 --> 00:16:03,200
+cecha tych olejków, które sobie wybieramy,
+
+217
+00:16:03,200 --> 00:16:06,200
+intensywne zapachy, różne grupy zapachowe,
+
+218
+00:16:06,200 --> 00:16:09,200
+klasyczny trening olfaktoryczny,
+
+219
+00:16:09,200 --> 00:16:15,200
+tutaj często też był stosowany pojedynczy związek z danego olejku,
+
+220
+00:16:15,200 --> 00:16:18,200
+czyli eukaliptol, eugenol, fenyloetyna, etanol,
+
+221
+00:16:18,200 --> 00:16:23,200
+no i ja też tutaj pokazałam znak za pytanie,
+
+222
+00:16:23,200 --> 00:16:26,200
+bo w klasycznym treningu był cytronelol,
+
+223
+00:16:26,200 --> 00:16:30,200
+to była reprezentacja dla zapachu cytryny
+
+224
+00:16:30,200 --> 00:16:35,200
+i nie znajdziemy jednak cytronelolu w olejku cytrynowym,
+
+225
+00:16:35,200 --> 00:16:39,200
+więc też jak czytamy różne opracowania,
+
+226
+00:16:39,200 --> 00:16:42,200
+to musimy mieć świadomość, że czasami się pojawiają jakieś błędy,
+
+227
+00:16:42,200 --> 00:16:45,200
+może być mięta, pomarańcza, cynamon, wanilia,
+
+228
+00:16:45,200 --> 00:16:49,200
+chociaż cynamon jest takim stoskowo jednak łagodnym zapachem,
+
+229
+00:16:50,200 --> 00:16:54,200
+natomiast ten klasyczny zestaw,
+
+230
+00:16:54,200 --> 00:16:57,200
+ja bym tutaj zmodyfikowała o tą różę,
+
+231
+00:16:57,200 --> 00:16:59,200
+która jest dla nas trudno dostępna,
+
+232
+00:16:59,200 --> 00:17:03,200
+po prostu jest kosztowna, też jakby kupujemy często olejki różane, rozcieńczone,
+
+233
+00:17:03,200 --> 00:17:06,200
+a tutaj potrzebujemy jednak pewnej intensywności,
+
+234
+00:17:06,200 --> 00:17:09,200
+dlatego że na początku w ogóle będzie trudno uzyskać
+
+235
+00:17:09,200 --> 00:17:12,200
+jakiekolwiek wrażenie olfaktoryczne.
+
+236
+00:17:12,200 --> 00:17:14,200
+Klasyczny trening olfaktoryczny,
+
+237
+00:17:14,200 --> 00:17:19,200
+czyli taka baza wyjściowa do naszych tutaj też modyfikacji,
+
+238
+00:17:19,200 --> 00:17:26,200
+4 różne zapachy, 2 razy dziennie, rurze, eukalipsus, cytryna, goździki,
+
+239
+00:17:26,200 --> 00:17:32,200
+tutaj też wykorzystywano często brązowe słoiki
+
+240
+00:17:32,200 --> 00:17:38,200
+jako takie sposoby na to,
+
+241
+00:17:38,200 --> 00:17:41,200
+żeby zwiększyć pole powierzchni wokół źródła zapachu,
+
+242
+00:17:41,200 --> 00:17:44,200
+czyli headspace,
+
+243
+00:17:44,200 --> 00:17:47,200
+no i też oczywiście jeżeli codziennie praktykujemy taki trening,
+
+244
+00:17:47,200 --> 00:17:53,200
+no to otwieranie buteleczki 2 razy dziennie
+
+245
+00:17:53,200 --> 00:18:00,200
+jest po prostu też jakimś rodzajem negatywnego działania na olej getteryczny,
+
+246
+00:18:00,200 --> 00:18:03,200
+więc też można po prostu, to jest kolejny argument,
+
+247
+00:18:03,200 --> 00:18:08,200
+żeby posługiwać się jednak słoiczkiem do aromaterapii
+
+248
+00:18:08,200 --> 00:18:18,200
+i wąchanie, tak jak mówiłam, około 20 sekund, minimum 10 na dany zapach.
+
+249
+00:18:18,200 --> 00:18:23,200
+Trening olfaktoryczny to nie tylko musi być taka klasyczna wersja,
+
+250
+00:18:23,200 --> 00:18:27,200
+czyli olejki, teraz jest czas, kiedy nagrywamy to spotkanie,
+
+251
+00:18:27,200 --> 00:18:29,200
+kiedy jesteśmy tutaj na żywo,
+
+252
+00:18:29,200 --> 00:18:32,200
+czas, kiedy zaczyna kwitnąć właśnie bez lilak,
+
+253
+00:18:32,200 --> 00:18:34,200
+który znajduje się tutaj na slajdzie
+
+254
+00:18:34,200 --> 00:18:36,200
+i to jest bardzo intensywny zapach
+
+255
+00:18:36,200 --> 00:18:39,200
+i polecam takie praktyki olfaktoryczne na spacerach,
+
+256
+00:18:39,200 --> 00:18:42,200
+żeby sobie wąchać, niektórzy bardzo cenią sobie wąchanie ziemi,
+
+257
+00:18:42,200 --> 00:18:47,200
+wąchanie różnych kwiatów, ale też szczególnie takich bardzo intensywnych,
+
+258
+00:18:47,200 --> 00:18:54,200
+bo to jest właśnie taka praktyka też o charakterze treningu olfaktorycznego.
+
+259
+00:18:54,200 --> 00:18:59,200
+W praktyce wykorzystujemy, tak jak mówiłam, zapachy, które znamy, lubimy,
+
+260
+00:18:59,200 --> 00:19:03,200
+tak żeby można było też po prostu pracować z pamięcią i wyobraźnią zapachową,
+
+261
+00:19:03,200 --> 00:19:08,200
+można zastosować więcej olejków oraz więcej rund zapachowych w ciągu dnia
+
+262
+00:19:08,200 --> 00:19:13,200
+i różne tutaj warianty, jeśli chodzi o też zamienniki,
+
+263
+00:19:13,200 --> 00:19:17,200
+eukaliptus, rozmaryn, mięta pieprzowa, goździk,
+
+264
+00:19:17,200 --> 00:19:20,200
+tutaj alternatywa, cynamon czy wanilia,
+
+265
+00:19:20,200 --> 00:19:26,200
+róża, może mieć alternatywę ilang ilang, neroli czy też olejek,
+
+266
+00:19:26,200 --> 00:19:32,200
+często najczęściej był wykorzystany jako alternatywa róży, olejek geraniowy.
+
+267
+00:19:32,200 --> 00:19:38,200
+No i zapach kwiatowy, tutaj alternatywy, różne warianty,
+
+268
+00:19:38,200 --> 00:19:44,200
+też jako propozycja do eksploracji.
+
+269
+00:19:44,200 --> 00:19:49,200
+Inne zapachy kwiatowe, lilek pospolity właśnie teraz,
+
+270
+00:19:49,200 --> 00:19:54,200
+fiołek wonny, konwalia majowa, bezczarny, tuperoza czy też lili.
+
+271
+00:19:54,200 --> 00:20:02,200
+Oczywiście można się bawić zapachem w różnych też wariantach,
+
+272
+00:20:02,200 --> 00:20:07,200
+jeśli chodzi o praktykę aromaterapii, przygotować jakieś wyciągi,
+
+273
+00:20:07,200 --> 00:20:13,200
+ekstrakty na wanianie, czyli metoda en florage,
+
+274
+00:20:13,200 --> 00:20:18,200
+też jak ktoś lubi się bawić, można sobie przygotować takie sposoby
+
+275
+00:20:18,200 --> 00:20:25,200
+na zamknięcie zapachu, że tak powiem, w jakimś nośniku, w jakimś tłuszczu.
+
+276
+00:20:25,200 --> 00:20:30,200
+Słoiczek z ciemnego szkła zakręcany, najlepsza wersja,
+
+277
+00:20:30,200 --> 00:20:33,200
+czyli niekoniecznie ta buteleczka z olejem eterycznym,
+
+278
+00:20:33,200 --> 00:20:36,200
+tak jak mówiłam, dzięki temu uzyskujemy większą przestrzeń
+
+279
+00:20:36,200 --> 00:20:39,200
+wokół źródła zapachu, gdzie znajdują się odoranty.
+
+280
+00:20:39,200 --> 00:20:44,200
+Do środka możemy włożyć papier absorbujący olejek, taki papier na przykład akwarelowy,
+
+281
+00:20:44,200 --> 00:20:48,200
+i na słoiczek 30 mililitrów czy 15, bo sprawdzałam te dwa warianty
+
+282
+00:20:48,200 --> 00:20:53,200
+i oba warianty są w porządku, chociaż wiem, że mamy takich ludzi,
+
+283
+00:20:53,200 --> 00:20:56,200
+którzy się w tym treningu olfaktorycznym wyspecjalizowali,
+
+284
+00:20:56,200 --> 00:21:01,200
+oni tam fachowcy używają 30, ale ja wiem, że 15 też się dobrze sprawdza.
+
+285
+00:21:01,200 --> 00:21:06,200
+4-8 kropli olejku na słoiczek i teraz technika.
+
+286
+00:21:06,200 --> 00:21:13,200
+Jeżeli chcemy wprowadzić powietrze w obszar pola węchowego,
+
+287
+00:21:13,200 --> 00:21:19,200
+potrzebne są nam małe wdechy, krótkie, małe wdechy,
+
+288
+00:21:19,200 --> 00:21:21,200
+to to, że możecie sobie teraz przypraktykować,
+
+289
+00:21:21,200 --> 00:21:23,200
+co zrobić, żeby powietrze zostało skierowane tutaj,
+
+290
+00:21:23,200 --> 00:21:29,200
+bo jeżeli robimy taki wdech głęboki do układu oddechowego,
+
+291
+00:21:29,200 --> 00:21:33,200
+to powietrze troszeczkę nam omija to pole węchowe,
+
+292
+00:21:33,200 --> 00:21:40,200
+jest mniej molekuł w kontekście obszaru, gdzie znajduje się pole węchowe,
+
+293
+00:21:40,200 --> 00:21:46,200
+więc potrzebujemy robić takie wdechy kierujące to powietrze do nabłonka węchowego.
+
+294
+00:21:46,200 --> 00:21:49,200
+Mam nadzieję, że to jest jasne, że wszyscy już to przepraktykowali,
+
+295
+00:21:49,200 --> 00:21:53,200
+poczuli, że tak, to jest właśnie ten kierunek.
+
+296
+00:21:53,200 --> 00:21:58,200
+No i słoiczki przechowujemy w zacienionym miejscu,
+
+297
+00:21:58,200 --> 00:22:02,200
+oczywiście to może być jakieś opakowanie, pudełeczko,
+
+298
+00:22:02,200 --> 00:22:05,200
+czyli najczęściej jest tak, jeżeli robimy to rano wieczorem,
+
+299
+00:22:05,200 --> 00:22:09,200
+to jest stolik przy łóżku, który ma lampkę nocną
+
+300
+00:22:09,200 --> 00:22:13,200
+i jeżeli ta lampka nam cały czas doświetla słoiczki,
+
+301
+00:22:13,200 --> 00:22:17,200
+to lepiej, żeby to było w jakimś pudełeczku i nie przy grzejniku,
+
+302
+00:22:17,200 --> 00:22:30,200
+bo też chcemy trochę ograniczać procesy oksydacji olejków w naszych słoiczkach.
+
+303
+00:22:30,200 --> 00:22:36,200
+Co jest jeszcze ważne, stan umysłu podczas treningu.
+
+304
+00:22:36,200 --> 00:22:40,200
+Dlatego rano i wieczorem, bo to są też często pory dnia,
+
+305
+00:22:40,200 --> 00:22:43,200
+kiedy mamy taką przestrzeń na wyciszenie i skupienie,
+
+306
+00:22:43,200 --> 00:22:46,200
+chociaż u każdego będzie to indywidualnie,
+
+307
+00:22:46,200 --> 00:22:50,200
+więc potrzebne jest wejście troszeczkę w taką praktykę medytacyjną.
+
+308
+00:22:50,200 --> 00:22:54,200
+Dlaczego? Dlatego, że szczególnie na początku,
+
+309
+00:22:54,200 --> 00:22:58,200
+kiedy jeszcze nic nie czujemy,
+
+310
+00:22:58,200 --> 00:23:00,200
+potrzebujemy szczególnie pracować właśnie z pamięcią,
+
+311
+00:23:00,200 --> 00:23:05,200
+z wyobraźnią zapachową i te warunki są tutaj szczególnie ważne.
+
+312
+00:23:05,200 --> 00:23:07,200
+W badaniach na osóbach starszych wygadano,
+
+313
+00:23:07,200 --> 00:23:11,200
+że trening węchowy może poprawiać nastrój oraz funkcje kognitywne.
+
+314
+00:23:11,200 --> 00:23:14,200
+Ja też o tym mówiłam na webinarze
+
+315
+00:23:14,200 --> 00:23:17,200
+i to jest też taki bardzo ciekawy kontekst,
+
+316
+00:23:17,200 --> 00:23:22,200
+jeżeli chodzi o wartość praktyczną treningu węchowego,
+
+317
+00:23:22,200 --> 00:23:25,200
+poza przywracaniem funkcji węchowych.
+
+318
+00:23:25,200 --> 00:23:28,200
+Tutaj też ważne jest to, żeby prowadzić dzienniczek,
+
+319
+00:23:28,200 --> 00:23:32,200
+czyli kiedy pojawiają się dziwne zapachy, kiedy pojawia się ta parozmia.
+
+320
+00:23:32,200 --> 00:23:34,200
+Ten dzienniczek jest też bardzo ważny,
+
+321
+00:23:34,200 --> 00:23:37,200
+żeby monitorować efekty treningu olfaktorycznego,
+
+322
+00:23:37,200 --> 00:23:41,200
+bo tak jak już wielokrotnie powtarzałam, potrzebna jest nam też cierpliwość.
+
+323
+00:23:41,200 --> 00:23:43,200
+Terapia powinna trwać długofalowo,
+
+324
+00:23:43,200 --> 00:23:46,200
+nie należy się zniechętać po miesiącu,
+
+325
+00:23:46,200 --> 00:23:49,200
+jeśli nie ma żadnych rezultatów, poprawa może przyjść po czterech miesiącach,
+
+326
+00:23:49,200 --> 00:23:51,200
+a nawet po dwóch latach.
+
+327
+00:23:51,200 --> 00:23:54,200
+To te dwa lata to już jest taka skrajność,
+
+328
+00:23:54,200 --> 00:23:58,200
+ale chodzi o to, że mogą być nawet takie sytuacje.
+
+329
+00:23:58,200 --> 00:24:01,200
+Nawet jeśli nie czujesz zapachu w twoim mózgu,
+
+330
+00:24:01,200 --> 00:24:06,200
+obserwuje się odpowiedź w pierwszorzędowej korze węchowej.
+
+331
+00:24:06,200 --> 00:24:10,200
+I obok samego wąchania ważne jest także praca mentalna,
+
+332
+00:24:10,200 --> 00:24:15,200
+czyli wyobraźnia zapachowa, myślenie o zapach.
+
+333
+00:24:15,200 --> 00:24:19,200
+Ponieważ stymulacja neuronów węchowych wydłuża czas ich przeżycia,
+
+334
+00:24:19,200 --> 00:24:23,200
+warto wąchać jak najwięcej różnych zapachów podczas dnia
+
+335
+00:24:23,200 --> 00:24:29,200
+jako wariant praktyki ogólnie zabawy z węchem,
+
+336
+00:24:29,200 --> 00:24:34,200
+jako też wariant wspierania naszych funkcji kognitywnych
+
+337
+00:24:34,200 --> 00:24:37,200
+i poprawy wpływu na nastrój.
+
+338
+00:24:37,200 --> 00:24:40,200
+To wiemy też, że są takie dodatkowe efekty
+
+339
+00:24:40,200 --> 00:24:45,200
+towarzyszące treningowi węchowemu.
+
+340
+00:24:45,200 --> 00:24:49,200
+Autorem, który jest dla nas pionierem
+
+341
+00:24:49,200 --> 00:24:51,200
+jeśli chodzi o zaprojektowanie treningu węchowego,
+
+342
+00:24:51,200 --> 00:24:56,200
+ale także też autorem wielu prac klinicznych na temat treningu węchowego
+
+343
+00:24:56,200 --> 00:25:04,200
+jest Thomas Hamel, który tutaj m.in. sugerował,
+
+344
+00:25:04,200 --> 00:25:08,200
+że takie trening węchowy może trwać 12 tygodni.
+
+345
+00:25:08,200 --> 00:25:13,200
+To jest częsty czas trwania badań klinicznych.
+
+346
+00:25:13,200 --> 00:25:18,200
+Tak jak mówiłam, dwa razy dziennie, cztery intensywne zapachy.
+
+347
+00:25:18,200 --> 00:25:22,200
+Tutaj akurat ten zestaw, o którym wcześniej było na slajdzie,
+
+348
+00:25:22,200 --> 00:25:28,200
+alkohol fenel oetylowy, eukaliptol, cytrynelol i eugenol z goździków.
+
+349
+00:25:33,200 --> 00:25:36,200
+Może jednak uda nam się skończyć tutaj.
+
+350
+00:25:36,200 --> 00:25:40,200
+W kontekście COVID oczywiście analizowano wpływ treningu węchowego
+
+351
+00:25:40,200 --> 00:25:46,200
+i tutaj badano jakie są efekty,
+
+352
+00:25:46,200 --> 00:25:54,200
+też kiedy łączy się trening węchowy z lekami sterydowymi,
+
+353
+00:25:54,200 --> 00:25:58,200
+bo one też często są wykorzystane właśnie przy zaburzeniach powłonienia.
+
+354
+00:25:58,200 --> 00:26:03,200
+Była też duża metaanaliza przegląd systematyczny
+
+355
+00:26:03,200 --> 00:26:15,200
+i mamy istotną poprawę jeśli chodzi o powirusową utratę dysfunkcji powłonienia
+
+356
+00:26:15,200 --> 00:26:20,200
+przy zastosowaniu treningu węchowego.
+
+357
+00:26:20,200 --> 00:26:24,200
+Na dzień dzisiejszy te dowody naukowe przemawiają,
+
+358
+00:26:24,200 --> 00:26:32,200
+że trening węchowy ma istotną wartość terapeutyczną.
+
+359
+00:26:32,200 --> 00:26:42,200
+Tutaj była jeszcze grupa, gdzie stosowano trening węchowy oraz miejscowo steryd.
+
+360
+00:26:42,200 --> 00:26:48,200
+Brak różnic między tymi dwoma grupami, były trzy tygodnie terapii.
+
+361
+00:26:57,200 --> 00:27:04,200
+Takie klasyczne podejścia, terapia lekiem sterydowym może mieć alternatywne.
+
+362
+00:27:05,200 --> 00:27:11,200
+Tutaj jeśli chodzi o olejki eteryczne, one są lotne.
+
+363
+00:27:11,200 --> 00:27:21,200
+Ta lotność zależy od danych molekuł, czyli eugenol nie będzie tak bardzo lotny,
+
+364
+00:27:21,200 --> 00:27:25,200
+on jest troszeczkę cięższym molekułom, ale też nie będzie tak bardzo oksydował.
+
+365
+00:27:25,200 --> 00:27:31,200
+Są olejki, które łatwiej oksydują.
+
+366
+00:27:31,200 --> 00:27:35,200
+Cytrusy do takich olejków należą.
+
+367
+00:27:35,200 --> 00:27:39,200
+Eugenol będzie dużo bardziej stabilny, więc to jest troszeczkę bardziej złożony temat.
+
+368
+00:27:39,200 --> 00:27:45,200
+Natomiast ja bym tak raz na tydzień te olejki wymieniała średnio.
+
+369
+00:27:45,200 --> 00:27:51,200
+A moc oczywiście będzie też wynikać z tego, że po prostu ulatują.
+
+370
+00:27:51,200 --> 00:27:57,200
+Tak więc tak naprawdę dobrze by było mieć osobę, która skontroluje nasze słoiczki,
+
+371
+00:27:57,200 --> 00:28:03,200
+jeżeli my nic nie czujemy, to żeby był ktoś, kto zobaczy, czy nadal wszystko ładnie pachnie.
+
+372
+00:28:03,200 --> 00:28:13,200
+Jest taki prosty test na to, jak są bardzo lotne molekuły olejkowe.
+
+373
+00:28:13,200 --> 00:28:19,200
+Test karką papieru. Myślę, że każdy, kto dłużej praktykuje aromaterapię geozna doskonale.
+
+374
+00:28:19,200 --> 00:28:23,200
+Jest też taki test pokazujący nam ciężar molekuł,
+
+375
+00:28:23,200 --> 00:28:29,200
+czyli od razu widzimy troszeczkę taką chemię olejków weterycznych na papierze,
+
+376
+00:28:29,200 --> 00:28:35,200
+ale przy okazji jest to też taki test, taki bardzo podstawowy test na zafałszowanie olejków weterycznych.
+
+377
+00:28:35,200 --> 00:28:41,200
+Czyli jeżeli nałożymy olejek na kartkę papieru i tam jest tłusta plama,
+
+378
+00:28:41,200 --> 00:28:45,200
+a nie ma to ustalnienia w składzie chemicznym tego olejku,
+
+379
+00:28:45,200 --> 00:28:48,200
+czyli na przykład nie jest to olejk ilang-ilang, który zawiera benzyl, a sam benzyl,
+
+380
+00:28:48,200 --> 00:28:52,200
+że plama świadczy o zanieczyszczeniu, to taka jeszcze dodatkowa informacja.
+
+381
+00:28:52,200 --> 00:28:54,200
+Na przykład olejem tłustym.
+
+382
+00:28:54,200 --> 00:29:02,200
+Więc tutaj jest to zależne od olejku, ale myślę, że raz na tydzień można by było wymienić takie olejki.
+
+383
+00:29:02,200 --> 00:29:07,200
+I też w przypadku tych oksydujących olejków ja bym jeszcze wymyła mydłem,
+
+384
+00:29:07,200 --> 00:29:11,200
+dlatego że taka pomarańcza nam może zoksydować już przy takiej ekspozycji,
+
+385
+00:29:11,200 --> 00:29:17,200
+bo jednak nie było dużo, jest powietrza w słoiczku i jest tam ekspozycja na tlen atmosferyczny.
+
+386
+00:29:17,200 --> 00:29:21,200
+Trening węchowy poprawia funkcje kognitywne.
+
+387
+00:29:21,200 --> 00:29:31,200
+I tutaj mamy taką pracę, tu jest współpraca polskiej autorki Anny Oleszkiewicz z Tomasem Hamelem.
+
+388
+00:29:31,200 --> 00:29:39,200
+Szczególnie zauważono wpływ na taką płynność semantyczną, werbalną,
+
+389
+00:29:39,200 --> 00:29:46,200
+czyli formułowanie wypowiedzi, czy mowa jest płynna, że jakoś nie utyka,
+
+390
+00:29:46,200 --> 00:29:50,200
+że jest taka zwinna i giętka.
+
+391
+00:29:50,200 --> 00:29:54,200
+To też możemy sobie to poprawić za pomocą treningu olfaktorycznego.
+
+392
+00:29:58,200 --> 00:30:02,200
+I tutaj trening olfaktoryczny w poinfekcyjnej utracie węchu,
+
+393
+00:30:02,200 --> 00:30:05,200
+tabelka z metaanalizy, która była wcześniej prezentowana,
+
+394
+00:30:05,200 --> 00:30:09,200
+na czas trwania treningu węchowego, tak jak mówiłam, minimum 3 miesiące,
+
+395
+00:30:09,200 --> 00:30:15,200
+do 14 miesięcy, czyli do średnio roku z małym tutaj zawiasem,
+
+396
+00:30:15,200 --> 00:30:20,200
+ale widzimy tą długoterminowość tej praktyki.
+
+397
+00:30:20,200 --> 00:30:27,200
+I kod oznacza classical olfactory training, czyli klasyczny trening olfaktoryczny.
+
+398
+00:30:27,200 --> 00:30:34,200
+Też były modyfikacje, czyli mod, zmodyfikowany trening olfaktoryczny.
+
+399
+00:30:36,200 --> 00:30:39,200
+Obszary mózgu pacjentów z idiopatycznym zaburzeniem węchu,
+
+400
+00:30:39,200 --> 00:30:41,200
+u których doszło do zwiększenia objętości istoty szarej
+
+401
+00:30:41,200 --> 00:30:43,200
+pod wpływem treningu olfaktorycznego.
+
+402
+00:30:43,200 --> 00:30:45,200
+To, co chciałabym, żeby zapamiętać, to przede wszystkim to,
+
+403
+00:30:45,200 --> 00:30:48,200
+że trening węchowy po prostu zwiększa objętość istoty szarej
+
+404
+00:30:48,200 --> 00:30:54,200
+pod wpływem ekspozycji na bodźce węchowe, tak, to się odbywa.
+
+405
+00:30:54,200 --> 00:31:00,200
+I od razu przypominam, że widzieliśmy też taki slajd na dzisiejszym spotkaniu,
+
+406
+00:31:00,200 --> 00:31:06,200
+gdzie anosmia powodowała utratę istoty szarej, tak,
+
+407
+00:31:06,200 --> 00:31:12,200
+czyli widzimy przeciwstawny efekt do konsekwencji utraty powonienia, tak,
+
+408
+00:31:12,200 --> 00:31:15,200
+dlaczego warto praktykować trening węchowy.
+
+409
+00:31:15,200 --> 00:31:18,200
+Mam nadzieję, że to jest przekonujący argument.
+
+410
+00:31:18,200 --> 00:31:26,200
+I tu jest źródło literaturowe i nawiązanie do tego właśnie wcześniejszego slajdu,
+
+411
+00:31:26,200 --> 00:31:30,200
+więc ja widzę, że to jest ostatni slajd w tej prezentacji,
+
+412
+00:31:30,200 --> 00:31:33,200
+więc udało nam się dzisiaj dobrnąć do końca.
+
+413
+00:31:33,200 --> 00:31:38,200
+Mamy zbudowane solidne podstawy, jeśli chodzi o dalsze,
+
+414
+00:31:38,200 --> 00:31:44,200
+już takie bardziej kliniczne zastosowania aromaterapii.
+
+415
+00:31:44,200 --> 00:31:50,200
+I będziemy to, co się pojawiło na tym module, oczywiście dalej rozwijać, tak,
+
+416
+00:31:50,200 --> 00:31:54,200
+zaczniemy od kwestii wpływu na układ limbiczny,
+
+417
+00:31:54,200 --> 00:32:02,200
+wpływu na procesowanie, regulację emocji, tak,
+
+418
+00:32:02,200 --> 00:32:07,200
+to się pojawi jako pierwsze sekretnie na naszym kolejnym spotkaniu za dwa tygodnie.
+
+419
+00:32:07,200 --> 00:32:12,200
+Natomiast na dzień dzisiejszy mamy zrealizowany cały program,
+
+420
+00:32:12,200 --> 00:32:16,200
+więc nie będzie tutaj dodatkowych jeszcze materiałów.
+
+421
+00:32:16,200 --> 00:32:21,200
+Jeśli są jeszcze jakieś pytania, to w tym momencie jest na to czas,
+
+422
+00:32:21,200 --> 00:32:26,200
+że będziemy powolutku kończyć. Dzisiaj już jest 21.40, więc bardzo późno.
+
+423
+00:32:26,200 --> 00:32:32,200
+Czas na regenerację, może też aromaterapię.
+
+424
+00:32:32,200 --> 00:32:38,200
+Jeśli ktoś ma ochotę, to też można sobie popraktykować, tak,
+
+425
+00:32:38,200 --> 00:32:41,200
+dlaczego to będziemy sobie jeszcze wyjaśniać,
+
+426
+00:32:41,200 --> 00:32:45,200
+ale też już na wykładzie, na webinarze mówiliśmy o tym,
+
+427
+00:32:45,200 --> 00:32:52,200
+że na przykład dwie godziny w ciągu nocy już długoterminowo stosowane,
+
+428
+00:32:52,200 --> 00:32:56,200
+czyli na przykład przez sześć miesięcy, może zmieniać strukturę naszego mózgu
+
+429
+00:32:56,200 --> 00:33:00,200
+w taki sposób, że poprawia się łączność pomiędzy układem limbicznym a korą mózgową.
+
+430
+00:33:00,200 --> 00:33:05,200
+Tak więc jest dużo powodów, dla których warto, więc zachęcam do praktyki,
+
+431
+00:33:05,200 --> 00:33:09,200
+ale też przede wszystkim do przyjemności, do czerwania przyjemności z praktyki aromaterapii,
+
+432
+00:33:09,200 --> 00:33:16,200
+bo jest to jeden z elementów, a często nawet warunków skuteczności terapeutycznej.
+
+433
+00:33:16,200 --> 00:33:20,200
+Także za dzisiaj, dzisiejsze spotkanie już bardzo dziękuję
+
+434
+00:33:20,200 --> 00:33:24,200
+i życzę dobrej nocy.
+
+435
+00:33:24,200 --> 00:33:29,200
+I ponieważ widzę, że nie ma już pytań, to mogę wyłączyć nagrywanie.
+
