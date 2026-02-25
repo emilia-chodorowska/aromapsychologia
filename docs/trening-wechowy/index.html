@@ -394,17 +394,21 @@
       letter-spacing: -0.02em;
     }
     .mobile-landing .ml-title .sage { color: var(--sage); }
-    .mobile-landing .pdf-viewer {
+    .mobile-landing .slide-scroll {
       flex: 1;
       width: 100%;
-      border: 1px solid var(--border);
+      overflow-y: auto;
+      -webkit-overflow-scrolling: touch;
       border-radius: 12px;
-      overflow: hidden;
+      border: 1px solid var(--border);
+      background: #f3f4f6;
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
     }
-    .mobile-landing .pdf-viewer iframe {
+    .mobile-landing .slide-scroll img {
       width: 100%;
-      height: 100%;
-      border: none;
+      display: block;
     }
     .mobile-landing .ml-footer {
       display: flex;
@@ -485,11 +489,23 @@
       <img class="logo" src="img/aromagic_logo.png" alt="Aromagic" style="filter: brightness(0) saturate(100%) invert(58%) sepia(20%) saturate(450%) hue-rotate(93deg) brightness(93%) contrast(85%);" />
       <span class="ml-title"><span class="sage">Trening węchowy</span> — Aromagic</span>
     </div>
-    <div class="pdf-viewer">
-      <iframe src="https://drive.google.com/file/d/19fHW0Y-PwlV5iiRrESLbMPkTTXnGqtlq/preview" allow="autoplay"></iframe>
+    <div class="slide-scroll">
+      <img src="slides/slide-01.jpg" alt="Slajd 1" />
+      <img src="slides/slide-02.jpg" alt="Slajd 2" />
+      <img src="slides/slide-03.jpg" alt="Slajd 3" />
+      <img src="slides/slide-04.jpg" alt="Slajd 4" />
+      <img src="slides/slide-05.jpg" alt="Slajd 5" />
+      <img src="slides/slide-06.jpg" alt="Slajd 6" />
+      <img src="slides/slide-07.jpg" alt="Slajd 7" />
+      <img src="slides/slide-08.jpg" alt="Slajd 8" />
+      <img src="slides/slide-09.jpg" alt="Slajd 9" />
+      <img src="slides/slide-10.jpg" alt="Slajd 10" />
+      <img src="slides/slide-11.jpg" alt="Slajd 11" />
+      <img src="slides/slide-12.jpg" alt="Slajd 12" />
+      <img src="slides/slide-13.jpg" alt="Slajd 13" />
     </div>
     <div class="ml-footer">
-      <a class="pdf-btn" href="https://drive.google.com/file/d/19fHW0Y-PwlV5iiRrESLbMPkTTXnGqtlq/view" target="_blank">
+      <a class="pdf-btn" href="./Trening%20Wechowy%20%E2%80%94%20Aromagic.pdf" download>
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
         Pobierz PDF
       </a>
