@@ -383,8 +383,9 @@
     }
     .rotate-hint svg { width: 48px; height: 48px; opacity: 0.5; }
     .rotate-hint p { font-size: 15px; margin: 0; }
+    .rotate-hint.dismissed { display: none !important; }
     @media screen and (max-aspect-ratio: 4/3) {
-      .rotate-hint { display: flex; }
+      .rotate-hint:not(.dismissed) { display: flex; }
     }
 
     /* Title slide special */
@@ -426,7 +427,7 @@
   </style>
 </head>
 <body>
-  <div class="rotate-hint" onclick="this.style.display='none'">
+  <div class="rotate-hint" onclick="this.classList.add('dismissed')">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M4 17V7a2 2 0 012-2h12a2 2 0 012 2v10a2 2 0 01-2 2H6a2 2 0 01-2-2z"/><path d="M9 21h6M12 19v2"/></svg>
     <p>Obróć telefon do widoku poziomego</p>
   </div>
