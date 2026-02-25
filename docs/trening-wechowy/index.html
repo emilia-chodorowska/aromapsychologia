@@ -358,24 +358,11 @@
       max-width: none !important;
     }
 
-    /* Progress & slide number */
-    .reveal .slide-number {
-      color: var(--text-muted);
-      font-family: "Inter", sans-serif;
-      font-size: 11px;
-    }
     .reveal .progress { color: var(--sage); height: 3px; }
 
     /* Hide UI controls in print/PDF */
     @media print {
-      .reveal .slide-number,
       .reveal .progress,
-      .reveal .controls { display: none !important; }
-    }
-
-    /* Hide slide number and controls on mobile */
-    @media screen and (max-width: 1024px) {
-      .reveal .slide-number,
       .reveal .controls { display: none !important; }
     }
 
@@ -711,7 +698,6 @@
   <script>
     Reveal.initialize({
       hash: true,
-      slideNumber: true,
       width: 1280,
       height: 720,
       margin: 0,
